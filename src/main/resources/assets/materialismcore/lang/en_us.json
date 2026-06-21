@@ -1,0 +1,5 @@
+{
+  "block.materialismcore.galvanic_cell": "Galvanic Cell",
+  "itemGroup.materialismcore": "Materialism Core",
+  "tooltip.materialismcore.energy": "Energy: %d / %d FE"
+}

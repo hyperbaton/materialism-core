@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "materialismcore:block/galvanic_cell/block"
+    }
+  }
+}
