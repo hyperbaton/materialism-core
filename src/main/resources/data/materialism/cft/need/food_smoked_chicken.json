@@ -1,0 +1,24 @@
+{
+  "id": "materialism:food_smoked_chicken",
+  "type": "cft:goods",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 1,
+  "satisfaction_threshold": 0.5,
+	"item": {
+		"type": "tfc:not_rotten",
+		"ingredient": {
+			"type": "tfc:has_trait",
+			"trait": "firmalife:smoked",
+			"ingredient": {
+				"type": "tfc:has_trait",
+				"trait": "tfc:salted",
+				"ingredient": {
+					"item": "tfc:food/cooked_chicken"
+				}
+			}
+		}
+	},
+  "frequency": 1,
+  "quantity": 1
+}

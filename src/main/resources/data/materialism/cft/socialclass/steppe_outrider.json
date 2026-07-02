@@ -1,0 +1,55 @@
+{
+  "id": "materialism:steppe_outrider",
+  "maxHappiness": 20.0,
+  "matingHappinessThreshold": 15.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:home_steppe_outrider",
+    "materialism:heating_charcoal",
+    "materialism:clothing_wool_torso",
+    "materialism:clothing_wool_legs",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_feet",
+    "materialism:drink_vodka",
+    "materialism:food_dairy_soup",
+    "materialism:food_toast_with_butter"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:steppe_kinlord",
+      "requiredHappiness": 10.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_steppe",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_steppe",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:steppe_clansman",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_steppe",
+          "satisfactionThreshold": 0.80
+        },
+        {
+          "need": "cft:rainfall_steppe",
+          "satisfactionThreshold": 0.80
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

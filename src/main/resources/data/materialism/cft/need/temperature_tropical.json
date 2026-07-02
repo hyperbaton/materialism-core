@@ -1,0 +1,21 @@
+{
+  "id": "materialism:temperature_tropical",
+  "type": "cftfc:temperature",
+  "damage": 1.0,
+  "damage_threshold": 0.75,
+  "provided_happiness": 0,
+  "satisfaction_threshold": 0.9,
+  "frequency": 0.25,
+  "min_average_temperature": 18,
+  "max_average_temperature": 50,
+  "seasonal_limits": {
+    "min_spring_temperature": -50.0,
+    "max_spring_temperature": 50.0,
+    "min_summer_temperature": -50.0,
+    "max_summer_temperature": 50.0,
+    "min_fall_temperature": -50.0,
+    "max_fall_temperature": 50.0,
+    "min_winter_temperature": -50.0,
+    "max_winter_temperature": 50.0
+  }
+}

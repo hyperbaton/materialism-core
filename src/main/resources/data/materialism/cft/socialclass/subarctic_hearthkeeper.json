@@ -1,0 +1,54 @@
+{
+  "id": "materialism:subarctic_hearthkeeper",
+  "maxHappiness": 15.0,
+  "matingHappinessThreshold": 10.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_subarctic",
+    "materialism:rainfall_subarctic",
+    "materialism:home_subarctic_hearthkeeper",
+    "materialism:heating_sticks",
+    "materialism:clothing_wool_torso",
+    "materialism:clothing_wool_legs",
+    "materialism:clothing_medium_hide",
+    "materialism:drink_goat_milk",
+    "materialism:food_rye_bread",
+    "materialism:food_brined_carrot"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:subarctic_trailwarden",
+      "requiredHappiness": 7.5,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_subarctic",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_subarctic",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:subarctic_tundrafellow",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_subarctic",
+          "satisfactionThreshold": 0.80
+        },
+        {
+          "need": "cft:rainfall_subarctic",
+          "satisfactionThreshold": 0.80
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "type": "cft:house",
+  "id": "materialism:temperate_arbiter_house",
+  "key_block_tag": "minecraft:doors",
+  "max_users": 1,
+  "requires_container": true,
+  "priority": 0,
+  "floorBlocks": [
+    {
+      "block": "rnr:rock/flagstones/marble",
+      "minQuantity": 150,
+      "maxQuantity": 200,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/chiseled/marble",
+      "minQuantity": 60,
+      "maxQuantity": 90,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "wallBlocks": [
+    {
+      "tagBlock": "tfc:colored_raw_alabaster",
+      "minQuantity": 60,
+      "maxQuantity": 90,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:colored_bricks_alabaster",
+      "minQuantity": 180,
+      "maxQuantity": 250,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:colored_polished_alabaster",
+      "minQuantity": 10,
+      "maxQuantity": 50,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:encased_fluid_pipe",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "interiorBlocks": [
+    {
+      "block": "minecraft:air",
+      "minQuantity": 0,
+      "maxQuantity": 500,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:barrels",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:fluid_tank",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:chute",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:portable_storage_interface",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:temperate_arbiter_furniture_scribing_tables",
+      "minQuantity": 1,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:temperate_arbiter_furniture_modern_chairs",
+      "minQuantity": 4,
+      "maxQuantity": 12,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:temperate_arbiter_furniture_wardrobes",
+      "minQuantity": 10,
+      "maxQuantity": 20,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:temperate_arbiter_furniture_bookshelves",
+      "minQuantity": 15,
+      "maxQuantity": 20,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "roofBlocks": [
+    {
+      "block": "rnr:terracotta_roof",
+      "minQuantity": 210,
+      "maxQuantity": 290,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ]
+}

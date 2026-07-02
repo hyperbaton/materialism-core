@@ -1,0 +1,121 @@
+{
+  "type": "cft:house",
+  "id": "materialism:steppe_kinlord_house",
+  "key_block_tag": "minecraft:doors",
+  "max_users": 1,
+  "requires_container": true,
+  "priority": 0,
+  "floorBlocks": [
+    {
+      "block": "rnr:rock/sett_road/phyllite",
+      "minQuantity": 90,
+      "maxQuantity": 120,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/cobble/phyllite",
+      "minQuantity": 45,
+      "maxQuantity": 60,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "wallBlocks": [
+    {
+      "tagBlock": "materialism:steppe_kinlord_wood_logs",
+      "minQuantity": 25,
+      "maxQuantity": 35,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/smooth/phyllite",
+      "minQuantity": 40,
+      "maxQuantity": 80,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/bricks/phyllite",
+      "minQuantity": 10,
+      "maxQuantity": 50,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:encased_fluid_pipe",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "forge:glass",
+      "minQuantity": 12,
+      "maxQuantity": 20,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "interiorBlocks": [
+    {
+      "block": "minecraft:air",
+      "minQuantity": 0,
+      "maxQuantity": 200,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:barrels",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:fluid_tank",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:chute",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:portable_storage_interface",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:steppe_kinlord_furniture_tables",
+      "minQuantity": 2,
+      "maxQuantity": 6,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:steppe_kinlord_furniture_chairs",
+      "minQuantity": 6,
+      "maxQuantity": 10,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "roofBlocks": [
+    {
+      "tagBlock": "materialism:steppe_kinlord_wood_shingles",
+      "minQuantity": 135,
+      "maxQuantity": 180,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ]
+}

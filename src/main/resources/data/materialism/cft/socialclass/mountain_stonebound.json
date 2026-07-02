@@ -1,0 +1,40 @@
+{
+  "id": "materialism:mountain_stonebound",
+  "maxHappiness": 10.0,
+  "matingHappinessThreshold": 5.0,
+  "spontaneouslySpawnPopulation": 3,
+  "needs": [
+    "materialism:altitude_mountain",
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:home_mountain_stonebound",
+    "materialism:heating_sticks",
+    "materialism:clothing_wool_torso",
+    "materialism:clothing_wool_legs",
+    "materialism:drink_water",
+    "materialism:food_maize_flatbread"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:mountain_cliffdweller",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:mountain_stonebound",
+          "percentage": 0.30
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

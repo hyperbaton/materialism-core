@@ -1,0 +1,16 @@
+{
+  "id": "materialism:food_cookie_dough_ice_cream",
+  "type": "cft:goods",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 1,
+  "satisfaction_threshold": 0.5,
+  "item": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "firmalife:food/cookie_dough_ice_cream"
+    }
+  },
+  "frequency": 1,
+  "quantity": 1
+}

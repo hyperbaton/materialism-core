@@ -1,0 +1,10 @@
+{
+  "id": "materialism:home_steppe_great_rider",
+  "type": "cft:home",
+  "damage": 0.05,
+  "damage_threshold": 0.05,
+  "provided_happiness": 1,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "required_structure": "materialism:steppe_great_rider_house"
+}

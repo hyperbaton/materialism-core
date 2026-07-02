@@ -1,0 +1,40 @@
+{
+  "id": "materialism:mountain_stormcaller",
+  "maxHappiness": 1000.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_mountain",
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:home_mountain_stormcaller",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_corn_whiskey",
+    "materialism:food_nachos",
+    "materialism:food_vintage_rajya_metok",
+    "materialism:food_strawberry_ice_cream"
+  ],
+  "upgrades": [
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:mountain_skyforged",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

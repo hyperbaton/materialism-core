@@ -1,0 +1,57 @@
+﻿{
+    "id":  "materialism:tropical_raincaller",
+    "maxHappiness":  50.0,
+    "matingHappinessThreshold":  2000.0,
+    "spontaneouslySpawnPopulation":  0,
+    "needs":  [
+                  "materialism:altitude_lowlands",
+                  "materialism:temperature_tropical",
+                  "materialism:rainfall_tropical",
+                  "materialism:home_tropical_raincaller",
+                  "materialism:heating_charcoal",
+                  "materialism:clothing_burlap_head",
+                  "materialism:clothing_burlap_feet",
+                  "materialism:drink_sake",
+                  "materialism:food_fruit_salad",
+                  "materialism:food_fresh_gouda",
+                  "materialism:food_smoked_duck"
+              ],
+    "upgrades":  [
+                     {
+                         "nextClass":  "materialism:tropical_feathered_noble",
+                         "requiredHappiness":  25.0,
+                         "requiredNeeds":  [
+                                               {
+                                                   "need":  "cft:temperature_tropical",
+                                                   "satisfactionThreshold":  0.90
+                                               },
+                                               {
+                                                   "need":  "cft:rainfall_tropical",
+                                                   "satisfactionThreshold":  0.90
+                                               }
+                                           ],
+                         "socialStructureRequirements":  [
+
+                                                         ]
+                     }
+                 ],
+    "downgrades":  [
+                       {
+                           "nextClass":  "materialism:tropical_councilor",
+                           "requiredHappiness":  10.0,
+                           "requiredNeeds":  [
+                                                 {
+                                                     "need":  "cft:temperature_tropical",
+                                                     "satisfactionThreshold":  0.90
+                                                 },
+                                                 {
+                                                     "need":  "cft:rainfall_tropical",
+                                                     "satisfactionThreshold":  0.90
+                                                 }
+                                             ],
+                           "socialStructureRequirements":  [
+
+                                                           ]
+                       }
+                   ]
+}

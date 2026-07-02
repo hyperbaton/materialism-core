@@ -1,0 +1,54 @@
+{
+  "id": "materialism:mountain_cliffdweller",
+  "maxHappiness": 15.0,
+  "matingHappinessThreshold": 10.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_mountain",
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:home_mountain_cliffdweller",
+    "materialism:heating_sticks",
+    "materialism:clothing_wool_torso",
+    "materialism:clothing_wool_legs",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_feet",
+    "materialism:drink_yak_milk",
+    "materialism:food_maize_bread",
+    "materialism:food_brined_red_bell_pepper"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:mountain_deepdelver",
+      "requiredHappiness": 7.5,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+	}
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:mountain_stonebound",
+      "requiredHappiness": 2.5,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.80
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.80
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

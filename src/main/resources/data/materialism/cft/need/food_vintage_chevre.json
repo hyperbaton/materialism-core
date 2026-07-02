@@ -1,0 +1,20 @@
+{
+	"id": "materialism:food_vintage_chevre",
+	"type": "cft:goods",
+	"damage": 0.5,
+	"damage_threshold": 0.25,
+	"provided_happiness": 1,
+	"satisfaction_threshold": 0.5,
+	"item": {
+		"type": "tfc:not_rotten",
+		"ingredient": {
+			"type": "tfc:has_trait",
+			"trait": "firmalife:vintage",
+			"ingredient": {
+				"item": "firmalife:food/chevre"
+			}
+		}
+	},
+	"frequency": 1,
+	"quantity": 1
+}

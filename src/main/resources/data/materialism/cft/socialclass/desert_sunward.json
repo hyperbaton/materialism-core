@@ -1,0 +1,39 @@
+﻿{
+    "id":  "materialism:desert_sunward",
+    "maxHappiness":  1000.0,
+    "matingHappinessThreshold":  2000.0,
+    "spontaneouslySpawnPopulation":  0,
+    "needs":  [
+                  "materialism:altitude_lowlands",
+                  "materialism:temperature_desert",
+                  "materialism:rainfall_desert",
+                  "materialism:home_desert_sunward",
+                  "materialism:heating_diesel",
+                  "materialism:drink_pina_colada",
+                  "materialism:food_rye_bread_jam_sandwich",
+                  "materialism:food_vintage_feta",
+                  "materialism:food_banana_split"
+              ],
+    "upgrades":  [
+
+                 ],
+    "downgrades":  [
+                       {
+                           "nextClass":  "materialism:desert_dune_elder",
+                           "requiredHappiness":  100.0,
+                           "requiredNeeds":  [
+                                                 {
+                                                     "need":  "cft:temperature_desert",
+                                                     "satisfactionThreshold":  0.90
+                                                 },
+                                                 {
+                                                     "need":  "cft:rainfall_desert",
+                                                     "satisfactionThreshold":  0.90
+                                                 }
+                                             ],
+                           "socialStructureRequirements":  [
+
+                                                           ]
+                       }
+                   ]
+}

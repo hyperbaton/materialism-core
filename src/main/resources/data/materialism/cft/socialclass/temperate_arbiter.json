@@ -1,0 +1,40 @@
+{
+  "id": "materialism:temperate_lawmaker",
+  "maxHappiness": 1000.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_temperate",
+    "materialism:rainfall_temperate",
+    "materialism:home_temperate_lawmaker",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_beer",
+    "materialism:food_cooked_lasagna",
+    "materialism:food_vintage_cheddar",
+    "materialism:food_chocolate_ice_cream"
+  ],
+  "upgrades": [
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:temperate_lawmaker",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_temperate",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_temperate",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

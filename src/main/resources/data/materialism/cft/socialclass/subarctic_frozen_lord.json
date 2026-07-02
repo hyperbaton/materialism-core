@@ -1,0 +1,40 @@
+{
+  "id": "materialism:subarctic_frozen_lord",
+  "maxHappiness": 1000.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_subarctic",
+    "materialism:rainfall_subarctic",
+    "materialism:home_subarctic_frozen_lord",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_rye_whiskey",
+    "materialism:food_pasta_with_tomato_sauce",
+    "materialism:food_vintage_chevre",
+    "materialism:food_pumpkin_pie"
+  ],
+  "upgrades": [
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:subarctic_frostborn",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_subarctic",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_subarctic",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

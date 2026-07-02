@@ -1,0 +1,38 @@
+﻿{
+    "id":  "materialism:tropical_sun_blessed",
+    "maxHappiness":  1000.0,
+    "matingHappinessThreshold":  2000.0,
+    "spontaneouslySpawnPopulation":  0,
+    "needs":  [
+                  "materialism:altitude_lowlands",
+                  "materialism:temperature_tropical",
+                  "materialism:rainfall_tropical",
+                  "materialism:home_tropical_sun_blessed",
+                  "materialism:heating_diesel",
+                  "materialism:drink_aged_sake",
+                  "materialism:food_taco",
+                  "materialism:food_vintage_gouda"
+              ],
+    "upgrades":  [
+
+                 ],
+    "downgrades":  [
+                       {
+                           "nextClass":  "materialism:tropical_feathered_noble",
+                           "requiredHappiness":  100.0,
+                           "requiredNeeds":  [
+                                                 {
+                                                     "need":  "cft:temperature_tropical",
+                                                     "satisfactionThreshold":  0.90
+                                                 },
+                                                 {
+                                                     "need":  "cft:rainfall_tropical",
+                                                     "satisfactionThreshold":  0.90
+                                                 }
+                                             ],
+                           "socialStructureRequirements":  [
+
+                                                           ]
+                       }
+                   ]
+}

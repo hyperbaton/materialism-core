@@ -1,0 +1,11 @@
+{
+  "id": "materialism:clothing_leather_head",
+  "type": "cft:goods",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 1,
+  "satisfaction_threshold": 0.5,
+  "item": { "item": "tfcambiental:straw_hat" },
+  "frequency": 10,
+  "quantity": 1
+}

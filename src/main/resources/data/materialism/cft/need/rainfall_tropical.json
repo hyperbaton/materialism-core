@@ -1,0 +1,11 @@
+{
+  "id": "materialism:rainfall_tropical",
+  "type": "cftfc:rainfall",
+  "damage": 1.0,
+  "damage_threshold": 0.75,
+  "provided_happiness": 0,
+  "satisfaction_threshold": 0.9,
+  "frequency": 0.25,
+  "min_rainfall": 300,
+  "max_rainfall": 500
+}

@@ -1,0 +1,55 @@
+{
+  "id": "materialism:desert_sandborn",
+  "maxHappiness": 15.0,
+  "matingHappinessThreshold": 10.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:home_desert_sandborn",
+    "materialism:heating_sticks",
+    "materialism:clothing_burlap_torso",
+    "materialism:clothing_burlap_legs",
+    "materialism:clothing_burlap_head",
+    "materialism:clothing_burlap_feet",
+    "materialism:drink_goat_milk",
+    "materialism:food_oat_bread",
+    "materialism:food_brined_green_bean"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:desert_waterkeeper",
+      "requiredHappiness": 7.5,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_desert",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_desert",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:desert_wayfarer",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_desert",
+          "satisfactionThreshold": 0.80
+        },
+        {
+          "need": "cft:rainfall_desert",
+          "satisfactionThreshold": 0.80
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

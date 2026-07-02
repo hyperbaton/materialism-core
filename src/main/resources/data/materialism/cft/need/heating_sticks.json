@@ -1,0 +1,13 @@
+{
+  "id": "materialism:heating_sticks",
+  "type": "cft:goods",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 1,
+  "satisfaction_threshold": 0.5,
+  "item": {
+    "item": "tfc:stick_bundle"
+  },
+  "frequency": 1,
+  "quantity": 1
+}

@@ -1,0 +1,55 @@
+{
+  "id": "materialism:desert_waterkeeper",
+  "maxHappiness": 20.0,
+  "matingHappinessThreshold": 15.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:home_desert_waterkeeper",
+    "materialism:heating_charcoal",
+    "materialism:clothing_burlap_torso",
+    "materialism:clothing_burlap_legs",
+    "materialism:clothing_burlap_head",
+    "materialism:clothing_burlap_feet",
+    "materialism:drink_rum",
+    "materialism:food_grain_salad",
+    "materialism:food_toast_with_jam"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:desert_trade_lord",
+      "requiredHappiness": 10.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_desert",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_desert",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:desert_sandborn",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_desert",
+          "satisfactionThreshold": 0.80
+        },
+        {
+          "need": "cft:rainfall_desert",
+          "satisfactionThreshold": 0.80
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

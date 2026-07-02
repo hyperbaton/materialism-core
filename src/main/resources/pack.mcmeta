@@ -4,5 +4,33 @@
       "text": "${mod_id} resources"
     },
     "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "cft",
+        "path": "cft/socialclass/.*"
+      },
+      {
+        "namespace": "cft",
+        "path": "cft/need/.*"
+      },
+      {
+        "namespace": "cft",
+        "path": "cft/structure/.*"
+      },
+      {
+        "namespace": "cftfc",
+        "path": "cft/socialclass/.*"
+      },
+      {
+        "namespace": "cftfc",
+        "path": "cft/need/.*"
+      },
+      {
+        "namespace": "cftfc",
+        "path": "cft/structure/.*"
+      }
+    ]
   }
 }

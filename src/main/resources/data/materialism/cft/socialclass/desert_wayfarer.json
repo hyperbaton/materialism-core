@@ -1,0 +1,40 @@
+{
+  "id": "materialism:desert_wayfarer",
+  "maxHappiness": 10.0,
+  "matingHappinessThreshold": 5.0,
+  "spontaneouslySpawnPopulation": 3,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:home_desert_wayfarer",
+    "materialism:heating_sticks",
+    "materialism:clothing_burlap_torso",
+    "materialism:clothing_burlap_legs",
+    "materialism:drink_water",
+    "materialism:food_oat_flatbread"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:desert_sandborn",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_desert",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_desert",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:desert_wayfarer",
+          "percentage": 0.30
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

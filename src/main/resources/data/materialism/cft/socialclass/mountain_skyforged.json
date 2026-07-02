@@ -1,0 +1,55 @@
+{
+  "id": "materialism:mountain_skyforged",
+  "maxHappiness": 200.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_mountain",
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:home_mountain_skyforged",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_corn_whiskey",
+    "materialism:food_cooked_pie",
+    "materialism:food_aged_rajya_metok",
+    "materialism:food_smoked_salmon"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:mountain_stormcaller",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+	}
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:mountain_runespeaker",
+      "requiredHappiness": 20.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

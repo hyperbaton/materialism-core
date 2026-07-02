@@ -1,0 +1,56 @@
+{
+  "id": "materialism:steppe_great_rider",
+  "maxHappiness": 200.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:home_steppe_great_rider",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_vodka",
+    "materialism:food_cooked_rice_noodles",
+    "materialism:food_aged_shosha",
+    "materialism:food_smoked_calamari"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:steppe_windborn",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_steppe",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_steppe",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:steppe_kinlord",
+      "requiredHappiness": 25.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_steppe",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_steppe",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

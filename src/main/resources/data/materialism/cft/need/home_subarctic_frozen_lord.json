@@ -1,0 +1,10 @@
+{
+  "id": "materialism:home_subarctic_frozen_lord",
+  "type": "cft:home",
+  "damage": 0.05,
+  "damage_threshold": 0.05,
+  "provided_happiness": 1,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "required_structure": "materialism:subarctic_frozen_lord_house"
+}

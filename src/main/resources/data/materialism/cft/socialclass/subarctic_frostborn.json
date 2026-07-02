@@ -1,0 +1,56 @@
+{
+  "id": "materialism:subarctic_frostborn",
+  "maxHappiness": 200.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_subarctic",
+    "materialism:rainfall_subarctic",
+    "materialism:home_subarctic_frostborn",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_rye_whiskey",
+    "materialism:food_futo_maki",
+    "materialism:food_aged_chevre",
+    "materialism:food_smoked_cod"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:subarctic_frozen_lord",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_subarctic",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_subarctic",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:subarctic_elder",
+      "requiredHappiness": 25.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_subarctic",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_subarctic",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "materialism:mountain_deepdelver",
+  "maxHappiness": 20.0,
+  "matingHappinessThreshold": 15.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_mountain",
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:home_mountain_deepdelver",
+    "materialism:heating_charcoal",
+    "materialism:clothing_wool_torso",
+    "materialism:clothing_wool_legs",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_feet",
+    "materialism:drink_mead",
+    "materialism:food_vegetable_soup",
+    "materialism:food_garlic_bread"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:mountain_runespeaker",
+      "requiredHappiness": 10,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+	}
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:mountain_cliffdweller",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_mountain",
+          "satisfactionThreshold": 0.80
+        },
+        {
+          "need": "cft:rainfall_mountain",
+          "satisfactionThreshold": 0.80
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

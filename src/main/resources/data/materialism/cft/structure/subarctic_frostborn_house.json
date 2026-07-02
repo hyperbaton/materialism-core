@@ -1,0 +1,128 @@
+{
+  "type": "cft:house",
+  "id": "materialism:subarctic_frostborn_house",
+  "key_block_tag": "minecraft:doors",
+  "max_users": 1,
+  "requires_container": true,
+  "priority": 0,
+  "floorBlocks": [
+    {
+      "block": "rnr:rock/flagstones/gneiss",
+      "minQuantity": 140,
+      "maxQuantity": 200,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/chiseled/gneiss",
+      "minQuantity": 60,
+      "maxQuantity": 90,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "wallBlocks": [
+    {
+      "block": "tfc:rock/smooth/gneiss",
+      "minQuantity": 60,
+      "maxQuantity": 90,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/bricks/gneiss",
+      "minQuantity": 180,
+      "maxQuantity": 250,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/chiseled/gneiss",
+      "minQuantity": 10,
+      "maxQuantity": 50,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:encased_fluid_pipe",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "interiorBlocks": [
+    {
+      "block": "minecraft:air",
+      "minQuantity": 0,
+      "maxQuantity": 500,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:barrels",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:fluid_tank",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:chute",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "create:portable_storage_interface",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:subarctic_frostborn_furniture_glass_tables",
+      "minQuantity": 6,
+      "maxQuantity": 10,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:subarctic_frostborn_furniture_chairs",
+      "minQuantity": 10,
+      "maxQuantity": 16,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:subarctic_frostborn_furniture_wardrobes",
+      "minQuantity": 2,
+      "maxQuantity": 8,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:subarctic_frostborn_furniture_bookshelves",
+      "minQuantity": 2,
+      "maxQuantity": 10,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "roofBlocks": [
+    {
+      "block": "rnr:ceramic_roof",
+      "minQuantity": 200,
+      "maxQuantity": 290,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ]
+}

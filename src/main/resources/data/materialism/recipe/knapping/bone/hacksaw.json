@@ -1,0 +1,18 @@
+{
+  "type": "tfc:knapping",
+  "ingredient": {
+    "tag": "materialism:bone_knapping"
+  },
+  "knapping_type": "materialism:bone",
+  "pattern": [
+    "#   #",
+    "## ##",
+    "#####",
+    "## ##",
+    "#   #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "butchery:bone_hacksaw"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "materialism:steppe_windborn",
+  "maxHappiness": 1000.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:home_steppe_windborn",
+    "materialism:heating_diesel",
+    "materialism:clothing_leather_torso",
+    "materialism:clothing_leather_legs",
+    "materialism:clothing_leather_head",
+    "materialism:clothing_leather_feet",
+    "materialism:drink_aged_whiskey",
+    "materialism:food_burrito",
+    "materialism:food_vintage_shosha",
+    "materialism:food_cookie_dough_ice_cream"
+  ],
+  "upgrades": [
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:steppe_great_rider",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_steppe",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_steppe",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

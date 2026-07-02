@@ -1,0 +1,40 @@
+{
+  "id": "materialism:tropical_mudkin",
+  "maxHappiness": 10.0,
+  "matingHappinessThreshold": 5.0,
+  "spontaneouslySpawnPopulation": 3,
+  "needs": [
+    "materialism:altitude_lowlands",
+    "materialism:temperature_tropical",
+    "materialism:rainfall_tropical",
+    "materialism:home_tropical_mudkin",
+    "materialism:heating_sticks",
+    "materialism:clothing_burlap_torso",
+    "materialism:clothing_burlap_legs",
+    "materialism:drink_water",
+    "materialism:food_rice_flatbread"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:tropical_palmhand",
+      "requiredHappiness": 5.0,
+      "requiredNeeds": [
+        {
+          "need": "cft:temperature_tropical",
+          "satisfactionThreshold": 0.90
+        },
+        {
+          "need": "cft:rainfall_tropical",
+          "satisfactionThreshold": 0.90
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:tropical_mudkin",
+          "percentage": 0.30
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}
