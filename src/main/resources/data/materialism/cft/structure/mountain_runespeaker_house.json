@@ -56,6 +56,13 @@
       "maxQuantity": 20,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "minecraft:doors",
+      "minQuantity": 2,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
     }
   ],
   "interiorBlocks": [
@@ -105,6 +112,13 @@
       "tagBlock": "materialism:mountain_runespeaker_furniture_chairs",
       "minQuantity": 6,
       "maxQuantity": 10,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:chests",
+      "minQuantity": 1,
+      "maxQuantity": 4,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }
