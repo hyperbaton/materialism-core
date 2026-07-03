@@ -1,5 +1,5 @@
 {
-  "id": "materialism:food_smoked_pork",
+  "id": "materialism:food_smoked_duck",
   "type": "cft:goods",
   "damage": 0.5,
   "damage_threshold": 0.25,
@@ -14,7 +14,7 @@
 				"type": "tfc:has_trait",
 				"trait": "tfc:salted",
 				"ingredient": {
-					"item": "tfc:food/cooked_pork"
+					"item": "tfc:food/cooked_duck"
 				}
 			}
 		}
