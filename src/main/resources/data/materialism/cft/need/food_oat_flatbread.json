@@ -6,8 +6,15 @@
   "provided_happiness": 1,
   "satisfaction_threshold": 0.5,
   "item": {
-    "type": "tfc:not_rotten",
-    "ingredient": { "item": "firmalife:food/oat_flatbread" }
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "firmalife:food/oat_flatbread"
+      },
+      {
+        "type": "tfc:not_rotten"
+      }
+    ]
   },
   "frequency": 1,
   "quantity": 1

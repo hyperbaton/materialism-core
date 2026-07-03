@@ -6,10 +6,15 @@
   "provided_happiness": 1,
   "satisfaction_threshold": 0.5,
   "item": {
-    "type": "tfc:not_rotten",
-    "ingredient": {
-      "item": "tfc:food/rice_bread_sandwich"
-    }
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "tfc:food/rice_bread_sandwich"
+      },
+      {
+        "type": "tfc:not_rotten"
+      }
+    ]
   },
   "frequency": 1,
   "quantity": 1

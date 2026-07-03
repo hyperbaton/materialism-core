@@ -6,10 +6,15 @@
   "provided_happiness": 1,
   "satisfaction_threshold": 0.5,
   "item": {
-    "type": "tfc:not_rotten",
-    "ingredient": {
-      "item": "firmalife:food/cookie_dough_ice_cream"
-    }
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "firmalife:food/cookie_dough_ice_cream"
+      },
+      {
+        "type": "tfc:not_rotten"
+      }
+    ]
   },
   "frequency": 1,
   "quantity": 1

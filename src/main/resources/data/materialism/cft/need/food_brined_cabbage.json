@@ -5,16 +5,21 @@
   "damage_threshold": 0.25,
   "provided_happiness": 1,
   "satisfaction_threshold": 0.5,
-	"item": {
-		"type": "tfc:not_rotten",
-		"ingredient": {
-			"type": "tfc:has_trait",
-			"trait": "tfc:brined",
-			"ingredient": {
-				"item": "tfc:food/cabbage"
-			}
-		}
-	},
+  "item": {
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "tfc:food/cabbage"
+      },
+      {
+        "type": "tfc:not_rotten"
+      },
+      {
+        "type": "tfc:has_trait",
+        "trait": "tfc:brined"
+      }
+    ]
+  },
   "frequency": 1,
   "quantity": 1
 }
