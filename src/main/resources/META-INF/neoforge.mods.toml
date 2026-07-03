@@ -31,3 +31,9 @@ modId="cft"
 type="required"
 ordering="AFTER"
 side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="cftfc"
+type="required"
+ordering="AFTER"
+side="BOTH"
