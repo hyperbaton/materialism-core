@@ -100,6 +100,13 @@
       "maxQuantity": 4,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:log_pile",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
     }
   ],
   "roofBlocks": [
