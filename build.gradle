@@ -42,9 +42,32 @@ neoForge {
     }
 }
 
+repositories {
+    // CurseForge's own maven, for compile-only access to other mods' classes without bundling
+    // or hard-depending on them. Scoped to the curse.maven group only, so it doesn't slow down
+    // resolution of everything else.
+    exclusiveContent {
+        forRepository {
+            maven {
+                name = 'CurseForge'
+                url = 'https://cursemaven.com'
+            }
+        }
+        filter {
+            includeGroup 'curse.maven'
+        }
+    }
+}
+
 dependencies {
-    compileOnly ":tfmg:1.2.0"
-    compileOnly ":create:1.21.1-6.0.10"
+    // Compile-only: we mixin into TFMG's CastingBasinBlockEntity but don't want to bundle or
+    // hard-depend on it. Pinned to the exact file for tfmg-1.2.0-1.21.1 (project "create-industry",
+    // id 693815, file id 7430073) -- bump the file id if the target class changes upstream.
+    compileOnly 'curse.maven:create-industry-693815:7430073'
+    // TFMG's CastingRecipe extends Create's StandardProcessingRecipe -- needed on the compile
+    // classpath just to resolve that inherited method signature, not referenced directly.
+    // Pinned to create-1.21.1-6.0.10 (project id 328085, file id 7963363).
+    compileOnly 'curse.maven:create-328085:7963363'
 }
 
 tasks.named('processResources', ProcessResources).configure {
