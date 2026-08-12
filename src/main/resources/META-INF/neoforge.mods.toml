@@ -2,6 +2,9 @@ modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
 
+[[mixins]]
+config="materialismcore.mixins.json"
+
 [[mods]]
 modId="${mod_id}"
 namespace="${mod_id}"
@@ -35,5 +38,11 @@ side="BOTH"
 [[dependencies.${mod_id}]]
 modId="cftfc"
 type="required"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="tfmg"
+type="optional"
 ordering="AFTER"
 side="BOTH"
