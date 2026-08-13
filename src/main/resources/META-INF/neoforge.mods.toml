@@ -46,3 +46,9 @@ modId="tfmg"
 type="optional"
 ordering="AFTER"
 side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="firmalife"
+type="optional"
+ordering="AFTER"
+side="BOTH"

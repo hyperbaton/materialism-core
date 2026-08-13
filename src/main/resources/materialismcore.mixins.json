@@ -3,7 +3,8 @@
   "package": "com.pjbhva.materialismcore.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "CastingBasinBlockEntityMixin"
+    "CastingBasinBlockEntityMixin",
+    "OvenBottomBlockEntityMixin"
   ],
   "client": [],
   "server": []
