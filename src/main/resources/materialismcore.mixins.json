@@ -4,7 +4,9 @@
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "CastingBasinBlockEntityMixin",
-    "OvenBottomBlockEntityMixin"
+    "OvenBottomBlockEntityMixin",
+    "ConfigBaseCValueMixin",
+    "MapProjectionHolderMixin"
   ],
   "client": [],
   "server": []
