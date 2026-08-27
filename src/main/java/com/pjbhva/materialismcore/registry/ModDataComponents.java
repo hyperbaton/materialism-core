@@ -5,6 +5,7 @@ import com.pjbhva.materialismcore.MaterialismCore;
 import net.minecraft.core.component.DataComponentType;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.codec.ByteBufCodecs;
+import net.neoforged.neoforge.fluids.FluidStack;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
 import java.util.function.Supplier;
@@ -18,5 +19,12 @@ public class ModDataComponents {
                     () -> DataComponentType.<Integer>builder()
                             .persistent(Codec.INT)
                             .networkSynchronized(ByteBufCodecs.INT)
+                            .build());
+
+    public static final Supplier<DataComponentType<FluidStack>> SCANNED_FLUID =
+            DATA_COMPONENTS.register("scanned_fluid",
+                    () -> DataComponentType.<FluidStack>builder()
+                            .persistent(FluidStack.OPTIONAL_CODEC)
+                            .networkSynchronized(FluidStack.OPTIONAL_STREAM_CODEC)
                             .build());
 }

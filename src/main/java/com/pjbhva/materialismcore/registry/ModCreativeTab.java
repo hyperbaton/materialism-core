@@ -18,6 +18,7 @@ public class ModCreativeTab {
                     .icon(() -> ModItems.GALVANIC_CELL.get().getDefaultInstance())
                     .displayItems((params, output) -> {
                         output.accept(ModItems.GALVANIC_CELL.get());
+                        output.accept(ModItems.FLUID_SCANNER.get());
                     })
                     .build());
 }

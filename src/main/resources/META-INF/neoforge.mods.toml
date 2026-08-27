@@ -52,3 +52,9 @@ modId="firmalife"
 type="optional"
 ordering="AFTER"
 side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="vintageimprovements"
+type="optional"
+ordering="AFTER"
+side="BOTH"

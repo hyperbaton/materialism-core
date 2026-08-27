@@ -74,6 +74,7 @@ dependencies {
     compileOnly 'curse.maven:firmalife-453394:8364676'
     compileOnly 'net.createmod.ponder:ponder-neoforge:1.0.82+mc1.21.1'
     compileOnly 'curse.maven:tfc-eratosthenes-1455019:8626491'
+    compileOnly 'curse.maven:vintage-improvenents-ssw-edition-1255448:8600647'
 }
 
 tasks.named('processResources', ProcessResources).configure {

@@ -6,7 +6,10 @@
     "CastingBasinBlockEntityMixin",
     "OvenBottomBlockEntityMixin",
     "ConfigBaseCValueMixin",
-    "MapProjectionHolderMixin"
+    "MapProjectionHolderMixin",
+    "HelveBlockEntityMixin",
+    "BlastFurnaceOutputBlockEntityMixin",
+    "BlastFurnaceHatchBlockEntityMixin"
   ],
   "client": [],
   "server": []
