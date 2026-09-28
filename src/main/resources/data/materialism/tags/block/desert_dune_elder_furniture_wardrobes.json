@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/stripped_ipe_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/stripped_ipe_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_drawer",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/willow",
+    "afc:wood/bookshelf/fig"
+  ]
+}

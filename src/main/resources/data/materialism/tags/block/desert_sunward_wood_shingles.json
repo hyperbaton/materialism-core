@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/mahogany",
+      "required": false
+    },
+    "rnr:wood/shingles/rosewood",
+    {
+      "id": "rnr:wood/shingles/mahogany_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/rosewood_stairs",
+    {
+      "id": "rnr:wood/shingles/mahogany_slab",
+      "required": false
+    },
+    "rnr:wood/shingles/rosewood_slab"
+  ]
+}

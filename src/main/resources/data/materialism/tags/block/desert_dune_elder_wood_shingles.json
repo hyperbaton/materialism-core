@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/ipe",
+      "required": false
+    },
+    "rnr:wood/shingles/blackwood",
+    {
+      "id": "rnr:wood/shingles/ipe_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/blackwood_stairs",
+    {
+      "id": "rnr:wood/shingles/ipe_slab",
+      "required": false
+    },
+    "rnr:wood/shingles/blackwood_slab"
+  ]
+}

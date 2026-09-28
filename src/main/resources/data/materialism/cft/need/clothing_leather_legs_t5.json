@@ -1,0 +1,13 @@
+{
+  "id": "materialism:clothing_leather_legs_t5",
+  "type": "cft:equipment",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 8.2192,
+  "satisfaction_threshold": 0.5,
+  "frequency": 10.0,
+  "item": {
+    "item": "minecraft:leather_leggings"
+  },
+  "slot": "legs"
+}

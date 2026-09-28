@@ -1,0 +1,12 @@
+{
+  "id": "materialism:ritual_aurora_rite_t5",
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 9.2466,
+  "satisfaction_threshold": 0.2,
+  "frequency": 3.75,
+  "ritual_id": "materialism:aurora_rite",
+  "radius": 16,
+  "requires_presence": true
+}

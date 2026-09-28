@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_drawer",
+      "required": false
+    }
+  ]
+}

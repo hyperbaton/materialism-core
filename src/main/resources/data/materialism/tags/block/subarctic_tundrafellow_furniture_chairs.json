@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_striped_chair",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/kapok",
+    {
+      "id": "rnr:wood/shingles/hevea",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang",
+      "required": false
+    },
+    "rnr:wood/shingles/kapok_stairs",
+    {
+      "id": "rnr:wood/shingles/hevea_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/kapok_slab",
+    {
+      "id": "rnr:wood/shingles/hevea_slab",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang_slab",
+      "required": false
+    }
+  ]
+}

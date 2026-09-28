@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_modern_chair",
+      "required": false
+    }
+  ]
+}

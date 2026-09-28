@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/douglas_fir",
+    "tfc:wood/fence/oak",
+    "tfc:wood/log_fence/douglas_fir",
+    "tfc:wood/log_fence/oak",
+    {
+      "id": "tfc:wood/planks/douglas_fir_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/oak_log_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/douglas_fir_fences/douglas_fir_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/oak_fences/oak_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/douglas_fir_fences/douglas_fir_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/oak_fences/oak_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/douglas_fir_fences/douglas_fir_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/oak_fences/oak_stockade_fence",
+      "required": false
+    }
+  ]
+}

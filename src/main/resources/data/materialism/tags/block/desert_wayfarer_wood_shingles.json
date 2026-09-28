@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/palm",
+    "rnr:wood/shingles/acacia",
+    "rnr:wood/shingles/palm_stairs",
+    "rnr:wood/shingles/acacia_stairs",
+    "rnr:wood/shingles/palm_slab",
+    "rnr:wood/shingles/acacia_slab"
+  ]
+}

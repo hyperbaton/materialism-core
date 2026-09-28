@@ -4,7 +4,7 @@
   "key_block_tag": "minecraft:doors",
   "max_users": 1,
   "requires_container": true,
-  "priority": 0,
+  "priority": 30,
   "floorBlocks": [
     {
       "block": "rnr:rock/cobbled_road/chalk",
@@ -37,6 +37,20 @@
       "maxPercentage": 1.0
     },
     {
+      "tagBlock": "c:glass_blocks",
+      "minQuantity": 6,
+      "maxQuantity": 12,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:glass_panes",
+      "minQuantity": 0,
+      "maxQuantity": 12,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
       "block": "create:encased_fluid_pipe",
       "minQuantity": 0,
       "maxQuantity": 1,
@@ -44,15 +58,8 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "forge:glass",
-      "minQuantity": 6,
-      "maxQuantity": 12,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
       "tagBlock": "minecraft:doors",
-      "minQuantity": 2,
+      "minQuantity": 1,
       "maxQuantity": 2,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
@@ -67,7 +74,7 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "tfc:barrels",
+      "tagBlock": "materialism:barrels",
       "minQuantity": 0,
       "maxQuantity": 1,
       "minPercentage": 0.0,
@@ -95,6 +102,13 @@
       "maxPercentage": 1.0
     },
     {
+      "tagBlock": "c:chests",
+      "minQuantity": 1,
+      "maxQuantity": 4,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
       "tagBlock": "materialism:steppe_outrider_furniture_tables",
       "minQuantity": 1,
       "maxQuantity": 2,
@@ -102,16 +116,30 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "materialism:steppe_outrider_stools",
+      "tagBlock": "materialism:steppe_outrider_furniture_stools",
       "minQuantity": 2,
       "maxQuantity": 4,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
-      "maxQuantity": 4,
+      "tagBlock": "minecraft:beds",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:firepit",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:candles",
+      "minQuantity": 0,
+      "maxQuantity": 6,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }

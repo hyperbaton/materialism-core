@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_glass_table",
+      "required": false
+    }
+  ]
+}

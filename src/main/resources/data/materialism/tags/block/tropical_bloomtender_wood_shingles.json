@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/palm",
+    {
+      "id": "rnr:wood/shingles/hevea",
+      "required": false
+    },
+    "rnr:wood/shingles/palm_stairs",
+    {
+      "id": "rnr:wood/shingles/hevea_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/palm_slab",
+    {
+      "id": "rnr:wood/shingles/hevea_slab",
+      "required": false
+    }
+  ]
+}

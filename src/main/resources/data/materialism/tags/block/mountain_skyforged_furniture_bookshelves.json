@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_bookshelf",
+      "required": false
+    },
+    "afc:wood/bookshelf/teak",
+    "afc:wood/bookshelf/ironwood"
+  ]
+}

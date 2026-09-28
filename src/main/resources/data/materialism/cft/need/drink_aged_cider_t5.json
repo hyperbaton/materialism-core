@@ -1,0 +1,13 @@
+{
+  "id": "materialism:drink_aged_cider_t5",
+  "type": "cft:fluid",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.6438,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "fluid_stack": {
+    "id": "tfcagedalcohol:aged_cider",
+    "amount": 250
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/acacia",
+    "afc:wood/log/fig",
+    "tfc:wood/wood/acacia",
+    "afc:wood/wood/fig",
+    "tfc:wood/stripped_log/acacia",
+    "afc:wood/stripped_log/fig"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_striped_chair",
+      "required": false
+    }
+  ]
+}

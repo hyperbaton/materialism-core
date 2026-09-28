@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/blackwood",
+    "tfc:wood/fence/white_cedar",
+    "tfc:wood/log_fence/blackwood",
+    "tfc:wood/log_fence/white_cedar",
+    {
+      "id": "tfc:wood/planks/blackwood_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/white_cedar_log_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/blackwood_fences/blackwood_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/white_cedar_fences/white_cedar_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/blackwood_fences/blackwood_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/white_cedar_fences/white_cedar_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/blackwood_fences/blackwood_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/white_cedar_fences/white_cedar_stockade_fence",
+      "required": false
+    }
+  ]
+}

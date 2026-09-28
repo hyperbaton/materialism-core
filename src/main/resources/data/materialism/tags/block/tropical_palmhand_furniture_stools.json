@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_stool_chair",
+      "required": false
+    }
+  ]
+}

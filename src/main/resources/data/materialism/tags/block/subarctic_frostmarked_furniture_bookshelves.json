@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/pine",
+    "tfc:wood/bookshelf/douglas_fir"
+  ]
+}

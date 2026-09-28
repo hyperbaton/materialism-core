@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_stool_chair",
+      "required": false
+    }
+  ]
+}

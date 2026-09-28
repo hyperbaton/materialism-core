@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/douglas_fir",
+    "tfc:wood/log/chestnut",
+    "tfc:wood/wood/douglas_fir",
+    "tfc:wood/wood/chestnut",
+    "tfc:wood/stripped_log/douglas_fir",
+    "tfc:wood/stripped_log/chestnut"
+  ]
+}

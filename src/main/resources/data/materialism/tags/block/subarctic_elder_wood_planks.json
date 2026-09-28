@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/oak",
+    "tfc:wood/planks/hickory",
+    "tfc:wood/planks/oak_stairs",
+    "tfc:wood/planks/hickory_stairs",
+    "tfc:wood/planks/oak_slab",
+    "tfc:wood/planks/hickory_slab"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/mangrove",
+    "rnr:wood/shingles/palm",
+    "rnr:wood/shingles/mangrove_stairs",
+    "rnr:wood/shingles/palm_stairs",
+    "rnr:wood/shingles/mangrove_slab",
+    "rnr:wood/shingles/palm_slab"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/stripped_ipe_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_bookshelf",
+      "required": false
+    },
+    "afc:wood/bookshelf/ipe",
+    "afc:wood/bookshelf/ironwood"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/rosewood",
+    "tfc:wood/log/blackwood",
+    "afc:wood/log/baobab",
+    "tfc:wood/wood/rosewood",
+    "tfc:wood/wood/blackwood",
+    "afc:wood/wood/baobab",
+    "tfc:wood/stripped_log/rosewood",
+    "tfc:wood/stripped_log/blackwood",
+    "afc:wood/stripped_log/baobab"
+  ]
+}

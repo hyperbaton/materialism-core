@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "materialismcore:galvanic_cell",
+    "createaddition:modular_accumulator"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/lectern/hickory",
+    "tfc:wood/lectern/chestnut",
+    "afc:wood/lectern/eucalyptus"
+  ]
+}

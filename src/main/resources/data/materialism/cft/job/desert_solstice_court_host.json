@@ -1,0 +1,51 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:desert_plaza",
+  "ritual_id": "materialism:solstice_court",
+  "frequency": 7.0,
+  "duration": 2400,
+  "ingredients": [
+    {
+      "item": {
+        "item": "minecraft:sugar"
+      },
+      "quantity": 8
+    },
+    {
+      "item": {
+        "item": "tfc:gem/opal"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/oat_bread_sandwich"
+      },
+      "quantity": 4
+    }
+  ],
+  "summon_radius": 96,
+  "ritual_radius": 16,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:desert_wayfarer",
+        "materialism:desert_sandborn",
+        "materialism:desert_dunespear",
+        "materialism:desert_scorchbinder",
+        "materialism:desert_waterkeeper",
+        "materialism:desert_trade_lord",
+        "materialism:desert_dune_elder"
+      ],
+      "min": 8
+    },
+    {
+      "classes": [
+        "materialism:desert_trade_lord",
+        "materialism:desert_dune_elder"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 80
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/stripped_ipe_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_glass_table",
+      "required": false
+    }
+  ]
+}

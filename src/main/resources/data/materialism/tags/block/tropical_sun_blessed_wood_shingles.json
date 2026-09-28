@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/rosewood",
+    "rnr:wood/shingles/blackwood",
+    {
+      "id": "rnr:wood/shingles/baobab",
+      "required": false
+    },
+    "rnr:wood/shingles/rosewood_stairs",
+    "rnr:wood/shingles/blackwood_stairs",
+    {
+      "id": "rnr:wood/shingles/baobab_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/rosewood_slab",
+    "rnr:wood/shingles/blackwood_slab",
+    {
+      "id": "rnr:wood/shingles/baobab_slab",
+      "required": false
+    }
+  ]
+}

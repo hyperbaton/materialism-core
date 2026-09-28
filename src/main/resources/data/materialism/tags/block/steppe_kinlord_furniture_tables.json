@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/stripped_hickory_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/stripped_hickory_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_end_table",
+      "required": false
+    }
+  ]
+}

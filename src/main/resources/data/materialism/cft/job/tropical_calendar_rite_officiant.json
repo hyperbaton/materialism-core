@@ -1,0 +1,40 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:tropical_hall",
+  "ritual_id": "materialism:calendar_rite",
+  "frequency": 3.0,
+  "duration": 1200,
+  "ingredients": [
+    {
+      "item": {
+        "tag": "materialism:candles"
+      },
+      "quantity": 4
+    },
+    {
+      "item": {
+        "item": "firmalife:food/gouda"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/cooked_tropical_fish"
+      },
+      "quantity": 2
+    }
+  ],
+  "summon_radius": 48,
+  "ritual_radius": 8,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:tropical_feathered_noble",
+        "materialism:tropical_councilor",
+        "materialism:tropical_sun_blessed"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 12
+}

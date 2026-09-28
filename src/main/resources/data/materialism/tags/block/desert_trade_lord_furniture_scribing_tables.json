@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/scribing_table/white_cedar",
+    "afc:wood/scribing_table/eucalyptus"
+  ]
+}

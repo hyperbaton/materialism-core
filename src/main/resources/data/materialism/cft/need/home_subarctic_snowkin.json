@@ -1,0 +1,10 @@
+{
+  "id": "materialism:home_subarctic_snowkin",
+  "type": "cft:home",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 0.6522,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "required_structure": "materialism:subarctic_snowkin_house"
+}

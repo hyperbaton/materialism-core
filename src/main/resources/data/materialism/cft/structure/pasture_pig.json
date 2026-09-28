@@ -1,0 +1,75 @@
+{
+  "type": "cft:pasture",
+  "id": "materialism:pasture_pig",
+  "key_block": "tfc:thatch",
+  "max_users": 1,
+  "requires_container": true,
+  "priority": 0,
+  "borderBlocks": [
+    {
+      "tagBlock": "minecraft:fences",
+      "minQuantity": 4,
+      "maxQuantity": 500,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "minecraft:fence_gates",
+      "minQuantity": 1,
+      "maxQuantity": 4,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:chests",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "groundPerimeterBlocks": [
+    {
+      "tagBlock": "tfc:dirt",
+      "minQuantity": 0,
+      "maxQuantity": 500,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:grass",
+      "minQuantity": 0,
+      "maxQuantity": 500,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "surfaceBlocks": [
+    {
+      "tagBlock": "tfc:grass",
+      "minQuantity": 0,
+      "maxQuantity": 1000,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:dirt",
+      "minQuantity": 0,
+      "maxQuantity": 1000,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:thatch",
+      "minQuantity": 1,
+      "maxQuantity": 4,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "wall_height": 1,
+  "eligible_mobs": [
+    "tfc:pig"
+  ],
+  "min_mob_count": 2
+}

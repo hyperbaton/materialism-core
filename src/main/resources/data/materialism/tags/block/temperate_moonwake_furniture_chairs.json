@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/maple_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/maple_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/stripped_maple_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/stripped_maple_striped_chair",
+      "required": false
+    }
+  ]
+}

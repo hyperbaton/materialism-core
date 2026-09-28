@@ -1,0 +1,19 @@
+{
+  "type": "cft:hauler",
+  "hours_per_day": 6.0,
+  "radius": 64,
+  "errands": [
+    {
+      "origin_structure": "materialism:farm",
+      "destination_structure": "materialism:mountain_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/maize"
+          },
+          "quantity": 32
+        }
+      ]
+    }
+  ]
+}

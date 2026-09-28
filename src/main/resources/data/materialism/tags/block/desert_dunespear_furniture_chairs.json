@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_striped_chair",
+      "required": false
+    }
+  ]
+}

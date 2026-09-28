@@ -1,0 +1,49 @@
+{
+  "type": "cft:compound",
+  "id": "materialism:subarctic_plaza",
+  "key_block": "minecraft:bell",
+  "max_users": 0,
+  "requires_container": false,
+  "priority": 0,
+  "surfaceBlocks": [
+    {
+      "block": "rnr:rock/flagstones/granite",
+      "minQuantity": 25,
+      "maxQuantity": 2000,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "rnr:rock/sett_road/granite",
+      "minQuantity": 0,
+      "maxQuantity": 2000,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/chiseled/granite",
+      "minQuantity": 0,
+      "maxQuantity": 400,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "requires_sky_access": true,
+  "requiredStructures": [
+    {
+      "structure_type": "materialism:subarctic_hall",
+      "min": 1,
+      "max_distance": 24
+    },
+    {
+      "structure_type": "materialism:subarctic_library",
+      "min": 1,
+      "max_distance": 24
+    },
+    {
+      "structure_type": "materialism:subarctic_frozen_lord_house",
+      "min": 1,
+      "max_distance": 24
+    }
+  ]
+}

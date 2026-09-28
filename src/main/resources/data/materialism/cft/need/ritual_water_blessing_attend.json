@@ -1,0 +1,12 @@
+{
+  "id": "materialism:ritual_water_blessing_attend",
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 3.0682,
+  "satisfaction_threshold": 0.2,
+  "frequency": 3.75,
+  "ritual_id": "materialism:water_blessing",
+  "radius": 16,
+  "requires_presence": true
+}

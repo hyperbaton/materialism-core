@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_end_table",
+      "required": false
+    }
+  ]
+}

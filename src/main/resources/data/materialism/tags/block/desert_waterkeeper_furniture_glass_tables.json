@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_glass_table",
+      "required": false
+    }
+  ]
+}

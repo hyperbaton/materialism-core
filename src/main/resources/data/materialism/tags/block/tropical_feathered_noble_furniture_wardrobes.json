@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/ipe_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/stripped_ipe_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ipe_furniture/stripped_ipe_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_drawer",
+      "required": false
+    }
+  ]
+}

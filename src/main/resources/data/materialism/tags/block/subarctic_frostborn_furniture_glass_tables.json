@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_glass_table",
+      "required": false
+    }
+  ]
+}

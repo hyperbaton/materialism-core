@@ -4,7 +4,7 @@
   "key_block_tag": "minecraft:doors",
   "max_users": 1,
   "requires_container": true,
-  "priority": 0,
+  "priority": 40,
   "floorBlocks": [
     {
       "block": "rnr:rock/flagstones/granite",
@@ -14,7 +14,7 @@
       "maxPercentage": 1.0
     },
     {
-      "block": "tfc:rock/smooth/granite",
+      "block": "tfc:rock/chiseled/granite",
       "minQuantity": 60,
       "maxQuantity": 90,
       "minPercentage": 0.0,
@@ -37,8 +37,15 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "materialism:temperate_burgher_wood_logs",
+      "block": "tfc:rock/chiseled/granite",
       "minQuantity": 10,
+      "maxQuantity": 50,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:glass_panes",
+      "minQuantity": 0,
       "maxQuantity": 30,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
@@ -51,15 +58,8 @@
       "maxPercentage": 1.0
     },
     {
-      "block": "create:dark_oak_window",
-      "minQuantity": 12,
-      "maxQuantity": 20,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
       "tagBlock": "minecraft:doors",
-      "minQuantity": 2,
+      "minQuantity": 1,
       "maxQuantity": 2,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
@@ -74,7 +74,7 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "tfc:barrels",
+      "tagBlock": "materialism:barrels",
       "minQuantity": 0,
       "maxQuantity": 2,
       "minPercentage": 0.0,
@@ -98,6 +98,13 @@
       "block": "create:portable_storage_interface",
       "minQuantity": 0,
       "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:chests",
+      "minQuantity": 1,
+      "maxQuantity": 4,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     },
@@ -130,9 +137,30 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
+      "tagBlock": "minecraft:beds",
+      "minQuantity": 0,
       "maxQuantity": 4,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:firepit",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "tfc:lamps",
+      "minQuantity": 0,
+      "maxQuantity": 8,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:energy_storage",
+      "minQuantity": 0,
+      "maxQuantity": 2,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }
@@ -142,6 +170,13 @@
       "block": "rnr:ceramic_roof",
       "minQuantity": 200,
       "maxQuantity": 290,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "rnr:ceramic_roof_stairs",
+      "minQuantity": 0,
+      "maxQuantity": 100,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }

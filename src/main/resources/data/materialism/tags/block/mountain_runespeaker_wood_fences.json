@@ -1,0 +1,56 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/hickory",
+    "tfc:wood/fence/chestnut",
+    "afc:wood/fence/eucalyptus",
+    "tfc:wood/log_fence/hickory",
+    "tfc:wood/log_fence/chestnut",
+    "afc:wood/log_fence/eucalyptus",
+    {
+      "id": "tfc:wood/planks/hickory_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/chestnut_log_fence",
+      "required": false
+    },
+    "afc:wood/planks/eucalyptus_log_fence",
+    {
+      "id": "mcw_tfc_aio:fences/hickory_fences/hickory_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/chestnut_fences/chestnut_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/eucalyptus_fences/eucalyptus_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/hickory_fences/hickory_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/chestnut_fences/chestnut_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/eucalyptus_fences/eucalyptus_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/hickory_fences/hickory_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/chestnut_fences/chestnut_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/eucalyptus_fences/eucalyptus_stockade_fence",
+      "required": false
+    }
+  ]
+}

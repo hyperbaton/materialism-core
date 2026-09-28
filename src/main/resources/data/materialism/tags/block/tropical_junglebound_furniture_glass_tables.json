@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_glass_table",
+      "required": false
+    }
+  ]
+}

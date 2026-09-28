@@ -1,0 +1,13 @@
+{
+  "id": "materialism:clothing_burlap_head_t4",
+  "type": "cft:equipment",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 3.8961,
+  "satisfaction_threshold": 0.5,
+  "frequency": 10.0,
+  "item": {
+    "item": "tfcambiental:burlap_cowl"
+  },
+  "slot": "head"
+}

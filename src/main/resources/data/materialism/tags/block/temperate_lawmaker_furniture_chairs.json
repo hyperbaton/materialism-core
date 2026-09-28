@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_striped_chair",
+      "required": false
+    }
+  ]
+}

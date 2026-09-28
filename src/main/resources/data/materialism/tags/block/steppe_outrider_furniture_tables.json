@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_end_table",
+      "required": false
+    }
+  ]
+}

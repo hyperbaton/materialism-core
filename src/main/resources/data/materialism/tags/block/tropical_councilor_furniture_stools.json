@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_stool_chair",
+      "required": false
+    }
+  ]
+}

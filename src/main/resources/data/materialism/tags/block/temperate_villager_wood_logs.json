@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/sycamore",
+    "tfc:wood/log/birch",
+    "tfc:wood/wood/sycamore",
+    "tfc:wood/wood/birch",
+    "tfc:wood/stripped_log/sycamore",
+    "tfc:wood/stripped_log/birch"
+  ]
+}

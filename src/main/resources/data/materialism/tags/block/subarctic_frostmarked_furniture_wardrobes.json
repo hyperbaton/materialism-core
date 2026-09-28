@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_drawer",
+      "required": false
+    }
+  ]
+}

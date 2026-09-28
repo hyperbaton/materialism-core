@@ -1,9 +1,9 @@
 {
   "id": "materialism:home_desert_dune_elder",
   "type": "cft:home",
-  "damage": 0.05,
-  "damage_threshold": 0.05,
-  "provided_happiness": 1,
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 1.1688,
   "satisfaction_threshold": 0.5,
   "frequency": 1.0,
   "required_structure": "materialism:desert_dune_elder_house"

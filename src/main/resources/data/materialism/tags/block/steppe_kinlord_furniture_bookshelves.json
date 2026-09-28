@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/stripped_hickory_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/hickory",
+    "tfc:wood/bookshelf/chestnut"
+  ]
+}

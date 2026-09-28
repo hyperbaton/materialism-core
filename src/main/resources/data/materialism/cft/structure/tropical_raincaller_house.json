@@ -4,19 +4,19 @@
   "key_block_tag": "minecraft:doors",
   "max_users": 1,
   "requires_container": true,
-  "priority": 0,
+  "priority": 30,
   "floorBlocks": [
     {
-      "block": "rnr:rock/sett_road/schist",
-      "minQuantity": 90,
-      "maxQuantity": 120,
+      "block": "rnr:rock/cobbled_road/schist",
+      "minQuantity": 40,
+      "maxQuantity": 50,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/schist",
-      "minQuantity": 45,
-      "maxQuantity": 60,
+      "minQuantity": 35,
+      "maxQuantity": 45,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }
@@ -24,22 +24,29 @@
   "wallBlocks": [
     {
       "tagBlock": "materialism:tropical_raincaller_wood_logs",
-      "minQuantity": 25,
-      "maxQuantity": 35,
+      "minQuantity": 18,
+      "maxQuantity": 25,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     },
     {
-      "block": "tfc:rock/smooth/schist",
-      "minQuantity": 40,
-      "maxQuantity": 80,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "tfc:rock/bricks/schist",
-      "minQuantity": 10,
+      "tagBlock": "materialism:tropical_raincaller_wood_planks",
+      "minQuantity": 20,
       "maxQuantity": 50,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:glass_blocks",
+      "minQuantity": 6,
+      "maxQuantity": 12,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "c:glass_panes",
+      "minQuantity": 0,
+      "maxQuantity": 12,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     },
@@ -51,15 +58,8 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "forge:glass",
-      "minQuantity": 12,
-      "maxQuantity": 20,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
       "tagBlock": "minecraft:doors",
-      "minQuantity": 2,
+      "minQuantity": 1,
       "maxQuantity": 2,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
@@ -69,12 +69,12 @@
     {
       "block": "minecraft:air",
       "minQuantity": 0,
-      "maxQuantity": 200,
+      "maxQuantity": 100,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "tfc:barrels",
+      "tagBlock": "materialism:barrels",
       "minQuantity": 0,
       "maxQuantity": 1,
       "minPercentage": 0.0,
@@ -102,23 +102,44 @@
       "maxPercentage": 1.0
     },
     {
-      "tagBlock": "materialism:tropical_raincaller_furniture_tables",
-      "minQuantity": 2,
-      "maxQuantity": 6,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "materialism:tropical_raincaller_furniture_chairs",
-      "minQuantity": 6,
-      "maxQuantity": 10,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
       "tagBlock": "c:chests",
       "minQuantity": 1,
       "maxQuantity": 4,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:tropical_raincaller_furniture_tables",
+      "minQuantity": 1,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:tropical_raincaller_furniture_stools",
+      "minQuantity": 2,
+      "maxQuantity": 4,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "minecraft:beds",
+      "minQuantity": 0,
+      "maxQuantity": 2,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:firepit",
+      "minQuantity": 0,
+      "maxQuantity": 1,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "tagBlock": "materialism:candles",
+      "minQuantity": 0,
+      "maxQuantity": 6,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }
@@ -126,8 +147,8 @@
   "roofBlocks": [
     {
       "tagBlock": "materialism:tropical_raincaller_wood_shingles",
-      "minQuantity": 135,
-      "maxQuantity": 180,
+      "minQuantity": 75,
+      "maxQuantity": 95,
       "minPercentage": 0.0,
       "maxPercentage": 1.0
     }

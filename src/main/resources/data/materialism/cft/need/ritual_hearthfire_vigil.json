@@ -1,0 +1,12 @@
+{
+  "id": "materialism:ritual_hearthfire_vigil",
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.4457,
+  "satisfaction_threshold": 0.2,
+  "frequency": 3.75,
+  "ritual_id": "materialism:hearthfire_vigil",
+  "radius": 48,
+  "requires_presence": false
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/stripped_hickory_glass_table",
+      "required": false
+    }
+  ]
+}

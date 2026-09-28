@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/palm",
+    "afc:wood/bookshelf/hevea"
+  ]
+}

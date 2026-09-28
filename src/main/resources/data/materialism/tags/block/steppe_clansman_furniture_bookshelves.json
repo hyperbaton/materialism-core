@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/acacia"
+  ]
+}

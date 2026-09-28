@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/birch",
+    "tfc:wood/fence/willow",
+    "tfc:wood/log_fence/birch",
+    "tfc:wood/log_fence/willow",
+    {
+      "id": "tfc:wood/planks/birch_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/willow_log_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/birch_fences/birch_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/willow_fences/willow_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/birch_fences/birch_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/willow_fences/willow_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/birch_fences/birch_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/willow_fences/willow_stockade_fence",
+      "required": false
+    }
+  ]
+}

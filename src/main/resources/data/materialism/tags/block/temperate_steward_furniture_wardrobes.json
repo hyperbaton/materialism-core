@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_drawer",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_drawer",
+      "required": false
+    }
+  ]
+}

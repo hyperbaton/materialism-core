@@ -1,0 +1,40 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:mountain_hall",
+  "ritual_id": "materialism:rune_moot",
+  "frequency": 3.0,
+  "duration": 1200,
+  "ingredients": [
+    {
+      "item": {
+        "tag": "materialism:candles"
+      },
+      "quantity": 4
+    },
+    {
+      "item": {
+        "item": "firmalife:food/rajya_metok"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/cooked_salmon"
+      },
+      "quantity": 2
+    }
+  ],
+  "summon_radius": 48,
+  "ritual_radius": 8,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:mountain_skyforged",
+        "materialism:mountain_runespeaker",
+        "materialism:mountain_stormcaller"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 12
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_glass_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_glass_table",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/kapok",
+    "tfc:wood/bookshelf/mangrove"
+  ]
+}

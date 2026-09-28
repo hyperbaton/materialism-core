@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_modern_chair",
+      "required": false
+    }
+  ]
+}

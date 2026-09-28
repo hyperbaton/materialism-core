@@ -1,0 +1,125 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/stripped_baobab_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/baobab_furniture/stripped_baobab_drawer",
+      "required": false
+    }
+  ]
+}

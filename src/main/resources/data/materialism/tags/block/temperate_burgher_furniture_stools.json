@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_stool_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_stool_chair",
+      "required": false
+    }
+  ]
+}

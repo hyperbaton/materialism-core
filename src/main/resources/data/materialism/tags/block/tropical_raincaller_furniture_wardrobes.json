@@ -1,0 +1,125 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/stripped_tualang_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/tualang_furniture/stripped_tualang_drawer",
+      "required": false
+    }
+  ]
+}

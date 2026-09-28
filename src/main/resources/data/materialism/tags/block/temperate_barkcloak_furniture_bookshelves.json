@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/oak",
+    "tfc:wood/bookshelf/birch"
+  ]
+}

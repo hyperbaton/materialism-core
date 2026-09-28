@@ -1,0 +1,13 @@
+{
+  "id": "materialism:equip_wrought_iron_shield",
+  "type": "cft:equipment",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 3.8961,
+  "satisfaction_threshold": 0.5,
+  "frequency": 10.0,
+  "item": {
+    "item": "tfc:metal/shield/wrought_iron"
+  },
+  "slot": "offhand"
+}

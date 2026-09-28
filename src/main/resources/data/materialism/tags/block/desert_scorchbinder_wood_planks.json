@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/planks/fig",
+    "tfc:wood/planks/sycamore",
+    "afc:wood/planks/fig_stairs",
+    "tfc:wood/planks/sycamore_stairs",
+    "afc:wood/planks/fig_slab",
+    "tfc:wood/planks/sycamore_slab"
+  ]
+}

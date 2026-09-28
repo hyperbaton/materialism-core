@@ -1,0 +1,15 @@
+{
+  "id": "materialism:pet_dog_1_t5",
+  "type": "cft:pet",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.6438,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "entity_types": [
+    "tfc:dog"
+  ],
+  "min_count": 1,
+  "max_count": 4,
+  "radius": 16
+}

@@ -1,37 +1,48 @@
 {
   "id": "materialism:subarctic_tundrafellow",
-  "maxHappiness": 10.0,
-  "matingHappinessThreshold": 5.0,
+  "maxHappiness": 20.0,
+  "matingHappinessThreshold": 8.0,
   "spontaneouslySpawnPopulation": 3,
   "needs": [
-    "materialism:altitude_lowlands",
     "materialism:temperature_subarctic",
     "materialism:rainfall_subarctic",
+    "materialism:altitude_lowlands",
     "materialism:home_subarctic_tundrafellow",
-    "materialism:heating_sticks",
-    "materialism:clothing_small_hide",
-    "materialism:clothing_medium_hide",
-    "materialism:drink_water",
-    "materialism:food_rye_flatbread"
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_rye_flatbread",
+    "materialism:household_hide_blanket"
+  ],
+  "jobs": [
+    "materialism:subarctic_forager",
+    "materialism:subarctic_shore_fisher"
   ],
   "upgrades": [
     {
-      "nextClass": "materialism:subarctic_hearthkeeper",
-      "requiredHappiness": 5.0,
+      "nextClass": "materialism:subarctic_snowkin",
+      "requiredHappiness": 12.0,
       "requiredNeeds": [
         {
-          "need": "cft:temperature_subarctic",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:temperature_subarctic",
+          "satisfactionThreshold": 0.85
         },
         {
-          "need": "cft:rainfall_subarctic",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:rainfall_subarctic",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:home_subarctic_tundrafellow",
+          "satisfactionThreshold": 0.4
         }
       ],
       "socialStructureRequirements": [
         {
           "socialClass": "materialism:subarctic_tundrafellow",
-          "percentage": 0.30
+          "percentage": 0.2,
+          "scope": [
+            "materialism:subarctic_tundrafellow",
+            "materialism:subarctic_snowkin"
+          ]
         }
       ]
     }

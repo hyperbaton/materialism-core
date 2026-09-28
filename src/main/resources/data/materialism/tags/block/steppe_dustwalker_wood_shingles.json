@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/acacia",
+    {
+      "id": "rnr:wood/shingles/fig",
+      "required": false
+    },
+    "rnr:wood/shingles/acacia_stairs",
+    {
+      "id": "rnr:wood/shingles/fig_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/acacia_slab",
+    {
+      "id": "rnr:wood/shingles/fig_slab",
+      "required": false
+    }
+  ]
+}

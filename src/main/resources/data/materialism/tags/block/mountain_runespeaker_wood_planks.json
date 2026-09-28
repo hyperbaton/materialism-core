@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/hickory",
+    "tfc:wood/planks/chestnut",
+    "afc:wood/planks/eucalyptus",
+    "tfc:wood/planks/hickory_stairs",
+    "tfc:wood/planks/chestnut_stairs",
+    "afc:wood/planks/eucalyptus_stairs",
+    "tfc:wood/planks/hickory_slab",
+    "tfc:wood/planks/chestnut_slab",
+    "afc:wood/planks/eucalyptus_slab"
+  ]
+}

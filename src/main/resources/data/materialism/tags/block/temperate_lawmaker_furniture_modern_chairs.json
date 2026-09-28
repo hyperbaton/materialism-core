@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_modern_chair",
+      "required": false
+    }
+  ]
+}

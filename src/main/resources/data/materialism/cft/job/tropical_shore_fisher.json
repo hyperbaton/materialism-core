@@ -1,0 +1,15 @@
+{
+  "type": "cft:fisher",
+  "hours_per_day": 4.0,
+  "radius": 24,
+  "min_body_size": 40,
+  "catch_interval": 400,
+  "catches": [
+    {
+      "item": {
+        "item": "tfc:food/tropical_fish"
+      },
+      "weight": 0.3
+    }
+  ]
+}

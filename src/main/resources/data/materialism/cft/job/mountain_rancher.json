@@ -1,0 +1,15 @@
+{
+  "type": "cft:rancher",
+  "hours_per_day": 4.0,
+  "required_structure": "materialism:pasture_yak",
+  "feed": [
+    {
+      "item": {
+        "tag": "c:foods/grain"
+      },
+      "quantity": 1
+    }
+  ],
+  "shear": true,
+  "milk": true
+}

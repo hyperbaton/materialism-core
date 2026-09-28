@@ -1,0 +1,49 @@
+{
+  "type": "cft:compound",
+  "id": "materialism:tropical_plaza",
+  "key_block": "minecraft:bell",
+  "max_users": 0,
+  "requires_container": false,
+  "priority": 0,
+  "surfaceBlocks": [
+    {
+      "block": "rnr:rock/flagstones/basalt",
+      "minQuantity": 25,
+      "maxQuantity": 2000,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "rnr:rock/sett_road/basalt",
+      "minQuantity": 0,
+      "maxQuantity": 2000,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    },
+    {
+      "block": "tfc:rock/chiseled/basalt",
+      "minQuantity": 0,
+      "maxQuantity": 400,
+      "minPercentage": 0.0,
+      "maxPercentage": 1.0
+    }
+  ],
+  "requires_sky_access": true,
+  "requiredStructures": [
+    {
+      "structure_type": "materialism:tropical_hall",
+      "min": 1,
+      "max_distance": 24
+    },
+    {
+      "structure_type": "materialism:tropical_library",
+      "min": 1,
+      "max_distance": 24
+    },
+    {
+      "structure_type": "materialism:tropical_sun_blessed_house",
+      "min": 1,
+      "max_distance": 24
+    }
+  ]
+}

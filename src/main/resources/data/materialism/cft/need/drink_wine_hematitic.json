@@ -1,0 +1,14 @@
+{
+  "id": "materialism:drink_wine_hematitic",
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.4658,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "item": {
+    "item": "firmalife:hematitic_wine_bottle"
+  },
+  "quantity": 1,
+  "hoarding": 2
+}

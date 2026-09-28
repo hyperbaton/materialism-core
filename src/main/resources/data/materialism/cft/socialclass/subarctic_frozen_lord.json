@@ -4,37 +4,71 @@
   "matingHappinessThreshold": 2000.0,
   "spontaneouslySpawnPopulation": 0,
   "needs": [
-    "materialism:altitude_lowlands",
     "materialism:temperature_subarctic",
     "materialism:rainfall_subarctic",
+    "materialism:altitude_lowlands",
     "materialism:home_subarctic_frozen_lord",
-    "materialism:heating_diesel",
-    "materialism:clothing_leather_torso",
-    "materialism:clothing_leather_legs",
-    "materialism:clothing_leather_head",
-    "materialism:clothing_leather_feet",
-    "materialism:drink_aged_rye_whiskey",
-    "materialism:food_pasta_with_tomato_sauce",
+    "materialism:heating_subarctic_t5",
+    "materialism:lighting_t5",
+    "materialism:social_subarctic_court",
+    "materialism:clothing_insulated_head",
+    "materialism:clothing_insulated_chest",
+    "materialism:clothing_insulated_legs",
+    "materialism:clothing_insulated_feet",
+    "materialism:drink_aged_vodka_t5",
+    "materialism:drink_aged_rye_whiskey_t5",
+    "materialism:food_cooked_pie",
     "materialism:food_vintage_chevre",
-    "materialism:food_pumpkin_pie"
+    "materialism:food_smoked_salmon_t5",
+    "materialism:food_vanilla_ice_cream",
+    "materialism:food_pumpkin_pie",
+    "materialism:household_sugar_t5",
+    "materialism:household_sapphire_jewel",
+    "materialism:energy_t5",
+    "materialism:compound_subarctic_plaza",
+    "materialism:ritual_aurora_rite_t5",
+    "materialism:reading_t5",
+    "materialism:pet_dog_1_t5",
+    "materialism:pet_horse_1_t5"
   ],
-  "upgrades": [
+  "jobs": [
+    "materialism:subarctic_midwinter_feast_host"
   ],
+  "maxHealth": 30.0,
+  "upgrades": [],
   "downgrades": [
     {
       "nextClass": "materialism:subarctic_frostborn",
-      "requiredHappiness": 100.0,
+      "requiredHappiness": 200.0,
       "requiredNeeds": [
         {
-          "need": "cft:temperature_subarctic",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:home_subarctic_frozen_lord",
+          "satisfactionThreshold": 0.25
         },
         {
-          "need": "cft:rainfall_subarctic",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:heating_subarctic_t5",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:food_cooked_pie",
+          "satisfactionThreshold": 0.25
         }
       ],
-      "socialStructureRequirements": []
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:subarctic_snowkin",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:subarctic_snowkin",
+            "materialism:subarctic_frostmarked",
+            "materialism:subarctic_trailwarden",
+            "materialism:subarctic_hearthkeeper",
+            "materialism:subarctic_frostborn",
+            "materialism:subarctic_elder",
+            "materialism:subarctic_frozen_lord"
+          ]
+        }
+      ]
     }
   ]
 }

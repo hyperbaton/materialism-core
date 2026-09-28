@@ -1,0 +1,13 @@
+{
+  "id": "materialism:clothing_wool_chest_t2",
+  "type": "cft:equipment",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.1739,
+  "satisfaction_threshold": 0.5,
+  "frequency": 10.0,
+  "item": {
+    "item": "tfcambiental:wool_sweater"
+  },
+  "slot": "chest"
+}

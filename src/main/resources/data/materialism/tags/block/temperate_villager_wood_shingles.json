@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/sycamore",
+    "rnr:wood/shingles/birch",
+    "rnr:wood/shingles/sycamore_stairs",
+    "rnr:wood/shingles/birch_stairs",
+    "rnr:wood/shingles/sycamore_slab",
+    "rnr:wood/shingles/birch_slab"
+  ]
+}

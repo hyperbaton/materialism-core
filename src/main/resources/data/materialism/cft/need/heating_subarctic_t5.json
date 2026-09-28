@@ -1,0 +1,12 @@
+{
+  "id": "materialism:heating_subarctic_t5",
+  "type": "cftfc:heat_source",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 0.411,
+  "satisfaction_threshold": 0.5,
+  "frequency": 0.25,
+  "search_radius": 6,
+  "min_source_temperature": 400,
+  "temperature_threshold": 25
+}

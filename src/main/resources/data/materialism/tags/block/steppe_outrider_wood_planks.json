@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/ash",
+    "afc:wood/planks/cypress",
+    "afc:wood/planks/eucalyptus",
+    "tfc:wood/planks/ash_stairs",
+    "afc:wood/planks/cypress_stairs",
+    "afc:wood/planks/eucalyptus_stairs",
+    "tfc:wood/planks/ash_slab",
+    "afc:wood/planks/cypress_slab",
+    "afc:wood/planks/eucalyptus_slab"
+  ]
+}

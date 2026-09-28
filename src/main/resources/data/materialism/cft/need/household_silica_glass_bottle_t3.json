@@ -1,0 +1,13 @@
+{
+  "id": "materialism:household_silica_glass_bottle_t3",
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.9091,
+  "satisfaction_threshold": 0.5,
+  "frequency": 7.0,
+  "item": {
+    "item": "tfc:silica_glass_bottle"
+  },
+  "quantity": 1
+}

@@ -1,0 +1,40 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:desert_hall",
+  "ritual_id": "materialism:star_reading",
+  "frequency": 3.0,
+  "duration": 1200,
+  "ingredients": [
+    {
+      "item": {
+        "tag": "materialism:candles"
+      },
+      "quantity": 4
+    },
+    {
+      "item": {
+        "item": "firmalife:food/feta"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/cooked_shellfish"
+      },
+      "quantity": 2
+    }
+  ],
+  "summon_radius": 48,
+  "ritual_radius": 8,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:desert_trade_lord",
+        "materialism:desert_dune_elder",
+        "materialism:desert_sunward"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 12
+}

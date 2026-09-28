@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_modern_chair",
+      "required": false
+    }
+  ]
+}

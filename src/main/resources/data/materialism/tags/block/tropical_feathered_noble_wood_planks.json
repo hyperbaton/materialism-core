@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/planks/ipe",
+    "afc:wood/planks/ironwood",
+    "afc:wood/planks/ipe_stairs",
+    "afc:wood/planks/ironwood_stairs",
+    "afc:wood/planks/ipe_slab",
+    "afc:wood/planks/ironwood_slab"
+  ]
+}

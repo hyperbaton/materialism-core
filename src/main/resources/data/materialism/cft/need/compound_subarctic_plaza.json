@@ -1,0 +1,12 @@
+{
+  "id": "materialism:compound_subarctic_plaza",
+  "type": "cft:structure",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.4658,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "required_structure": "materialism:subarctic_plaza",
+  "requires_usage": false,
+  "search_radius": 48
+}

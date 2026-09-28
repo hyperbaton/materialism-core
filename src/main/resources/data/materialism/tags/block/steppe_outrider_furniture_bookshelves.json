@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/ash",
+    "afc:wood/bookshelf/cypress",
+    "afc:wood/bookshelf/eucalyptus"
+  ]
+}

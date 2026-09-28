@@ -1,0 +1,38 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/fence/cypress",
+    "tfc:wood/fence/sycamore",
+    "afc:wood/log_fence/cypress",
+    "tfc:wood/log_fence/sycamore",
+    "afc:wood/planks/cypress_log_fence",
+    {
+      "id": "tfc:wood/planks/sycamore_log_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/cypress_fences/cypress_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/sycamore_fences/sycamore_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/cypress_fences/cypress_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/sycamore_fences/sycamore_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/cypress_fences/cypress_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/sycamore_fences/sycamore_stockade_fence",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/planks/teak",
+    "afc:wood/planks/ironwood",
+    "afc:wood/planks/teak_stairs",
+    "afc:wood/planks/ironwood_stairs",
+    "afc:wood/planks/teak_slab",
+    "afc:wood/planks/ironwood_slab"
+  ]
+}

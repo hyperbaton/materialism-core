@@ -1,55 +1,115 @@
-﻿{
-    "id":  "materialism:tropical_feathered_noble",
-    "maxHappiness":  200.0,
-    "matingHappinessThreshold":  2000.0,
-    "spontaneouslySpawnPopulation":  0,
-    "needs":  [
-                  "materialism:altitude_lowlands",
-                  "materialism:temperature_tropical",
-                  "materialism:rainfall_tropical",
-                  "materialism:home_tropical_feathered_noble",
-                  "materialism:heating_diesel",
-                  "materialism:drink_aged_sake",
-                  "materialism:food_maki_roll",
-                  "materialism:food_aged_gouda",
-                  "materialism:food_smoked_tropical_fish"
-              ],
-    "upgrades":  [
-                     {
-                         "nextClass":  "materialism:tropical_sun_blessed",
-                         "requiredHappiness":  100.0,
-                         "requiredNeeds":  [
-                                               {
-                                                   "need":  "cft:temperature_tropical",
-                                                   "satisfactionThreshold":  0.90
-                                               },
-                                               {
-                                                   "need":  "cft:rainfall_tropical",
-                                                   "satisfactionThreshold":  0.90
-                                               }
-                                           ],
-                         "socialStructureRequirements":  [
-
-                                                         ]
-                     }
-                 ],
-    "downgrades":  [
-                       {
-                           "nextClass":  "materialism:tropical_raincaller",
-                           "requiredHappiness":  25.0,
-                           "requiredNeeds":  [
-                                                 {
-                                                     "need":  "cft:temperature_tropical",
-                                                     "satisfactionThreshold":  0.90
-                                                 },
-                                                 {
-                                                     "need":  "cft:rainfall_tropical",
-                                                     "satisfactionThreshold":  0.90
-                                                 }
-                                             ],
-                           "socialStructureRequirements":  [
-
-                                                           ]
-                       }
-                   ]
+{
+  "id": "materialism:tropical_feathered_noble",
+  "maxHappiness": 400.0,
+  "matingHappinessThreshold": 2000.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:temperature_tropical",
+    "materialism:rainfall_tropical",
+    "materialism:altitude_lowlands",
+    "materialism:home_tropical_feathered_noble",
+    "materialism:heating_tropical_t4",
+    "materialism:lighting_t4",
+    "materialism:social_tropical_retinue",
+    "materialism:clothing_burlap_head_t4",
+    "materialism:clothing_leather_chest_t4",
+    "materialism:clothing_leather_legs_t4",
+    "materialism:clothing_burlap_feet_t4",
+    "materialism:equip_steel_javelin",
+    "materialism:equip_wrought_iron_shield",
+    "materialism:drink_aged_sake_t4",
+    "materialism:drink_sake_t4",
+    "materialism:food_maki_roll",
+    "materialism:food_aged_gouda",
+    "materialism:food_smoked_tropical_fish_t4",
+    "materialism:food_smoked_duck_t4",
+    "materialism:household_silk_cloth_t4",
+    "materialism:household_sugar_t4",
+    "materialism:household_olivine_glass_bottle_t4",
+    "materialism:energy_t4",
+    "materialism:workplace_tropical_authority",
+    "materialism:ritual_calendar_rite_t4",
+    "materialism:reading_t4",
+    "materialism:pet_cat_1_t4",
+    "materialism:aspire_tropical_leader"
+  ],
+  "jobs": [
+    "materialism:tropical_captain",
+    "materialism:tropical_merchant"
+  ],
+  "maxHealth": 40.0,
+  "upgrades": [
+    {
+      "nextClass": "materialism:tropical_sun_blessed",
+      "requiredHappiness": 300.0,
+      "requiredNeeds": [
+        {
+          "need": "materialism:aspire_tropical_leader",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:home_tropical_feathered_noble",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:reading_t4",
+          "satisfactionThreshold": 0.4
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:tropical_palmhand",
+          "percentage": 0.35,
+          "scope": [
+            "materialism:tropical_palmhand",
+            "materialism:tropical_junglebound",
+            "materialism:tropical_bloomtender",
+            "materialism:tropical_raincaller",
+            "materialism:tropical_feathered_noble",
+            "materialism:tropical_councilor",
+            "materialism:tropical_sun_blessed"
+          ]
+        },
+        {
+          "socialClass": "materialism:tropical_feathered_noble",
+          "percentage": 0.75,
+          "scope": [
+            "materialism:tropical_feathered_noble",
+            "materialism:tropical_sun_blessed"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:tropical_junglebound",
+      "requiredHappiness": 60.0,
+      "requiredNeeds": [
+        {
+          "need": "materialism:home_tropical_feathered_noble",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:food_maki_roll",
+          "satisfactionThreshold": 0.25
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:tropical_palmhand",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:tropical_palmhand",
+            "materialism:tropical_junglebound",
+            "materialism:tropical_bloomtender",
+            "materialism:tropical_raincaller",
+            "materialism:tropical_feathered_noble",
+            "materialism:tropical_councilor",
+            "materialism:tropical_sun_blessed"
+          ]
+        }
+      ]
+    }
+  ]
 }

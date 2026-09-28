@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_bookshelf",
+      "required": false
+    },
+    "afc:wood/bookshelf/fig",
+    "tfc:wood/bookshelf/sycamore"
+  ]
+}

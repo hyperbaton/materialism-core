@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_drawer",
+      "required": false
+    }
+  ]
+}

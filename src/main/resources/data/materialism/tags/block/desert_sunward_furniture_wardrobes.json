@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_drawer",
+      "required": false
+    }
+  ]
+}

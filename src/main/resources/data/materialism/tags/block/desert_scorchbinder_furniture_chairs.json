@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_striped_chair",
+      "required": false
+    }
+  ]
+}

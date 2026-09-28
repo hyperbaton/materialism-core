@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/douglas_fir",
+    "rnr:wood/shingles/oak",
+    "rnr:wood/shingles/douglas_fir_stairs",
+    "rnr:wood/shingles/oak_stairs",
+    "rnr:wood/shingles/douglas_fir_slab",
+    "rnr:wood/shingles/oak_slab"
+  ]
+}

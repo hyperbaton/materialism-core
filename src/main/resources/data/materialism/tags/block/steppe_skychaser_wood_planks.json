@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/planks/cypress",
+    "tfc:wood/planks/willow",
+    "afc:wood/planks/cypress_stairs",
+    "tfc:wood/planks/willow_stairs",
+    "afc:wood/planks/cypress_slab",
+    "tfc:wood/planks/willow_slab"
+  ]
+}

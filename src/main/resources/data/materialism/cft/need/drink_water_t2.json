@@ -1,0 +1,13 @@
+{
+  "id": "materialism:drink_water_t2",
+  "type": "cft:fluid",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 0.4348,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "fluid_stack": {
+    "id": "minecraft:water",
+    "amount": 500
+  }
+}

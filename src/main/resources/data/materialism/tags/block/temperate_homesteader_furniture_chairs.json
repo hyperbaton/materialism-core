@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/maple_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/maple_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/stripped_maple_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_striped_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/maple_furniture/stripped_maple_striped_chair",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_end_table",
+      "required": false
+    }
+  ]
+}

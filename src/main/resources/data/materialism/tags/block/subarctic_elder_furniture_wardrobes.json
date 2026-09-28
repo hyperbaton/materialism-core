@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/hickory_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/stripped_hickory_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/hickory_furniture/stripped_hickory_drawer",
+      "required": false
+    }
+  ]
+}

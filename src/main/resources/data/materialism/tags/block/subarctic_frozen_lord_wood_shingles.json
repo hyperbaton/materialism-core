@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/sequoia",
+    "rnr:wood/shingles/rosewood",
+    "rnr:wood/shingles/sequoia_stairs",
+    "rnr:wood/shingles/rosewood_stairs",
+    "rnr:wood/shingles/sequoia_slab",
+    "rnr:wood/shingles/rosewood_slab"
+  ]
+}

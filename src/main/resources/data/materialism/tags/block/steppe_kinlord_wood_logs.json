@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/hickory",
+    "tfc:wood/log/chestnut",
+    "tfc:wood/wood/hickory",
+    "tfc:wood/wood/chestnut",
+    "tfc:wood/stripped_log/hickory",
+    "tfc:wood/stripped_log/chestnut"
+  ]
+}

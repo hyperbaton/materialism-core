@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/rosewood",
+    "afc:wood/log/mahogany",
+    "tfc:wood/wood/rosewood",
+    "afc:wood/wood/mahogany",
+    "tfc:wood/stripped_log/rosewood",
+    "afc:wood/stripped_log/mahogany"
+  ]
+}

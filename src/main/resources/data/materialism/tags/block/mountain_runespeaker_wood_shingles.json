@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/hickory",
+    "rnr:wood/shingles/chestnut",
+    {
+      "id": "rnr:wood/shingles/eucalyptus",
+      "required": false
+    },
+    "rnr:wood/shingles/hickory_stairs",
+    "rnr:wood/shingles/chestnut_stairs",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/hickory_slab",
+    "rnr:wood/shingles/chestnut_slab",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_slab",
+      "required": false
+    }
+  ]
+}

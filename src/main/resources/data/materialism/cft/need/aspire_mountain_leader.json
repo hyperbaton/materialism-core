@@ -1,0 +1,14 @@
+{
+  "id": "materialism:aspire_mountain_leader",
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.0,
+  "satisfaction_threshold": 0.5,
+  "frequency": 7.0,
+  "hidden": true,
+  "item": {
+    "item": "tfc:gem/diamond"
+  },
+  "quantity": 1
+}

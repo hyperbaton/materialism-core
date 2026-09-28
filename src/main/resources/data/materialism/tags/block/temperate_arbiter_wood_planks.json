@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/rosewood",
+    "afc:wood/planks/mahogany",
+    "afc:wood/planks/ipe",
+    "tfc:wood/planks/rosewood_stairs",
+    "afc:wood/planks/mahogany_stairs",
+    "afc:wood/planks/ipe_stairs",
+    "tfc:wood/planks/rosewood_slab",
+    "afc:wood/planks/mahogany_slab",
+    "afc:wood/planks/ipe_slab"
+  ]
+}

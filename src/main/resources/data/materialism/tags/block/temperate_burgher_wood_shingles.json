@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/ash",
+    "rnr:wood/shingles/douglas_fir",
+    {
+      "id": "rnr:wood/shingles/eucalyptus",
+      "required": false
+    },
+    "rnr:wood/shingles/ash_stairs",
+    "rnr:wood/shingles/douglas_fir_stairs",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/ash_slab",
+    "rnr:wood/shingles/douglas_fir_slab",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_slab",
+      "required": false
+    }
+  ]
+}

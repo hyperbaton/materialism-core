@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_bookshelf",
+      "required": false
+    },
+    "afc:wood/bookshelf/cypress",
+    "tfc:wood/bookshelf/sycamore"
+  ]
+}

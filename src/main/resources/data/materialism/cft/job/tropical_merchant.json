@@ -1,0 +1,6 @@
+{
+  "type": "cft:trader",
+  "hours_per_day": 6.0,
+  "required_structure": "materialism:tropical_hall",
+  "max_trades": 4
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_modern_chair",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_modern_chair",
+      "required": false
+    }
+  ]
+}

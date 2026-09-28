@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/log/ipe",
+    "tfc:wood/log/blackwood",
+    "afc:wood/wood/ipe",
+    "tfc:wood/wood/blackwood",
+    "afc:wood/stripped_log/ipe",
+    "tfc:wood/stripped_log/blackwood"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_drawer",
+      "required": false
+    }
+  ]
+}

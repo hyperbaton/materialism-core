@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/pine",
+    "tfc:wood/bookshelf/spruce"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/fig",
+      "required": false
+    },
+    "rnr:wood/shingles/willow",
+    {
+      "id": "rnr:wood/shingles/fig_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/willow_stairs",
+    {
+      "id": "rnr:wood/shingles/fig_slab",
+      "required": false
+    },
+    "rnr:wood/shingles/willow_slab"
+  ]
+}

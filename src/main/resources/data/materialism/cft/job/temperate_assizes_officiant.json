@@ -1,0 +1,40 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:temperate_hall",
+  "ritual_id": "materialism:assizes",
+  "frequency": 3.0,
+  "duration": 1200,
+  "ingredients": [
+    {
+      "item": {
+        "tag": "materialism:candles"
+      },
+      "quantity": 4
+    },
+    {
+      "item": {
+        "item": "firmalife:food/cheddar"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/cooked_rainbow_trout"
+      },
+      "quantity": 2
+    }
+  ],
+  "summon_radius": 48,
+  "ritual_radius": 8,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:temperate_steward",
+        "materialism:temperate_lawmaker",
+        "materialism:temperate_arbiter"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 12
+}

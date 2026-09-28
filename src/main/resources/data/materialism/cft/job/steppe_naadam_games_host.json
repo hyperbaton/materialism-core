@@ -1,0 +1,51 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:steppe_plaza",
+  "ritual_id": "materialism:naadam_games",
+  "frequency": 7.0,
+  "duration": 2400,
+  "ingredients": [
+    {
+      "item": {
+        "item": "minecraft:sugar"
+      },
+      "quantity": 8
+    },
+    {
+      "item": {
+        "item": "tfc:gem/topaz"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/barley_bread_sandwich"
+      },
+      "quantity": 4
+    }
+  ],
+  "summon_radius": 96,
+  "ritual_radius": 16,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:steppe_nomad",
+        "materialism:steppe_clansman",
+        "materialism:steppe_outrider",
+        "materialism:steppe_dustwalker",
+        "materialism:steppe_skychaser",
+        "materialism:steppe_kinlord",
+        "materialism:steppe_windborn"
+      ],
+      "min": 8
+    },
+    {
+      "classes": [
+        "materialism:steppe_kinlord",
+        "materialism:steppe_windborn"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 80
+}

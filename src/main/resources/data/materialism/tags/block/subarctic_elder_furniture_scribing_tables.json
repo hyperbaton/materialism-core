@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/scribing_table/oak",
+    "tfc:wood/scribing_table/hickory"
+  ]
+}

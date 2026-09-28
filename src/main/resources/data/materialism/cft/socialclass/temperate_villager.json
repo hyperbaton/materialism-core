@@ -1,52 +1,168 @@
 {
   "id": "materialism:temperate_villager",
-  "maxHappiness": 15.0,
-  "matingHappinessThreshold": 10.0,
+  "maxHappiness": 60.0,
+  "matingHappinessThreshold": 25.0,
   "spontaneouslySpawnPopulation": 0,
   "needs": [
-    "materialism:altitude_lowlands",
     "materialism:temperature_temperate",
     "materialism:rainfall_temperate",
+    "materialism:altitude_lowlands",
     "materialism:home_temperate_villager",
-    "materialism:heating_sticks",
-    "materialism:clothing_wool_torso",
-    "materialism:clothing_wool_legs",
-    "materialism:clothing_wool_head",
-    "materialism:clothing_wool_feet",
+    "materialism:heating_temperate_t2",
+    "materialism:lighting_t2",
+    "materialism:social_temperate_village",
+    "materialism:clothing_straw_head_t2",
+    "materialism:clothing_wool_chest_t2",
+    "materialism:clothing_wool_legs_t2",
     "materialism:drink_milk",
+    "materialism:drink_water_t2",
     "materialism:food_wheat_bread",
-    "materialism:food_brined_cabbage"
+    "materialism:food_brined_cabbage",
+    "materialism:household_jug",
+    "materialism:ritual_moonlit_vigil",
+    "materialism:aspire_temperate_defender",
+    "materialism:aspire_temperate_maker",
+    "materialism:aspire_temperate_keeper"
+  ],
+  "jobs": [
+    "materialism:temperate_wheat_farmer",
+    "materialism:temperate_grain_hauler",
+    "materialism:temperate_builder",
+    "materialism:temperate_rancher"
   ],
   "upgrades": [
     {
-      "nextClass": "materialism:temperate_steward",
-      "requiredHappiness": 10.0,
+      "nextClass": "materialism:temperate_barkcloak",
+      "requiredHappiness": 40.0,
       "requiredNeeds": [
         {
-          "need": "cft:temperature_temperate",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:aspire_temperate_defender",
+          "satisfactionThreshold": 0.4
         },
         {
-          "need": "cft:rainfall_temperate",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:temperature_temperate",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfactionThreshold": 0.4
         }
       ],
       "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:temperate_villager",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
+      ]
+    },
+    {
+      "nextClass": "materialism:temperate_burgher",
+      "requiredHappiness": 40.0,
+      "requiredNeeds": [
+        {
+          "need": "materialism:aspire_temperate_maker",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_temperate",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfactionThreshold": 0.4
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:temperate_villager",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
+      ]
+    },
+    {
+      "nextClass": "materialism:temperate_moonwake",
+      "requiredHappiness": 40.0,
+      "requiredNeeds": [
+        {
+          "need": "materialism:aspire_temperate_keeper",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_temperate",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfactionThreshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfactionThreshold": 0.4
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:temperate_villager",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
       ]
     }
   ],
   "downgrades": [
     {
       "nextClass": "materialism:temperate_homesteader",
-      "requiredHappiness": 2.5,
+      "requiredHappiness": 5.0,
       "requiredNeeds": [
         {
-          "need": "cft:temperature_temperate",
-          "satisfactionThreshold": 0.80
+          "need": "materialism:home_temperate_villager",
+          "satisfactionThreshold": 0.25
         },
         {
-          "need": "cft:rainfall_temperate",
-          "satisfactionThreshold": 0.80
+          "need": "materialism:drink_milk",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t2",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:food_wheat_bread",
+          "satisfactionThreshold": 0.25
         }
       ],
       "socialStructureRequirements": []

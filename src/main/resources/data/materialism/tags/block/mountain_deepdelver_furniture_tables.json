@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_end_table",
+      "required": false
+    }
+  ]
+}

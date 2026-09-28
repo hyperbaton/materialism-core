@@ -1,0 +1,13 @@
+{
+  "id": "materialism:drink_aged_vodka_t5",
+  "type": "cft:fluid",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.4658,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "fluid_stack": {
+    "id": "tfcagedalcohol:aged_vodka",
+    "amount": 250
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_end_table",
+      "required": false
+    }
+  ]
+}

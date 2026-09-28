@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/white_cedar",
+    "afc:wood/bookshelf/eucalyptus"
+  ]
+}

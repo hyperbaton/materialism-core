@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/kapok",
+    "tfc:wood/fence/mangrove",
+    "tfc:wood/log_fence/kapok",
+    "tfc:wood/log_fence/mangrove",
+    {
+      "id": "tfc:wood/planks/kapok_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/mangrove_log_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/kapok_fences/kapok_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/mangrove_fences/mangrove_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/kapok_fences/kapok_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/mangrove_fences/mangrove_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/kapok_fences/kapok_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/mangrove_fences/mangrove_stockade_fence",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "materialism:household_hide_blanket",
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 3.1579,
+  "satisfaction_threshold": 0.5,
+  "frequency": 10.0,
+  "item": {
+    "item": "tfc:medium_raw_hide"
+  },
+  "quantity": 1
+}

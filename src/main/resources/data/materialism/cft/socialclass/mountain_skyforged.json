@@ -1,55 +1,118 @@
 {
   "id": "materialism:mountain_skyforged",
-  "maxHappiness": 200.0,
+  "maxHappiness": 400.0,
   "matingHappinessThreshold": 2000.0,
   "spontaneouslySpawnPopulation": 0,
   "needs": [
-    "materialism:altitude_mountain",
     "materialism:temperature_mountain",
     "materialism:rainfall_mountain",
+    "materialism:altitude_mountain",
     "materialism:home_mountain_skyforged",
-    "materialism:heating_diesel",
-    "materialism:clothing_leather_torso",
-    "materialism:clothing_leather_legs",
-    "materialism:clothing_leather_head",
-    "materialism:clothing_leather_feet",
-    "materialism:drink_aged_corn_whiskey",
-    "materialism:food_cooked_pie",
+    "materialism:heating_mountain_t4",
+    "materialism:lighting_t4",
+    "materialism:social_mountain_retinue",
+    "materialism:clothing_leather_head_t4",
+    "materialism:clothing_leather_chest_t4",
+    "materialism:clothing_leather_legs_t4",
+    "materialism:clothing_leather_feet_t4",
+    "materialism:equip_steel_mace",
+    "materialism:equip_wrought_iron_shield",
+    "materialism:drink_aged_corn_whiskey_t4",
+    "materialism:drink_mead_t4",
+    "materialism:food_maize_bread_sandwich",
     "materialism:food_aged_rajya_metok",
-    "materialism:food_smoked_salmon"
+    "materialism:food_smoked_salmon_t4",
+    "materialism:food_smoked_mutton_t4",
+    "materialism:household_sugar_t4",
+    "materialism:household_volcanic_glass_bottle_t4",
+    "materialism:energy_t4",
+    "materialism:workplace_mountain_authority",
+    "materialism:ritual_rune_moot_t4",
+    "materialism:reading_t4",
+    "materialism:pet_dog_1_t4",
+    "materialism:aspire_mountain_leader"
   ],
+  "jobs": [
+    "materialism:mountain_captain",
+    "materialism:mountain_merchant"
+  ],
+  "maxHealth": 40.0,
   "upgrades": [
     {
       "nextClass": "materialism:mountain_stormcaller",
-      "requiredHappiness": 100.0,
+      "requiredHappiness": 300.0,
       "requiredNeeds": [
         {
-          "need": "cft:temperature_mountain",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:aspire_mountain_leader",
+          "satisfactionThreshold": 0.4
         },
         {
-          "need": "cft:rainfall_mountain",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:home_mountain_skyforged",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:reading_t4",
+          "satisfactionThreshold": 0.4
         }
       ],
-      "socialStructureRequirements": []
-	}
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:mountain_cliffdweller",
+          "percentage": 0.35,
+          "scope": [
+            "materialism:mountain_cliffdweller",
+            "materialism:mountain_passwarden",
+            "materialism:mountain_deepdelver",
+            "materialism:mountain_peakrunner",
+            "materialism:mountain_skyforged",
+            "materialism:mountain_runespeaker",
+            "materialism:mountain_stormcaller"
+          ]
+        },
+        {
+          "socialClass": "materialism:mountain_skyforged",
+          "percentage": 0.75,
+          "scope": [
+            "materialism:mountain_skyforged",
+            "materialism:mountain_stormcaller"
+          ]
+        }
+      ]
+    }
   ],
   "downgrades": [
     {
-      "nextClass": "materialism:mountain_runespeaker",
-      "requiredHappiness": 20.0,
+      "nextClass": "materialism:mountain_passwarden",
+      "requiredHappiness": 60.0,
       "requiredNeeds": [
         {
-          "need": "cft:temperature_mountain",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:home_mountain_skyforged",
+          "satisfactionThreshold": 0.25
         },
         {
-          "need": "cft:rainfall_mountain",
-          "satisfactionThreshold": 0.90
+          "need": "materialism:heating_mountain_t4",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:food_maize_bread_sandwich",
+          "satisfactionThreshold": 0.25
         }
       ],
-      "socialStructureRequirements": []
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:mountain_cliffdweller",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:mountain_cliffdweller",
+            "materialism:mountain_passwarden",
+            "materialism:mountain_deepdelver",
+            "materialism:mountain_peakrunner",
+            "materialism:mountain_skyforged",
+            "materialism:mountain_runespeaker",
+            "materialism:mountain_stormcaller"
+          ]
+        }
+      ]
     }
   ]
 }

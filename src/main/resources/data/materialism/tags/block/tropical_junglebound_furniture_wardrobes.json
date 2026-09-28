@@ -1,0 +1,85 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_modern_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_double_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_double_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_large_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_triple_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_cupboard_counter",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_wardrobe",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_drawer",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_drawer",
+      "required": false
+    }
+  ]
+}

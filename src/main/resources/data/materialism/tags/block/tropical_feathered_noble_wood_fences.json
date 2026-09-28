@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/fence/ipe",
+    "afc:wood/fence/ironwood",
+    "afc:wood/log_fence/ipe",
+    "afc:wood/log_fence/ironwood",
+    "afc:wood/planks/ipe_log_fence",
+    "afc:wood/planks/ironwood_log_fence",
+    {
+      "id": "mcw_tfc_aio:fences/ipe_fences/ipe_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/ironwood_fences/ironwood_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/ipe_fences/ipe_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/ironwood_fences/ironwood_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/ipe_fences/ipe_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/ironwood_fences/ironwood_stockade_fence",
+      "required": false
+    }
+  ]
+}

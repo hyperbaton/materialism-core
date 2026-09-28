@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/sequoia_furniture/sequoia_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sequoia_furniture/stripped_sequoia_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sequoia_furniture/sequoia_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/sequoia_furniture/stripped_sequoia_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_end_table",
+      "required": false
+    }
+  ]
+}

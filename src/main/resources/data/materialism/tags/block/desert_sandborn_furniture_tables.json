@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_end_table",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_end_table",
+      "required": false
+    }
+  ]
+}

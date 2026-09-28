@@ -1,0 +1,13 @@
+{
+  "id": "materialism:clothing_insulated_legs",
+  "type": "cft:equipment",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 8.2192,
+  "satisfaction_threshold": 0.5,
+  "frequency": 10.0,
+  "item": {
+    "item": "tfcambiental:insulated_leather_pants"
+  },
+  "slot": "legs"
+}

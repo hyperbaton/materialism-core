@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/chestnut",
+    "tfc:wood/bookshelf/oak"
+  ]
+}

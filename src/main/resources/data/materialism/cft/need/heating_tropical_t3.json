@@ -1,0 +1,11 @@
+{
+  "id": "materialism:heating_tropical_t3",
+  "type": "cftfc:heat_source",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.1364,
+  "satisfaction_threshold": 0.5,
+  "frequency": 0.25,
+  "search_radius": 8,
+  "min_source_temperature": 200
+}

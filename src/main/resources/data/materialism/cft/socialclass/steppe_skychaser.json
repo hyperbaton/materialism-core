@@ -1,0 +1,103 @@
+{
+  "id": "materialism:steppe_skychaser",
+  "maxHappiness": 150.0,
+  "matingHappinessThreshold": 100.0,
+  "spontaneouslySpawnPopulation": 0,
+  "needs": [
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:altitude_lowlands",
+    "materialism:home_steppe_skychaser",
+    "materialism:heating_steppe_t3",
+    "materialism:lighting_t3",
+    "materialism:social_steppe_workforce",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_chest_t3",
+    "materialism:clothing_wool_legs_t3",
+    "materialism:clothing_wool_feet",
+    "materialism:drink_vodka_t3",
+    "materialism:drink_water_t3",
+    "materialism:food_dairy_soup",
+    "materialism:food_fresh_shosha_t3",
+    "materialism:food_smoked_mutton_t3",
+    "materialism:household_hematitic_glass_bottle_t3",
+    "materialism:household_candles",
+    "materialism:household_bandages",
+    "materialism:workplace_steppe_keeper",
+    "materialism:ritual_sky_offering_attend",
+    "materialism:aspire_lore"
+  ],
+  "jobs": [
+    "materialism:steppe_sky_offering_officiant",
+    "materialism:steppe_healer",
+    "materialism:steppe_scribe"
+  ],
+  "upgrades": [
+    {
+      "nextClass": "materialism:steppe_windborn",
+      "requiredHappiness": 100.0,
+      "requiredNeeds": [
+        {
+          "need": "materialism:aspire_lore",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:home_steppe_skychaser",
+          "satisfactionThreshold": 0.4
+        },
+        {
+          "need": "materialism:ritual_sky_offering_attend",
+          "satisfactionThreshold": 0.2
+        }
+      ],
+      "socialStructureRequirements": [
+        {
+          "socialClass": "materialism:steppe_clansman",
+          "percentage": 0.4,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        },
+        {
+          "socialClass": "materialism:steppe_skychaser",
+          "percentage": 0.5,
+          "scope": [
+            "materialism:steppe_skychaser",
+            "materialism:steppe_windborn"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "nextClass": "materialism:steppe_clansman",
+      "requiredHappiness": 20.0,
+      "requiredNeeds": [
+        {
+          "need": "materialism:home_steppe_skychaser",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:heating_steppe_t3",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t3",
+          "satisfactionThreshold": 0.25
+        },
+        {
+          "need": "materialism:food_dairy_soup",
+          "satisfactionThreshold": 0.25
+        }
+      ],
+      "socialStructureRequirements": []
+    }
+  ]
+}

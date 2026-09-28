@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/ash",
+    {
+      "id": "rnr:wood/shingles/cypress",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/eucalyptus",
+      "required": false
+    },
+    "rnr:wood/shingles/ash_stairs",
+    {
+      "id": "rnr:wood/shingles/cypress_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/eucalyptus_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/ash_slab",
+    {
+      "id": "rnr:wood/shingles/cypress_slab",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/eucalyptus_slab",
+      "required": false
+    }
+  ]
+}

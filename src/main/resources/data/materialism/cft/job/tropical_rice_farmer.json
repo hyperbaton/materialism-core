@@ -1,0 +1,15 @@
+{
+  "type": "cft:farmer",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:farm",
+  "seed": {
+    "item": "tfc:seeds/rice"
+  },
+  "product": {
+    "item": "tfc:food/rice"
+  },
+  "crop_block": "tfc:crop/rice",
+  "ripe_state": {
+    "age": "7"
+  }
+}

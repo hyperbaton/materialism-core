@@ -1,0 +1,52 @@
+{
+  "type": "cft:monument",
+  "id": "materialism:steppe_shrine",
+  "key_block_tag": "materialism:chiseled_rock",
+  "max_users": 0,
+  "requires_container": false,
+  "priority": 0,
+  "layerRules": [
+    {
+      "from": 0,
+      "to": 0,
+      "blocks": [
+        {
+          "tagBlock": "materialism:chiseled_rock",
+          "minQuantity": 1,
+          "maxQuantity": 1,
+          "minPercentage": 0.0,
+          "maxPercentage": 1.0
+        },
+        {
+          "block": "tfc:rock/cobble/chalk",
+          "minQuantity": 0,
+          "maxQuantity": 8,
+          "minPercentage": 0.0,
+          "maxPercentage": 1.0
+        }
+      ]
+    },
+    {
+      "from": 1,
+      "to": 7,
+      "blocks": [
+        {
+          "block": "tfc:rock/cobble/chalk",
+          "minQuantity": 1,
+          "maxQuantity": 9,
+          "minPercentage": 0.0,
+          "maxPercentage": 1.0
+        },
+        {
+          "block": "tfc:rock/raw/chalk",
+          "minQuantity": 0,
+          "maxQuantity": 9,
+          "minPercentage": 0.0,
+          "maxPercentage": 1.0
+        }
+      ]
+    }
+  ],
+  "min_height": 3,
+  "max_height": 8
+}

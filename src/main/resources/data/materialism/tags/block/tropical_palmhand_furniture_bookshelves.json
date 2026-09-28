@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_bookshelf",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_bookshelf",
+      "required": false
+    },
+    "tfc:wood/bookshelf/mangrove",
+    "tfc:wood/bookshelf/palm"
+  ]
+}

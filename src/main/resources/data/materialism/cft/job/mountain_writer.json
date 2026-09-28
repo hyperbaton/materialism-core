@@ -1,0 +1,51 @@
+{
+  "type": "cft:writer",
+  "hours_per_day": 2.0,
+  "required_structure": "materialism:mountain_library",
+  "frequency_days": 10,
+  "pages_per_book": 6,
+  "input": {
+    "item": {
+      "item": "minecraft:writable_book"
+    },
+    "quantity": 1
+  },
+  "text_bank": {
+    "nouns": [
+      "peak",
+      "rune",
+      "forge",
+      "hammer",
+      "pass",
+      "storm",
+      "vein"
+    ],
+    "adjectives": [
+      "high",
+      "stony",
+      "thunderous",
+      "deep"
+    ],
+    "verbs": [
+      "delved",
+      "forged",
+      "climbed",
+      "carved"
+    ],
+    "places": [
+      "the high pass",
+      "the deep halls",
+      "the storm summit"
+    ],
+    "title_templates": [
+      "The %noun% of %place%",
+      "A %adjective% %noun%",
+      "Tales of the %adjective% %noun%"
+    ],
+    "sentence_templates": [
+      "The %adjective% %noun% %verb% the %noun% in %place%.",
+      "In %place%, the %noun% %verb% the %adjective% %noun%.",
+      "No %noun% was ever as %adjective% as in %place%."
+    ]
+  }
+}

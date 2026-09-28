@@ -1,0 +1,51 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:tropical_plaza",
+  "ritual_id": "materialism:sun_ascension",
+  "frequency": 7.0,
+  "duration": 2400,
+  "ingredients": [
+    {
+      "item": {
+        "item": "minecraft:sugar"
+      },
+      "quantity": 8
+    },
+    {
+      "item": {
+        "item": "tfc:gem/emerald"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "firmalife:food/maki_roll"
+      },
+      "quantity": 4
+    }
+  ],
+  "summon_radius": 96,
+  "ritual_radius": 16,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:tropical_mudkin",
+        "materialism:tropical_palmhand",
+        "materialism:tropical_junglebound",
+        "materialism:tropical_bloomtender",
+        "materialism:tropical_raincaller",
+        "materialism:tropical_feathered_noble",
+        "materialism:tropical_councilor"
+      ],
+      "min": 8
+    },
+    {
+      "classes": [
+        "materialism:tropical_feathered_noble",
+        "materialism:tropical_councilor"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 80
+}

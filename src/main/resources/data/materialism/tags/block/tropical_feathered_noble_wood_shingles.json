@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/ipe",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ironwood",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ipe_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ironwood_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ipe_slab",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ironwood_slab",
+      "required": false
+    }
+  ]
+}

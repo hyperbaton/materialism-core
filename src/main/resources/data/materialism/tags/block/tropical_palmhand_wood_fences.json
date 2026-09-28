@@ -1,0 +1,41 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/mangrove",
+    "tfc:wood/fence/palm",
+    "tfc:wood/log_fence/mangrove",
+    "tfc:wood/log_fence/palm",
+    {
+      "id": "tfc:wood/planks/mangrove_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/palm_log_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/mangrove_fences/mangrove_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/palm_fences/palm_horse_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/mangrove_fences/mangrove_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/palm_fences/palm_picket_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/mangrove_fences/mangrove_stockade_fence",
+      "required": false
+    },
+    {
+      "id": "mcw_tfc_aio:fences/palm_fences/palm_stockade_fence",
+      "required": false
+    }
+  ]
+}

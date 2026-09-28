@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/pine",
+    "tfc:wood/log/spruce",
+    "tfc:wood/log/aspen",
+    "tfc:wood/wood/pine",
+    "tfc:wood/wood/spruce",
+    "tfc:wood/wood/aspen",
+    "tfc:wood/stripped_log/pine",
+    "tfc:wood/stripped_log/spruce",
+    "tfc:wood/stripped_log/aspen"
+  ]
+}

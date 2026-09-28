@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/blackwood",
+    "rnr:wood/shingles/white_cedar",
+    "rnr:wood/shingles/blackwood_stairs",
+    "rnr:wood/shingles/white_cedar_stairs",
+    "rnr:wood/shingles/blackwood_slab",
+    "rnr:wood/shingles/white_cedar_slab"
+  ]
+}

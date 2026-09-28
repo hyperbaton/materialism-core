@@ -1,0 +1,13 @@
+{
+  "id": "materialism:household_bandages",
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.3636,
+  "satisfaction_threshold": 0.5,
+  "frequency": 5.0,
+  "item": {
+    "item": "tfc_medicine:primative_bandage"
+  },
+  "quantity": 1
+}

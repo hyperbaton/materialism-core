@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/white_cedar",
+    {
+      "id": "rnr:wood/shingles/eucalyptus",
+      "required": false
+    },
+    "rnr:wood/shingles/white_cedar_stairs",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/white_cedar_slab",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_slab",
+      "required": false
+    }
+  ]
+}
