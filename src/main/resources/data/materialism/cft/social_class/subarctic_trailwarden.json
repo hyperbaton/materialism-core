@@ -1,0 +1,206 @@
+{
+  "max_happiness": 150.0,
+  "mating_happiness_threshold": 100.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Aput",
+    "Siku",
+    "Nuka",
+    "Ilaq",
+    "Tavik",
+    "Oqi",
+    "Ukaliq",
+    "Pana",
+    "Kallu",
+    "Ataq",
+    "Nive",
+    "Saqqaq",
+    "Tulu",
+    "Aaju",
+    "Kiviaq",
+    "Inu",
+    "Malik",
+    "Nauja",
+    "Pilu",
+    "Sura",
+    "Tikaani",
+    "Uki",
+    "Amaruq",
+    "Iluak",
+    "Kunuk",
+    "Naaja",
+    "Qilak",
+    "Sesi",
+    "Tuuli",
+    "Varje",
+    "Aili",
+    "Eira",
+    "Hilja",
+    "Joni",
+    "Kaisa",
+    "Lumi",
+    "Mielik",
+    "Oula",
+    "Ristin",
+    "Sunna"
+  ],
+  "schedule": [
+    {
+      "at": 7,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 16,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 22,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_subarctic",
+    "materialism:rainfall_subarctic",
+    "materialism:altitude_lowlands",
+    "materialism:home_subarctic_trailwarden",
+    "materialism:heating_subarctic_t3",
+    "materialism:lighting_t3",
+    "materialism:social_subarctic_workforce",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_chest_t3",
+    "materialism:clothing_wool_legs_t3",
+    "materialism:clothing_wool_feet",
+    "materialism:equip_tool_knife",
+    "materialism:drink_rye_whiskey_t3",
+    "materialism:drink_water_t3",
+    "materialism:food_protein_soup",
+    "materialism:food_fresh_chevre_t3",
+    "materialism:food_smoked_venison_t3",
+    "materialism:household_silica_glass_bottle_t3",
+    "materialism:household_candles",
+    "materialism:workplace_subarctic_maker",
+    "materialism:ritual_hearthfire_vigil_attend",
+    "materialism:ritual_midwinter_feast_t3",
+    "materialism:diet_t3",
+    "materialism:sleep_t3",
+    "materialism:socialize_subarctic_guild",
+    "materialism:visit_subarctic_tavern_t3",
+    "materialism:hear_music_t3",
+    "materialism:homeland_subarctic_t3",
+    "materialism:aspire_authority",
+    "materialism:aspire_lore"
+  ],
+  "jobs": [
+    "materialism:subarctic_hide_scraper",
+    "materialism:subarctic_barrel_keeper"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:subarctic_frostborn",
+      "required_happiness": 100.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_authority",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_subarctic_trailwarden",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:ritual_hearthfire_vigil_attend",
+          "satisfaction_threshold": 0.2
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:subarctic_snowkin",
+          "percentage": 0.4,
+          "scope": [
+            "materialism:subarctic_snowkin",
+            "materialism:subarctic_frostmarked",
+            "materialism:subarctic_trailwarden",
+            "materialism:subarctic_hearthkeeper",
+            "materialism:subarctic_frostborn",
+            "materialism:subarctic_elder",
+            "materialism:subarctic_frozen_lord"
+          ]
+        },
+        {
+          "social_class": "materialism:subarctic_trailwarden",
+          "percentage": 0.5,
+          "scope": [
+            "materialism:subarctic_trailwarden",
+            "materialism:subarctic_frostborn"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:subarctic_elder",
+      "required_happiness": 100.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_lore",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_subarctic_trailwarden",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:ritual_hearthfire_vigil_attend",
+          "satisfaction_threshold": 0.2
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:subarctic_snowkin",
+          "percentage": 0.4,
+          "scope": [
+            "materialism:subarctic_snowkin",
+            "materialism:subarctic_frostmarked",
+            "materialism:subarctic_trailwarden",
+            "materialism:subarctic_hearthkeeper",
+            "materialism:subarctic_frostborn",
+            "materialism:subarctic_elder",
+            "materialism:subarctic_frozen_lord"
+          ]
+        },
+        {
+          "social_class": "materialism:subarctic_trailwarden",
+          "percentage": 0.5,
+          "scope": [
+            "materialism:subarctic_trailwarden",
+            "materialism:subarctic_elder"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:subarctic_snowkin",
+      "required_happiness": 20.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_subarctic_trailwarden",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_subarctic_t3",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t3",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t3",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

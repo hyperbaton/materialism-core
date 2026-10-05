@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/sequoia",
+    "tfc:wood/planks/rosewood",
+    "tfc:wood/planks/sequoia_stairs",
+    "tfc:wood/planks/rosewood_stairs",
+    "tfc:wood/planks/sequoia_slab",
+    "tfc:wood/planks/rosewood_slab"
+  ]
+}

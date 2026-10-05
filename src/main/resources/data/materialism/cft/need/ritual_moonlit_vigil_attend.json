@@ -1,0 +1,11 @@
+{
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.5472,
+  "satisfaction_threshold": 0.2,
+  "frequency": 3.75,
+  "ritual_id": "materialism:moonlit_vigil",
+  "radius": 16,
+  "requires_presence": true
+}

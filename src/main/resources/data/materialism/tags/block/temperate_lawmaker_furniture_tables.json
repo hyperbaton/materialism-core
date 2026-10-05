@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_end_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_end_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_end_table"
+  ]
+}

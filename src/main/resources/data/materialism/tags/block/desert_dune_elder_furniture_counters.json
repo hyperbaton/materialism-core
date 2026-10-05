@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_cupboard_counter"
+  ]
+}

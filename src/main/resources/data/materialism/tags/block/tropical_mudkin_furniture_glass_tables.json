@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_glass_table"
+  ]
+}

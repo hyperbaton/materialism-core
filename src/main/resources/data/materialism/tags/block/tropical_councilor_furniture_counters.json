@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_cupboard_counter"
+  ]
+}

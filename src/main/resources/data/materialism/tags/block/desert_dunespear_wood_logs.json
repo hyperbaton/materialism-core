@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/acacia",
+    "tfc:wood/log/palm",
+    "tfc:wood/wood/acacia",
+    "tfc:wood/wood/palm",
+    "tfc:wood/stripped_log/acacia",
+    "tfc:wood/stripped_log/palm"
+  ]
+}

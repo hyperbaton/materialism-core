@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_stool_chair"
+  ]
+}

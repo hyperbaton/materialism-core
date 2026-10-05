@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/fence/ipe",
+    "tfc:wood/fence/blackwood",
+    "afc:wood/log_fence/ipe",
+    "tfc:wood/log_fence/blackwood",
+    "afc:wood/planks/ipe_log_fence",
+    {
+      "id": "tfc:wood/planks/blackwood_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_wired_fence"
+  ]
+}

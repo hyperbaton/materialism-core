@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_end_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_end_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_end_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_end_table"
+  ]
+}

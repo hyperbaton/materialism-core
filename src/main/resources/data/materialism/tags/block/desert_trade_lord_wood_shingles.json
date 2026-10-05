@@ -1,0 +1,48 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/white_cedar",
+    {
+      "id": "rnr:wood/shingles/eucalyptus",
+      "required": false
+    },
+    "rnr:wood/shingles/white_cedar_stairs",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/white_cedar_slab",
+    {
+      "id": "rnr:wood/shingles/eucalyptus_slab",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/white_cedar_roofs/white_cedar_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/eucalyptus_roofs/eucalyptus_planks_upper_steep_roof"
+  ]
+}

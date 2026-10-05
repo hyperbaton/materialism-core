@@ -1,0 +1,9 @@
+{
+  "type": "cft:guard",
+  "hours_per_day": 6.0,
+  "patrol_radius": 48,
+  "detection_radius": 32,
+  "required_needs": [
+    "materialism:equip_steel_mace"
+  ]
+}

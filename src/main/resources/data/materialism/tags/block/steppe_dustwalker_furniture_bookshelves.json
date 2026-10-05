@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/acacia",
+    "afc:wood/bookshelf/fig",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_lower_bookshelf_drawer"
+  ]
+}

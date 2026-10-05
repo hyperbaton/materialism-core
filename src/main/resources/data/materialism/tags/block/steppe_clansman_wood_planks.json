@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/acacia",
+    "tfc:wood/planks/acacia_stairs",
+    "tfc:wood/planks/acacia_slab"
+  ]
+}

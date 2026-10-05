@@ -1,0 +1,69 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:subarctic_plaza",
+  "ritual_id": "materialism:midwinter_feast",
+  "frequency": 7.0,
+  "duration": 2400,
+  "ingredients": [
+    {
+      "item": {
+        "item": "minecraft:sugar"
+      },
+      "quantity": 8
+    },
+    {
+      "item": {
+        "item": "tfc:gem/sapphire"
+      },
+      "quantity": 1
+    },
+    {
+      "item": {
+        "item": "tfc:food/rye_bread_sandwich"
+      },
+      "quantity": 4
+    }
+  ],
+  "summon_radius": 96,
+  "ritual_radius": 16,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:subarctic_tundrafellow",
+        "materialism:subarctic_snowkin",
+        "materialism:subarctic_frostmarked",
+        "materialism:subarctic_trailwarden",
+        "materialism:subarctic_hearthkeeper",
+        "materialism:subarctic_frostborn",
+        "materialism:subarctic_elder"
+      ],
+      "min": 8
+    },
+    {
+      "classes": [
+        "materialism:subarctic_frostborn",
+        "materialism:subarctic_elder"
+      ],
+      "min": 2
+    }
+  ],
+  "max_attendees": 80,
+  "schedule": [
+    {
+      "at": 0,
+      "activity": "minecraft:rest"
+    },
+    {
+      "at": 9,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:idle"
+    }
+  ]
+}

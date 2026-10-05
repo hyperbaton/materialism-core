@@ -1,10 +1,10 @@
 {
-  "id": "materialism:food_chocolate_ice_cream",
   "type": "cft:goods",
-  "damage": 0.5,
-  "damage_threshold": 0.25,
-  "provided_happiness": 1,
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.236,
   "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
   "item": {
     "type": "tfc:and",
     "children": [
@@ -16,6 +16,12 @@
       }
     ]
   },
-  "frequency": 1,
-  "quantity": 1
+  "quantity": 1,
+  "hoarding": 4,
+  "active_when": [
+    {
+      "type": "cftfc:season",
+      "seasons": "summer"
+    }
+  ]
 }

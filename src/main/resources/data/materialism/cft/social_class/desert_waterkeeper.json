@@ -1,0 +1,162 @@
+{
+  "max_happiness": 150.0,
+  "mating_happiness_threshold": 100.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Amir",
+    "Zahra",
+    "Idris",
+    "Layla",
+    "Tariq",
+    "Samira",
+    "Yusri",
+    "Nadia",
+    "Faris",
+    "Amina",
+    "Rashid",
+    "Dalia",
+    "Hakim",
+    "Yasmin",
+    "Karim",
+    "Leila",
+    "Nizar",
+    "Soraya",
+    "Zaid",
+    "Farah",
+    "Amastan",
+    "Tiziri",
+    "Massin",
+    "Dihya",
+    "Yuba",
+    "Tanirt",
+    "Aksil",
+    "Tafsut",
+    "Izem",
+    "Thiziri",
+    "Dariush",
+    "Shirin",
+    "Kaveh",
+    "Parisa",
+    "Rostam",
+    "Mitra",
+    "Navid",
+    "Roxan",
+    "Bahram",
+    "Azadeh"
+  ],
+  "schedule": [
+    {
+      "at": 7,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 16,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 22,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:altitude_lowlands",
+    "materialism:home_desert_waterkeeper",
+    "materialism:heating_desert_t3",
+    "materialism:lighting_t3",
+    "materialism:social_desert_workforce",
+    "materialism:clothing_burlap_head_t3",
+    "materialism:clothing_burlap_chest_t3",
+    "materialism:clothing_burlap_legs_t3",
+    "materialism:clothing_burlap_feet_t3",
+    "materialism:drink_rum_t3",
+    "materialism:drink_water_t3",
+    "materialism:food_grain_salad",
+    "materialism:food_fresh_feta_t3",
+    "materialism:food_smoked_camelidae_t3",
+    "materialism:household_silica_glass_bottle_t3",
+    "materialism:household_candles",
+    "materialism:household_bandages",
+    "materialism:workplace_desert_keeper",
+    "materialism:ritual_water_blessing_attend",
+    "materialism:ritual_solstice_court_t3",
+    "materialism:diet_t3",
+    "materialism:sleep_t3",
+    "materialism:socialize_desert_guild",
+    "materialism:visit_desert_tavern_t3",
+    "materialism:hear_music_t3",
+    "materialism:homeland_desert_t3",
+    "materialism:rain_blessing_t3",
+    "materialism:aspire_lore"
+  ],
+  "jobs": [
+    "materialism:desert_water_blessing_officiant",
+    "materialism:desert_healer",
+    "materialism:desert_scribe"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:desert_dune_elder",
+      "required_happiness": 100.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_lore",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_desert_waterkeeper",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:ritual_water_blessing_attend",
+          "satisfaction_threshold": 0.2
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_sandborn",
+          "percentage": 0.4,
+          "scope": [
+            "materialism:desert_sandborn",
+            "materialism:desert_dunespear",
+            "materialism:desert_scorchbinder",
+            "materialism:desert_waterkeeper",
+            "materialism:desert_trade_lord",
+            "materialism:desert_dune_elder",
+            "materialism:desert_sunward"
+          ]
+        },
+        {
+          "social_class": "materialism:desert_waterkeeper",
+          "percentage": 0.5,
+          "scope": [
+            "materialism:desert_waterkeeper",
+            "materialism:desert_dune_elder"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:desert_sandborn",
+      "required_happiness": 20.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_desert_waterkeeper",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t3",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t3",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

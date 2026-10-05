@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_chair",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_chair",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_chair",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_chair",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_striped_chair"
+  ]
+}

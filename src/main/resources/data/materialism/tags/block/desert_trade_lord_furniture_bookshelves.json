@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/white_cedar",
+    "afc:wood/bookshelf/eucalyptus",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_lower_bookshelf_drawer"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/willow",
+    "tfc:wood/fence/maple",
+    "tfc:wood/log_fence/willow",
+    "tfc:wood/log_fence/maple",
+    {
+      "id": "tfc:wood/planks/willow_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/maple_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_wired_fence"
+  ]
+}

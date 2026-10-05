@@ -1,0 +1,10 @@
+{
+  "type": "cftfc:barrel_keeper",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:tropical_barrel_yard",
+  "products": [
+    "tfc:brine",
+    "tfc:vinegar",
+    "tfc:sake"
+  ]
+}

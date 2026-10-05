@@ -1,0 +1,237 @@
+{
+  "max_happiness": 60.0,
+  "mating_happiness_threshold": 25.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Aldric",
+    "Brenna",
+    "Cedric",
+    "Dunstan",
+    "Elowen",
+    "Fenwick",
+    "Gwyneth",
+    "Hartley",
+    "Isolde",
+    "Jory",
+    "Kenrick",
+    "Linnet",
+    "Merrick",
+    "Nessa",
+    "Osric",
+    "Perrin",
+    "Rowena",
+    "Sefton",
+    "Tamsin",
+    "Ulric",
+    "Wren",
+    "Alwyn",
+    "Bryony",
+    "Corwin",
+    "Edda",
+    "Fitch",
+    "Godric",
+    "Hazel",
+    "Ivo",
+    "Joss",
+    "Kestrel",
+    "Leofric",
+    "Maude",
+    "Nolan",
+    "Odette",
+    "Piers",
+    "Rosalind",
+    "Tobias",
+    "Wilmot",
+    "Yarrow"
+  ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_temperate",
+    "materialism:rainfall_temperate",
+    "materialism:altitude_lowlands",
+    "materialism:home_temperate_villager",
+    "materialism:heating_temperate_t2",
+    "materialism:lighting_t2",
+    "materialism:social_temperate_village",
+    "materialism:clothing_straw_head_t2",
+    "materialism:clothing_wool_chest_t2",
+    "materialism:clothing_wool_legs_t2",
+    "materialism:drink_milk",
+    "materialism:drink_water_t2",
+    "materialism:food_wheat_bread",
+    "materialism:food_brined_cabbage",
+    "materialism:household_jug",
+    "materialism:ritual_moonlit_vigil",
+    "materialism:diet_t2",
+    "materialism:food_fresh_cabbage",
+    "materialism:sleep_t2",
+    "materialism:socialize_temperate_folk_t2",
+    "materialism:visit_temperate_tavern_t2",
+    "materialism:hear_music_t2",
+    "materialism:homeland_temperate_t2",
+    "materialism:aspire_temperate_defender",
+    "materialism:aspire_temperate_maker",
+    "materialism:aspire_temperate_keeper"
+  ],
+  "jobs": [
+    "materialism:temperate_farmer",
+    "materialism:temperate_miller",
+    "materialism:temperate_preserver",
+    "materialism:temperate_composter",
+    "materialism:temperate_tavern_keeper",
+    "materialism:temperate_grain_hauler",
+    "materialism:temperate_builder",
+    "materialism:temperate_rancher"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:temperate_barkcloak",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_temperate_defender",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:temperate_villager",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:temperate_burgher",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_temperate_maker",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:temperate_villager",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:temperate_moonwake",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_temperate_keeper",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:temperate_villager",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:temperate_homesteader",
+      "required_happiness": 5.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_temperate_villager",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_milk",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t2",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t2",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

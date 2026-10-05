@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_chair",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_chair",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_striped_chair"
+  ]
+}

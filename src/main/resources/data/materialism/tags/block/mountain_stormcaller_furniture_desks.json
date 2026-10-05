@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_desk",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_desk",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_desk",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_desk",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_desk",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_desk",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_modern_desk"
+  ]
+}

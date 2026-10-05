@@ -1,0 +1,13 @@
+{
+  "type": "cft:visit",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.6897,
+  "satisfaction_threshold": 0.5,
+  "frequency": 2.0,
+  "required_structure": "materialism:steppe_tavern",
+  "search_radius": 64,
+  "stay_duration": 1200,
+  "requires_running": true,
+  "use_supplies": true
+}

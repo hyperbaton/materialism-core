@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/palm",
+    "afc:wood/bookshelf/hevea",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_lower_bookshelf_drawer"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "max_happiness": 1000.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Aldric",
+    "Brenna",
+    "Cedric",
+    "Dunstan",
+    "Elowen",
+    "Fenwick",
+    "Gwyneth",
+    "Hartley",
+    "Isolde",
+    "Jory",
+    "Kenrick",
+    "Linnet",
+    "Merrick",
+    "Nessa",
+    "Osric",
+    "Perrin",
+    "Rowena",
+    "Sefton",
+    "Tamsin",
+    "Ulric",
+    "Wren",
+    "Alwyn",
+    "Bryony",
+    "Corwin",
+    "Edda",
+    "Fitch",
+    "Godric",
+    "Hazel",
+    "Ivo",
+    "Joss",
+    "Kestrel",
+    "Leofric",
+    "Maude",
+    "Nolan",
+    "Odette",
+    "Piers",
+    "Rosalind",
+    "Tobias",
+    "Wilmot",
+    "Yarrow"
+  ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_temperate",
+    "materialism:rainfall_temperate",
+    "materialism:altitude_lowlands",
+    "materialism:home_temperate_arbiter",
+    "materialism:heating_temperate_t5",
+    "materialism:lighting_t5",
+    "materialism:social_temperate_court",
+    "materialism:clothing_leather_head_t5",
+    "materialism:clothing_leather_chest_t5",
+    "materialism:clothing_leather_legs_t5",
+    "materialism:clothing_leather_feet_t5",
+    "materialism:drink_wine_hematitic",
+    "materialism:drink_aged_cider_t5",
+    "materialism:food_cooked_lasagna",
+    "materialism:food_vintage_cheddar",
+    "materialism:food_smoked_rainbow_trout_t5",
+    "materialism:food_chocolate_ice_cream",
+    "materialism:food_garlic_bread",
+    "materialism:household_silk_cloth_t5",
+    "materialism:household_sugar_t5",
+    "materialism:household_ruby_jewel",
+    "materialism:energy_t5",
+    "materialism:compound_temperate_plaza",
+    "materialism:ritual_assizes_t5",
+    "materialism:ritual_harvest_festival_t5",
+    "materialism:reading_t5",
+    "materialism:pet_horse_1_t5",
+    "materialism:pet_dog_1_t5",
+    "materialism:diet_t5",
+    "materialism:food_chocolate_chip_cookie_winter",
+    "materialism:sleep_t5",
+    "materialism:socialize_temperate_court_t5",
+    "materialism:visit_temperate_garden_leisure",
+    "materialism:hear_bells_t5",
+    "materialism:homeland_temperate_t5"
+  ],
+  "jobs": [
+    "materialism:temperate_harvest_festival_host"
+  ],
+  "max_health": 30.0,
+  "upgrades": [],
+  "downgrades": [
+    {
+      "next_class": "materialism:temperate_steward",
+      "required_happiness": 200.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_temperate_arbiter",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t5",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:temperate_villager",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        }
+      ]
+    }
+  ]
+}

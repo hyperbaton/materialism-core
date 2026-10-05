@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/sycamore",
+    "tfc:wood/fence/birch",
+    "tfc:wood/log_fence/sycamore",
+    "tfc:wood/log_fence/birch",
+    {
+      "id": "tfc:wood/planks/sycamore_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/birch_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/sycamore_fences/sycamore_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/birch_fences/birch_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/sycamore_fences/sycamore_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/birch_fences/birch_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/sycamore_fences/sycamore_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/birch_fences/birch_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/sycamore_fences/sycamore_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/birch_fences/birch_wired_fence"
+  ]
+}

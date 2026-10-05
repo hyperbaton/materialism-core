@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_cupboard_counter"
+  ]
+}

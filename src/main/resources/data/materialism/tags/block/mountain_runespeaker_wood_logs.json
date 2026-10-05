@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/hickory",
+    "tfc:wood/log/chestnut",
+    "afc:wood/log/eucalyptus",
+    "tfc:wood/wood/hickory",
+    "tfc:wood/wood/chestnut",
+    "afc:wood/wood/eucalyptus",
+    "tfc:wood/stripped_log/hickory",
+    "tfc:wood/stripped_log/chestnut",
+    "afc:wood/stripped_log/eucalyptus"
+  ]
+}

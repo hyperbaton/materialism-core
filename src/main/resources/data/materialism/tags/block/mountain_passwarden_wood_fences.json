@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/spruce",
+    "tfc:wood/fence/pine",
+    "tfc:wood/log_fence/spruce",
+    "tfc:wood/log_fence/pine",
+    {
+      "id": "tfc:wood/planks/spruce_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/pine_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/spruce_fences/spruce_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/pine_fences/pine_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/spruce_fences/spruce_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/pine_fences/pine_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/spruce_fences/spruce_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/pine_fences/pine_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/spruce_fences/spruce_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/pine_fences/pine_wired_fence"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "cft:socialize",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.3261,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "classes": [
+    "materialism:subarctic_frostborn",
+    "materialism:subarctic_elder",
+    "materialism:subarctic_frozen_lord"
+  ],
+  "radius": 48,
+  "duration": 300
+}

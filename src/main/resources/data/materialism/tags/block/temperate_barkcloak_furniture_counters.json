@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_cupboard_counter"
+  ]
+}

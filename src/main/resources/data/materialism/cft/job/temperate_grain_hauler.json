@@ -1,0 +1,43 @@
+{
+  "type": "cft:hauler",
+  "hours_per_day": 6.0,
+  "radius": 64,
+  "errands": [
+    {
+      "origin_structure": "materialism:farm",
+      "destination_structure": "materialism:temperate_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/wheat"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:temperate_granary",
+      "destination_structure": "materialism:temperate_mill",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/wheat"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:temperate_mill",
+      "destination_structure": "materialism:temperate_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/wheat_flour"
+          },
+          "quantity": 16
+        }
+      ]
+    }
+  ]
+}

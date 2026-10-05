@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/scribing_table/ash",
+    "tfc:wood/scribing_table/douglas_fir",
+    "afc:wood/scribing_table/eucalyptus"
+  ]
+}

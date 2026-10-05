@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_glass_table"
+  ]
+}

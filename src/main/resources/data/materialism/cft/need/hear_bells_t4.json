@@ -1,0 +1,14 @@
+{
+  "type": "cft:hearing",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.25,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "bonus": true,
+  "sounds": [
+    "minecraft:block.bell.use"
+  ],
+  "min_events": 2,
+  "window": 600
+}

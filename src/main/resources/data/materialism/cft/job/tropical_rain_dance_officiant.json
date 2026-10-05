@@ -1,0 +1,53 @@
+{
+  "type": "cft:officiant",
+  "required_structure": "materialism:tropical_shrine",
+  "ritual_id": "materialism:rain_dance",
+  "frequency": 3.0,
+  "duration": 1200,
+  "ingredients": [
+    {
+      "item": {
+        "tag": "materialism:candles"
+      },
+      "quantity": 2
+    },
+    {
+      "item": {
+        "item": "firmalife:food/rice_flatbread"
+      },
+      "quantity": 2
+    }
+  ],
+  "summon_radius": 48,
+  "ritual_radius": 8,
+  "attendance": [
+    {
+      "classes": [
+        "materialism:tropical_palmhand",
+        "materialism:tropical_junglebound",
+        "materialism:tropical_bloomtender",
+        "materialism:tropical_raincaller"
+      ],
+      "min": 4
+    }
+  ],
+  "max_attendees": 30,
+  "schedule": [
+    {
+      "at": 0,
+      "activity": "minecraft:rest"
+    },
+    {
+      "at": 9,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:idle"
+    }
+  ]
+}

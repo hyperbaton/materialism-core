@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/aspen",
+    "tfc:wood/fence/maple",
+    "tfc:wood/log_fence/aspen",
+    "tfc:wood/log_fence/maple",
+    {
+      "id": "tfc:wood/planks/aspen_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/maple_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/aspen_fences/aspen_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/aspen_fences/aspen_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/aspen_fences/aspen_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/aspen_fences/aspen_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_wired_fence"
+  ]
+}

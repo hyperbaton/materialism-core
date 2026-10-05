@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/rosewood",
+    "tfc:wood/planks/blackwood",
+    "afc:wood/planks/baobab",
+    "tfc:wood/planks/rosewood_stairs",
+    "tfc:wood/planks/blackwood_stairs",
+    "afc:wood/planks/baobab_stairs",
+    "tfc:wood/planks/rosewood_slab",
+    "tfc:wood/planks/blackwood_slab",
+    "afc:wood/planks/baobab_slab"
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "max_happiness": 60.0,
+  "mating_happiness_threshold": 25.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Amir",
+    "Zahra",
+    "Idris",
+    "Layla",
+    "Tariq",
+    "Samira",
+    "Yusri",
+    "Nadia",
+    "Faris",
+    "Amina",
+    "Rashid",
+    "Dalia",
+    "Hakim",
+    "Yasmin",
+    "Karim",
+    "Leila",
+    "Nizar",
+    "Soraya",
+    "Zaid",
+    "Farah",
+    "Amastan",
+    "Tiziri",
+    "Massin",
+    "Dihya",
+    "Yuba",
+    "Tanirt",
+    "Aksil",
+    "Tafsut",
+    "Izem",
+    "Thiziri",
+    "Dariush",
+    "Shirin",
+    "Kaveh",
+    "Parisa",
+    "Rostam",
+    "Mitra",
+    "Navid",
+    "Roxan",
+    "Bahram",
+    "Azadeh"
+  ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:altitude_lowlands",
+    "materialism:home_desert_sandborn",
+    "materialism:heating_desert_t2",
+    "materialism:lighting_t2",
+    "materialism:social_desert_village",
+    "materialism:clothing_straw_head_t2",
+    "materialism:clothing_burlap_chest_t2",
+    "materialism:clothing_burlap_legs_t2",
+    "materialism:drink_goat_milk",
+    "materialism:drink_water_t2",
+    "materialism:food_oat_bread",
+    "materialism:food_brined_green_bean",
+    "materialism:household_jug",
+    "materialism:ritual_water_blessing",
+    "materialism:diet_t2",
+    "materialism:food_fresh_green_bean",
+    "materialism:sleep_t2",
+    "materialism:socialize_desert_folk_t2",
+    "materialism:visit_desert_tavern_t2",
+    "materialism:hear_music_t2",
+    "materialism:homeland_desert_t2",
+    "materialism:rain_blessing_t2",
+    "materialism:aspire_desert_defender",
+    "materialism:aspire_desert_maker",
+    "materialism:aspire_desert_keeper"
+  ],
+  "jobs": [
+    "materialism:desert_farmer",
+    "materialism:desert_miller",
+    "materialism:desert_preserver",
+    "materialism:desert_composter",
+    "materialism:desert_tavern_keeper",
+    "materialism:desert_grain_hauler",
+    "materialism:desert_builder",
+    "materialism:desert_rancher",
+    "materialism:desert_quarrier",
+    "materialism:desert_prospector"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:desert_dunespear",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_desert_defender",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_desert_sandborn",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_sandborn",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:desert_sandborn",
+            "materialism:desert_dunespear",
+            "materialism:desert_scorchbinder",
+            "materialism:desert_waterkeeper",
+            "materialism:desert_trade_lord",
+            "materialism:desert_dune_elder",
+            "materialism:desert_sunward"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:desert_scorchbinder",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_desert_maker",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_desert_sandborn",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_sandborn",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:desert_sandborn",
+            "materialism:desert_dunespear",
+            "materialism:desert_scorchbinder",
+            "materialism:desert_waterkeeper",
+            "materialism:desert_trade_lord",
+            "materialism:desert_dune_elder",
+            "materialism:desert_sunward"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:desert_waterkeeper",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_desert_keeper",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_desert_sandborn",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_sandborn",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:desert_sandborn",
+            "materialism:desert_dunespear",
+            "materialism:desert_scorchbinder",
+            "materialism:desert_waterkeeper",
+            "materialism:desert_trade_lord",
+            "materialism:desert_dune_elder",
+            "materialism:desert_sunward"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:desert_wayfarer",
+      "required_happiness": 5.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_desert_sandborn",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_goat_milk",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t2",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t2",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

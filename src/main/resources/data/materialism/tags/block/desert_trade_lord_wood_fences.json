@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/white_cedar",
+    "afc:wood/fence/eucalyptus",
+    "tfc:wood/log_fence/white_cedar",
+    "afc:wood/log_fence/eucalyptus",
+    {
+      "id": "tfc:wood/planks/white_cedar_log_fence",
+      "required": false
+    },
+    "afc:wood/planks/eucalyptus_log_fence",
+    "mcw_tfc_aio_unofficial:fences/white_cedar_fences/white_cedar_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/white_cedar_fences/white_cedar_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/white_cedar_fences/white_cedar_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/white_cedar_fences/white_cedar_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_wired_fence"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.9397,
+  "satisfaction_threshold": 0.2,
+  "frequency": 3.75,
+  "ritual_id": "materialism:rain_dance",
+  "radius": 48,
+  "requires_presence": false
+}

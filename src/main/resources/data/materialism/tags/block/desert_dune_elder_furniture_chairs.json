@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_chair",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_chair",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_striped_chair"
+  ]
+}

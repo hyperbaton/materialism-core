@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_table",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_table",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_table",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_table",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_end_table",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_end_table",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_end_table",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_end_table"
+  ]
+}

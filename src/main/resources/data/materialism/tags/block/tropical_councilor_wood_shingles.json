@@ -1,0 +1,57 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/teak",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/mahogany",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/teak_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/mahogany_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/teak_slab",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/mahogany_slab",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/teak_roofs/teak_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/mahogany_roofs/mahogany_planks_upper_steep_roof"
+  ]
+}

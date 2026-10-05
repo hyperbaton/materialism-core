@@ -1,0 +1,178 @@
+{
+  "max_happiness": 400.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Amir",
+    "Zahra",
+    "Idris",
+    "Layla",
+    "Tariq",
+    "Samira",
+    "Yusri",
+    "Nadia",
+    "Faris",
+    "Amina",
+    "Rashid",
+    "Dalia",
+    "Hakim",
+    "Yasmin",
+    "Karim",
+    "Leila",
+    "Nizar",
+    "Soraya",
+    "Zaid",
+    "Farah",
+    "Amastan",
+    "Tiziri",
+    "Massin",
+    "Dihya",
+    "Yuba",
+    "Tanirt",
+    "Aksil",
+    "Tafsut",
+    "Izem",
+    "Thiziri",
+    "Dariush",
+    "Shirin",
+    "Kaveh",
+    "Parisa",
+    "Rostam",
+    "Mitra",
+    "Navid",
+    "Roxan",
+    "Bahram",
+    "Azadeh"
+  ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:altitude_lowlands",
+    "materialism:home_desert_trade_lord",
+    "materialism:heating_desert_t4",
+    "materialism:lighting_t4",
+    "materialism:social_desert_retinue",
+    "materialism:clothing_burlap_head_t4",
+    "materialism:clothing_leather_chest_t4",
+    "materialism:clothing_leather_legs_t4",
+    "materialism:clothing_burlap_feet_t4",
+    "materialism:equip_steel_sword",
+    "materialism:equip_wrought_iron_shield",
+    "materialism:drink_aged_rum_t4",
+    "materialism:drink_rum_t4",
+    "materialism:food_oat_bread_sandwich",
+    "materialism:food_aged_feta",
+    "materialism:food_smoked_shellfish_t4",
+    "materialism:food_smoked_camelidae_t4",
+    "materialism:household_silk_cloth_t4",
+    "materialism:household_sugar_t4",
+    "materialism:household_silica_glass_bottle_t4",
+    "materialism:energy_t4",
+    "materialism:workplace_desert_authority",
+    "materialism:ritual_star_reading_t4",
+    "materialism:ritual_solstice_court_t4",
+    "materialism:reading_t4",
+    "materialism:pet_horse_1_t4",
+    "materialism:diet_t4",
+    "materialism:sleep_t4",
+    "materialism:socialize_desert_court_t4",
+    "materialism:visit_desert_garden",
+    "materialism:hear_bells_t4",
+    "materialism:homeland_desert_t4",
+    "materialism:rain_blessing_t4",
+    "materialism:aspire_desert_leader"
+  ],
+  "jobs": [
+    "materialism:desert_captain",
+    "materialism:desert_merchant"
+  ],
+  "max_health": 40.0,
+  "upgrades": [
+    {
+      "next_class": "materialism:desert_sunward",
+      "required_happiness": 300.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_desert_leader",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_desert_trade_lord",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:reading_t4",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_sandborn",
+          "percentage": 0.35,
+          "scope": [
+            "materialism:desert_sandborn",
+            "materialism:desert_dunespear",
+            "materialism:desert_scorchbinder",
+            "materialism:desert_waterkeeper",
+            "materialism:desert_trade_lord",
+            "materialism:desert_dune_elder",
+            "materialism:desert_sunward"
+          ]
+        },
+        {
+          "social_class": "materialism:desert_trade_lord",
+          "percentage": 0.75,
+          "scope": [
+            "materialism:desert_trade_lord",
+            "materialism:desert_sunward"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:desert_dunespear",
+      "required_happiness": 60.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_desert_trade_lord",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t4",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_sandborn",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:desert_sandborn",
+            "materialism:desert_dunespear",
+            "materialism:desert_scorchbinder",
+            "materialism:desert_waterkeeper",
+            "materialism:desert_trade_lord",
+            "materialism:desert_dune_elder",
+            "materialism:desert_sunward"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "max_happiness": 60.0,
+  "mating_happiness_threshold": 25.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Altan",
+    "Batu",
+    "Chagan",
+    "Dorji",
+    "Erdene",
+    "Gansukh",
+    "Khulan",
+    "Temuge",
+    "Arslan",
+    "Bora",
+    "Ceren",
+    "Davaa",
+    "Esen",
+    "Hulan",
+    "Ilkhan",
+    "Jochi",
+    "Kaidu",
+    "Mergen",
+    "Nomin",
+    "Oyun",
+    "Sarnai",
+    "Tolui",
+    "Uyanga",
+    "Yesui",
+    "Ariq",
+    "Bayan",
+    "Chinua",
+    "Ganzorig",
+    "Khasar",
+    "Naran",
+    "Odval",
+    "Sukh",
+    "Toghrul",
+    "Unegen",
+    "Yuldus",
+    "Alaqai",
+    "Borte",
+    "Kokochu",
+    "Sorkhan",
+    "Tumen"
+  ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:altitude_lowlands",
+    "materialism:home_steppe_clansman",
+    "materialism:heating_steppe_t2",
+    "materialism:lighting_t2",
+    "materialism:social_steppe_village",
+    "materialism:clothing_straw_head_t2",
+    "materialism:clothing_wool_chest_t2",
+    "materialism:clothing_wool_legs_t2",
+    "materialism:drink_yak_milk",
+    "materialism:drink_water_t2",
+    "materialism:food_barley_bread",
+    "materialism:food_brined_squash",
+    "materialism:household_jug",
+    "materialism:ritual_sky_offering",
+    "materialism:diet_t2",
+    "materialism:food_fresh_squash",
+    "materialism:sleep_t2",
+    "materialism:socialize_steppe_folk_t2",
+    "materialism:visit_steppe_tavern_t2",
+    "materialism:hear_music_t2",
+    "materialism:homeland_steppe_t2",
+    "materialism:aspire_steppe_defender",
+    "materialism:aspire_steppe_maker",
+    "materialism:aspire_steppe_keeper"
+  ],
+  "jobs": [
+    "materialism:steppe_farmer",
+    "materialism:steppe_miller",
+    "materialism:steppe_preserver",
+    "materialism:steppe_composter",
+    "materialism:steppe_tavern_keeper",
+    "materialism:steppe_grain_hauler",
+    "materialism:steppe_builder",
+    "materialism:steppe_rancher"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:steppe_outrider",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_steppe_defender",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_steppe_clansman",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_clansman",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:steppe_dustwalker",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_steppe_maker",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_steppe_clansman",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_clansman",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        }
+      ]
+    },
+    {
+      "next_class": "materialism:steppe_skychaser",
+      "required_happiness": 40.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_steppe_keeper",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:temperature_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_steppe_clansman",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_clansman",
+          "percentage": 0.45,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:steppe_nomad",
+      "required_happiness": 5.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_steppe_clansman",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_steppe_t2",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_yak_milk",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t2",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t2",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

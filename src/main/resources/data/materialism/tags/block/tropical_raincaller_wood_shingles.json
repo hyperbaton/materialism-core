@@ -1,0 +1,74 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/kapok",
+    {
+      "id": "rnr:wood/shingles/hevea",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang",
+      "required": false
+    },
+    "rnr:wood/shingles/kapok_stairs",
+    {
+      "id": "rnr:wood/shingles/hevea_stairs",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/kapok_slab",
+    {
+      "id": "rnr:wood/shingles/hevea_slab",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang_slab",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/kapok_roofs/kapok_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/hevea_roofs/hevea_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/tualang_roofs/tualang_planks_upper_steep_roof"
+  ]
+}

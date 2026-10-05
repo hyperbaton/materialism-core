@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_modern_chair"
+  ]
+}

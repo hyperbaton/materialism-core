@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_chair",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_chair",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_striped_chair"
+  ]
+}

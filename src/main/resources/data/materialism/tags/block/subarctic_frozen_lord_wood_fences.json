@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/sequoia",
+    "tfc:wood/fence/rosewood",
+    "tfc:wood/log_fence/sequoia",
+    "tfc:wood/log_fence/rosewood",
+    {
+      "id": "tfc:wood/planks/sequoia_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/rosewood_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/sequoia_fences/sequoia_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/sequoia_fences/sequoia_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/sequoia_fences/sequoia_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/sequoia_fences/sequoia_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_wired_fence"
+  ]
+}

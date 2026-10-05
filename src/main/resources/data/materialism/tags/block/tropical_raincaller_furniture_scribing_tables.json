@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/scribing_table/kapok",
+    "afc:wood/scribing_table/hevea",
+    "afc:wood/scribing_table/tualang"
+  ]
+}

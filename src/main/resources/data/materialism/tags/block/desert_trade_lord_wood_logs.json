@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/white_cedar",
+    "afc:wood/log/eucalyptus",
+    "tfc:wood/wood/white_cedar",
+    "afc:wood/wood/eucalyptus",
+    "tfc:wood/stripped_log/white_cedar",
+    "afc:wood/stripped_log/eucalyptus"
+  ]
+}

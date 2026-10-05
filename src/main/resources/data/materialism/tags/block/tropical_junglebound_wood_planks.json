@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/kapok",
+    "tfc:wood/planks/mangrove",
+    "tfc:wood/planks/kapok_stairs",
+    "tfc:wood/planks/mangrove_stairs",
+    "tfc:wood/planks/kapok_slab",
+    "tfc:wood/planks/mangrove_slab"
+  ]
+}

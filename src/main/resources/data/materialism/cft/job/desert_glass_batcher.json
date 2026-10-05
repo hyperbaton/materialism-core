@@ -1,0 +1,18 @@
+{
+  "type": "cft:crafter",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:desert_workshop",
+  "ingredients": [
+    {
+      "item": {
+        "item": "tfc:sand/yellow"
+      },
+      "quantity": 4
+    }
+  ],
+  "output": {
+    "item": "tfc:silica_glass_batch"
+  },
+  "output_count": 4,
+  "crafting_time": 400
+}

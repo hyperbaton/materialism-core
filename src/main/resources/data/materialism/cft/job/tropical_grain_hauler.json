@@ -1,0 +1,43 @@
+{
+  "type": "cft:hauler",
+  "hours_per_day": 6.0,
+  "radius": 64,
+  "errands": [
+    {
+      "origin_structure": "materialism:farm",
+      "destination_structure": "materialism:tropical_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/rice"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:tropical_granary",
+      "destination_structure": "materialism:tropical_mill",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/rice"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:tropical_mill",
+      "destination_structure": "materialism:tropical_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/rice_flour"
+          },
+          "quantity": 16
+        }
+      ]
+    }
+  ]
+}

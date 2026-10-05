@@ -1,0 +1,18 @@
+{
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 28.0,
+  "satisfaction_threshold": 0.2,
+  "frequency": 8.75,
+  "bonus": true,
+  "ritual_id": "materialism:harvest_festival",
+  "radius": 64,
+  "requires_presence": false,
+  "active_when": [
+    {
+      "type": "cftfc:season",
+      "seasons": "fall"
+    }
+  ]
+}

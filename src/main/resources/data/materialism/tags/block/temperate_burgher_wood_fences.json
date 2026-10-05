@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/ash",
+    "tfc:wood/fence/douglas_fir",
+    "afc:wood/fence/eucalyptus",
+    "tfc:wood/log_fence/ash",
+    "tfc:wood/log_fence/douglas_fir",
+    "afc:wood/log_fence/eucalyptus",
+    {
+      "id": "tfc:wood/planks/ash_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/douglas_fir_log_fence",
+      "required": false
+    },
+    "afc:wood/planks/eucalyptus_log_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_wired_fence"
+  ]
+}

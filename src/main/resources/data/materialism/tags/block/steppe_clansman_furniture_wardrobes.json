@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_lower_triple_drawer"
+  ]
+}

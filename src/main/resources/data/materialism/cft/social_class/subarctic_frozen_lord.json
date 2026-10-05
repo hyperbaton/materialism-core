@@ -1,0 +1,141 @@
+{
+  "max_happiness": 1000.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Aput",
+    "Siku",
+    "Nuka",
+    "Ilaq",
+    "Tavik",
+    "Oqi",
+    "Ukaliq",
+    "Pana",
+    "Kallu",
+    "Ataq",
+    "Nive",
+    "Saqqaq",
+    "Tulu",
+    "Aaju",
+    "Kiviaq",
+    "Inu",
+    "Malik",
+    "Nauja",
+    "Pilu",
+    "Sura",
+    "Tikaani",
+    "Uki",
+    "Amaruq",
+    "Iluak",
+    "Kunuk",
+    "Naaja",
+    "Qilak",
+    "Sesi",
+    "Tuuli",
+    "Varje",
+    "Aili",
+    "Eira",
+    "Hilja",
+    "Joni",
+    "Kaisa",
+    "Lumi",
+    "Mielik",
+    "Oula",
+    "Ristin",
+    "Sunna"
+  ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_subarctic",
+    "materialism:rainfall_subarctic",
+    "materialism:altitude_lowlands",
+    "materialism:home_subarctic_frozen_lord",
+    "materialism:heating_subarctic_t5",
+    "materialism:lighting_t5",
+    "materialism:social_subarctic_court",
+    "materialism:clothing_insulated_head_subarctic_winter_t5",
+    "materialism:clothing_insulated_chest_subarctic_winter_t5",
+    "materialism:clothing_insulated_legs_subarctic_winter_t5",
+    "materialism:clothing_insulated_feet_subarctic_winter_t5",
+    "materialism:drink_aged_vodka_t5",
+    "materialism:drink_aged_rye_whiskey_t5",
+    "materialism:food_cooked_pie",
+    "materialism:food_vintage_chevre",
+    "materialism:food_smoked_salmon_t5",
+    "materialism:food_vanilla_ice_cream",
+    "materialism:food_pumpkin_pie",
+    "materialism:household_sugar_t5",
+    "materialism:household_sapphire_jewel",
+    "materialism:energy_t5",
+    "materialism:compound_subarctic_plaza",
+    "materialism:ritual_aurora_rite_t5",
+    "materialism:ritual_midwinter_feast_t5",
+    "materialism:reading_t5",
+    "materialism:pet_dog_1_t5",
+    "materialism:pet_horse_1_t5",
+    "materialism:diet_t5",
+    "materialism:food_toast_with_jam_winter",
+    "materialism:clothing_leather_head_subarctic_summer_t5",
+    "materialism:clothing_leather_chest_subarctic_summer_t5",
+    "materialism:clothing_leather_legs_subarctic_summer_t5",
+    "materialism:clothing_leather_feet_subarctic_summer_t5",
+    "materialism:sleep_t5",
+    "materialism:socialize_subarctic_court_t5",
+    "materialism:visit_subarctic_garden_leisure",
+    "materialism:hear_bells_t5",
+    "materialism:homeland_subarctic_t5"
+  ],
+  "jobs": [
+    "materialism:subarctic_midwinter_feast_host"
+  ],
+  "max_health": 30.0,
+  "upgrades": [],
+  "downgrades": [
+    {
+      "next_class": "materialism:subarctic_frostborn",
+      "required_happiness": 200.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_subarctic_frozen_lord",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_subarctic_t5",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t5",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:subarctic_snowkin",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:subarctic_snowkin",
+            "materialism:subarctic_frostmarked",
+            "materialism:subarctic_trailwarden",
+            "materialism:subarctic_hearthkeeper",
+            "materialism:subarctic_frostborn",
+            "materialism:subarctic_elder",
+            "materialism:subarctic_frozen_lord"
+          ]
+        }
+      ]
+    }
+  ]
+}

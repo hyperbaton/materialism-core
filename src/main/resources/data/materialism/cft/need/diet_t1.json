@@ -1,0 +1,14 @@
+{
+  "type": "cftfc:nutrition",
+  "damage": 0.5,
+  "damage_threshold": 0.25,
+  "provided_happiness": 0.3333,
+  "satisfaction_threshold": 0.5,
+  "frequency": 0.5,
+  "nutrients": [
+    "grain",
+    "protein"
+  ],
+  "meals": 4,
+  "min_amount": 0.5
+}

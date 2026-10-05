@@ -1,0 +1,48 @@
+{
+  "type": "cft:compound",
+  "key_block": "minecraft:bell",
+  "max_users": 0,
+  "requires_container": false,
+  "priority": 0,
+  "surface_blocks": [
+    {
+      "block": "rnr:rock/flagstones/gabbro",
+      "min_quantity": 25,
+      "max_quantity": 144,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "rnr:rock/sett_road/gabbro",
+      "min_quantity": 0,
+      "max_quantity": 144,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/chiseled/gabbro",
+      "min_quantity": 0,
+      "max_quantity": 144,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "requires_sky_access": true,
+  "required_structures": [
+    {
+      "structure_type": "materialism:desert_hall",
+      "min": 1,
+      "max_distance": 24
+    },
+    {
+      "structure_type": "materialism:desert_library",
+      "min": 1,
+      "max_distance": 24
+    },
+    {
+      "structure_type": "materialism:desert_sunward_house",
+      "min": 1,
+      "max_distance": 24
+    }
+  ]
+}

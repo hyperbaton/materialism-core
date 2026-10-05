@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_cupboard_counter"
+  ]
+}

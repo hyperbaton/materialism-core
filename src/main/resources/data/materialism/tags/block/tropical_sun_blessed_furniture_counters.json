@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_cupboard_counter"
+  ]
+}

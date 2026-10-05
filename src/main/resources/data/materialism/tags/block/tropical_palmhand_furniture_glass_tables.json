@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_glass_table"
+  ]
+}

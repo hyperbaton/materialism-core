@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_chair",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_chair",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_striped_chair"
+  ]
+}

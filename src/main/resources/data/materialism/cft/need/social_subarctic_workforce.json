@@ -1,0 +1,14 @@
+{
+  "type": "cft:social",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.1132,
+  "satisfaction_threshold": 0.5,
+  "frequency": 0.5,
+  "classes": [
+    "materialism:subarctic_snowkin"
+  ],
+  "min_count": 3,
+  "max_count": 20,
+  "radius": 32
+}

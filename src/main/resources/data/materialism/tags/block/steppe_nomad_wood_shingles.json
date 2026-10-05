@@ -1,0 +1,48 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/willow",
+    {
+      "id": "rnr:wood/shingles/fig",
+      "required": false
+    },
+    "rnr:wood/shingles/willow_stairs",
+    {
+      "id": "rnr:wood/shingles/fig_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/willow_slab",
+    {
+      "id": "rnr:wood/shingles/fig_slab",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/fig_roofs/fig_planks_upper_steep_roof"
+  ]
+}

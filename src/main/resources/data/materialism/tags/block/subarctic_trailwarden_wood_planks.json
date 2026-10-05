@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/douglas_fir",
+    "tfc:wood/planks/chestnut",
+    "tfc:wood/planks/douglas_fir_stairs",
+    "tfc:wood/planks/chestnut_stairs",
+    "tfc:wood/planks/douglas_fir_slab",
+    "tfc:wood/planks/chestnut_slab"
+  ]
+}

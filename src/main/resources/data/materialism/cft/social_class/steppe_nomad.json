@@ -1,0 +1,109 @@
+{
+  "max_happiness": 20.0,
+  "mating_happiness_threshold": 8.0,
+  "spontaneously_spawn_population": 3,
+  "name_samples": [
+    "Altan",
+    "Batu",
+    "Chagan",
+    "Dorji",
+    "Erdene",
+    "Gansukh",
+    "Khulan",
+    "Temuge",
+    "Arslan",
+    "Bora",
+    "Ceren",
+    "Davaa",
+    "Esen",
+    "Hulan",
+    "Ilkhan",
+    "Jochi",
+    "Kaidu",
+    "Mergen",
+    "Nomin",
+    "Oyun",
+    "Sarnai",
+    "Tolui",
+    "Uyanga",
+    "Yesui",
+    "Ariq",
+    "Bayan",
+    "Chinua",
+    "Ganzorig",
+    "Khasar",
+    "Naran",
+    "Odval",
+    "Sukh",
+    "Toghrul",
+    "Unegen",
+    "Yuldus",
+    "Alaqai",
+    "Borte",
+    "Kokochu",
+    "Sorkhan",
+    "Tumen"
+  ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:altitude_lowlands",
+    "materialism:home_steppe_nomad",
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_barley_flatbread",
+    "materialism:household_hide_blanket",
+    "materialism:diet_t1",
+    "materialism:sleep_t1",
+    "materialism:socialize_steppe_folk_t1"
+  ],
+  "jobs": [
+    "materialism:steppe_forager",
+    "materialism:steppe_firekeeper"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:steppe_clansman",
+      "required_happiness": 12.0,
+      "required_needs": [
+        {
+          "need": "materialism:temperature_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_steppe",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_steppe_nomad",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_nomad",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:steppe_nomad",
+            "materialism:steppe_clansman"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

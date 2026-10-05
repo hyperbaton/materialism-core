@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/log/cypress",
+    "tfc:wood/log/willow",
+    "afc:wood/wood/cypress",
+    "tfc:wood/wood/willow",
+    "afc:wood/stripped_log/cypress",
+    "tfc:wood/stripped_log/willow"
+  ]
+}

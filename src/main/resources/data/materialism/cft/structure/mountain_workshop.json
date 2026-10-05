@@ -1,0 +1,183 @@
+{
+  "type": "cft:enclosed_building",
+  "key_block": "#tfc:anvils",
+  "max_users": 2,
+  "requires_container": true,
+  "priority": 0,
+  "floor_blocks": [
+    {
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/cobble/schist",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "rnr:rock/cobbled_road/schist",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/bricks/schist",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "wall_blocks": [
+    {
+      "block": "#materialism:mountain_deepdelver_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:mountain_deepdelver_wood_planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/bricks/schist",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/cobble/schist",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/smooth/schist",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#c:glass_panes",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#minecraft:doors",
+      "min_quantity": 1,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "interior_blocks": [
+    {
+      "block": "minecraft:air",
+      "min_quantity": 0,
+      "max_quantity": 300,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#c:chests",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#tfc:anvils",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#tfc:workbenches",
+      "min_quantity": 0,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:tool_racks",
+      "min_quantity": 0,
+      "max_quantity": 6,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:torch",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:wall_torch",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#tfc:lamps",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:candles",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "roof_blocks": [
+    {
+      "block": "#materialism:wood_shingles_roofs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:thatch_roofs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "rnr:ceramic_roof",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ]
+}

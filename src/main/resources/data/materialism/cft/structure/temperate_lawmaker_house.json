@@ -1,149 +1,578 @@
 {
-  "type": "cft:house",
-  "id": "materialism:temperate_lawmaker_house",
-  "key_block_tag": "minecraft:doors",
+  "type": "cft:multi_storey_building",
+  "key_block": "#minecraft:doors",
   "max_users": 1,
   "requires_container": true,
-  "priority": 0,
-  "floorBlocks": [
+  "priority": 40,
+  "storey_rules": [
     {
-      "block": "rnr:rock/flagstones/granite",
-      "minQuantity": 140,
-      "maxQuantity": 200,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "from": 1,
+      "to": 1,
+      "floor_blocks": [
+        {
+          "block": "rnr:rock/flagstones/granite",
+          "min_quantity": 30,
+          "max_quantity": 144,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:rock/chiseled/granite",
+          "min_quantity": 0,
+          "max_quantity": 60,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ],
+      "interior_blocks": [
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_glass_tables",
+          "min_quantity": 1,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_chairs",
+          "min_quantity": 2,
+          "max_quantity": 16,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:air",
+          "min_quantity": 0,
+          "max_quantity": 800,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:barrels",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:fluid_tank",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:chute",
+          "min_quantity": 0,
+          "max_quantity": 1,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:portable_storage_interface",
+          "min_quantity": 0,
+          "max_quantity": 1,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#c:chests",
+          "min_quantity": 1,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:torch",
+          "min_quantity": 0,
+          "max_quantity": 30,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:wall_torch",
+          "min_quantity": 0,
+          "max_quantity": 30,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#tfc:lamps",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:candles",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:wooden_stairs",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:ladder",
+          "min_quantity": 0,
+          "max_quantity": 10,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:wool_beds",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:firepit",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:energy_storage",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_glass_tables",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_chairs",
+          "min_quantity": 0,
+          "max_quantity": 16,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_modern_chairs",
+          "min_quantity": 0,
+          "max_quantity": 16,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_tables",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_counters",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_coffee_tables",
+          "min_quantity": 0,
+          "max_quantity": 6,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_desks",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_wardrobes",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_bookshelves",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_scribing_tables",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ],
+      "wall_blocks": [
+        {
+          "block": "tfc:rock/smooth/granite",
+          "min_quantity": 10,
+          "max_quantity": 200,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:rock/bricks/granite",
+          "min_quantity": 30,
+          "max_quantity": 300,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:rock/chiseled/granite",
+          "min_quantity": 0,
+          "max_quantity": 60,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#c:glass_panes",
+          "min_quantity": 0,
+          "max_quantity": 40,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 100,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:encased_fluid_pipe",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:doors",
+          "min_quantity": 1,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ],
+      "roof_blocks": [
+        {
+          "block": "#materialism:temperate_lawmaker_wood_planks",
+          "min_quantity": 20,
+          "max_quantity": 144,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:air",
+          "min_quantity": 1,
+          "max_quantity": 6,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:ladder",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ]
     },
     {
-      "block": "tfc:rock/smooth/granite",
-      "minQuantity": 60,
-      "maxQuantity": 90,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "from": 2,
+      "to": 2,
+      "interior_blocks": [
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_wardrobes",
+          "min_quantity": 1,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_bookshelves",
+          "min_quantity": 1,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:air",
+          "min_quantity": 0,
+          "max_quantity": 800,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:barrels",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:fluid_tank",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:chute",
+          "min_quantity": 0,
+          "max_quantity": 1,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:portable_storage_interface",
+          "min_quantity": 0,
+          "max_quantity": 1,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#c:chests",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:torch",
+          "min_quantity": 0,
+          "max_quantity": 30,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:wall_torch",
+          "min_quantity": 0,
+          "max_quantity": 30,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#tfc:lamps",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:candles",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:wooden_stairs",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:ladder",
+          "min_quantity": 0,
+          "max_quantity": 10,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:wool_beds",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:firepit",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:energy_storage",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_glass_tables",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_chairs",
+          "min_quantity": 0,
+          "max_quantity": 16,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_modern_chairs",
+          "min_quantity": 0,
+          "max_quantity": 16,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_tables",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_counters",
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_coffee_tables",
+          "min_quantity": 0,
+          "max_quantity": 6,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_desks",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_wardrobes",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_bookshelves",
+          "min_quantity": 0,
+          "max_quantity": 20,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_furniture_scribing_tables",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ],
+      "wall_blocks": [
+        {
+          "block": "tfc:rock/smooth/granite",
+          "min_quantity": 0,
+          "max_quantity": 200,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:rock/bricks/granite",
+          "min_quantity": 0,
+          "max_quantity": 300,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "tfc:rock/chiseled/granite",
+          "min_quantity": 0,
+          "max_quantity": 60,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#c:glass_panes",
+          "min_quantity": 0,
+          "max_quantity": 40,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:temperate_lawmaker_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 100,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "create:encased_fluid_pipe",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:doors",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ],
+      "floor_blocks": [
+        {
+          "block": "#materialism:temperate_lawmaker_wood_planks",
+          "min_quantity": 20,
+          "max_quantity": 144,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:air",
+          "min_quantity": 1,
+          "max_quantity": 6,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "minecraft:ladder",
+          "min_quantity": 0,
+          "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ],
+      "roof_blocks": [
+        {
+          "block": "#materialism:roofs_t4",
+          "min_quantity": 30,
+          "max_quantity": 400,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        }
+      ]
     }
   ],
-  "wallBlocks": [
-    {
-      "block": "tfc:rock/smooth/granite",
-      "minQuantity": 60,
-      "maxQuantity": 90,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "tfc:rock/bricks/granite",
-      "minQuantity": 180,
-      "maxQuantity": 250,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "materialism:temperate_burgher_wood_logs",
-      "minQuantity": 10,
-      "maxQuantity": 30,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "create:encased_fluid_pipe",
-      "minQuantity": 0,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "create:dark_oak_window",
-      "minQuantity": 12,
-      "maxQuantity": 20,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "minecraft:doors",
-      "minQuantity": 2,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    }
-  ],
-  "interiorBlocks": [
-    {
-      "block": "minecraft:air",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "tfc:barrels",
-      "minQuantity": 0,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "create:fluid_tank",
-      "minQuantity": 0,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "create:chute",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "block": "create:portable_storage_interface",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "materialism:temperate_lawmaker_furniture_glass_tables",
-      "minQuantity": 6,
-      "maxQuantity": 10,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "materialism:temperate_lawmaker_furniture_chairs",
-      "minQuantity": 10,
-      "maxQuantity": 16,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "materialism:temperate_lawmaker_furniture_wardrobes",
-      "minQuantity": 2,
-      "maxQuantity": 8,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "materialism:temperate_lawmaker_furniture_bookshelves",
-      "minQuantity": 2,
-      "maxQuantity": 10,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    },
-    {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
-      "maxQuantity": 4,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    }
-  ],
-  "roofBlocks": [
-    {
-      "block": "rnr:ceramic_roof",
-      "minQuantity": 200,
-      "maxQuantity": 290,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
-    }
-  ]
+  "lighting": {
+    "min_light": 9,
+    "min_percentage": 0.8
+  },
+  "min_storeys": 2,
+  "max_storeys": 2
 }

@@ -1,0 +1,110 @@
+{
+  "max_happiness": 20.0,
+  "mating_happiness_threshold": 8.0,
+  "spontaneously_spawn_population": 3,
+  "name_samples": [
+    "Amir",
+    "Zahra",
+    "Idris",
+    "Layla",
+    "Tariq",
+    "Samira",
+    "Yusri",
+    "Nadia",
+    "Faris",
+    "Amina",
+    "Rashid",
+    "Dalia",
+    "Hakim",
+    "Yasmin",
+    "Karim",
+    "Leila",
+    "Nizar",
+    "Soraya",
+    "Zaid",
+    "Farah",
+    "Amastan",
+    "Tiziri",
+    "Massin",
+    "Dihya",
+    "Yuba",
+    "Tanirt",
+    "Aksil",
+    "Tafsut",
+    "Izem",
+    "Thiziri",
+    "Dariush",
+    "Shirin",
+    "Kaveh",
+    "Parisa",
+    "Rostam",
+    "Mitra",
+    "Navid",
+    "Roxan",
+    "Bahram",
+    "Azadeh"
+  ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_desert",
+    "materialism:rainfall_desert",
+    "materialism:altitude_lowlands",
+    "materialism:home_desert_wayfarer",
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_oat_flatbread",
+    "materialism:diet_t1",
+    "materialism:sleep_t1",
+    "materialism:socialize_desert_folk_t1",
+    "materialism:rain_blessing_t1"
+  ],
+  "jobs": [
+    "materialism:desert_forager",
+    "materialism:desert_firekeeper",
+    "materialism:desert_shore_fisher"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:desert_sandborn",
+      "required_happiness": 12.0,
+      "required_needs": [
+        {
+          "need": "materialism:temperature_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_desert",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_desert_wayfarer",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:desert_wayfarer",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:desert_wayfarer",
+            "materialism:desert_sandborn"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

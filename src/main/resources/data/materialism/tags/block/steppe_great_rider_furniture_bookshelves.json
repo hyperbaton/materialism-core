@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/bookshelf/teak",
+    "afc:wood/bookshelf/ironwood",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_lower_bookshelf_drawer"
+  ]
+}

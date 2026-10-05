@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_end_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_end_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_end_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_end_table"
+  ]
+}

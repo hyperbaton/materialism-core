@@ -1,0 +1,182 @@
+{
+  "max_happiness": 400.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Altan",
+    "Batu",
+    "Chagan",
+    "Dorji",
+    "Erdene",
+    "Gansukh",
+    "Khulan",
+    "Temuge",
+    "Arslan",
+    "Bora",
+    "Ceren",
+    "Davaa",
+    "Esen",
+    "Hulan",
+    "Ilkhan",
+    "Jochi",
+    "Kaidu",
+    "Mergen",
+    "Nomin",
+    "Oyun",
+    "Sarnai",
+    "Tolui",
+    "Uyanga",
+    "Yesui",
+    "Ariq",
+    "Bayan",
+    "Chinua",
+    "Ganzorig",
+    "Khasar",
+    "Naran",
+    "Odval",
+    "Sukh",
+    "Toghrul",
+    "Unegen",
+    "Yuldus",
+    "Alaqai",
+    "Borte",
+    "Kokochu",
+    "Sorkhan",
+    "Tumen"
+  ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:altitude_lowlands",
+    "materialism:home_steppe_windborn",
+    "materialism:heating_steppe_t4",
+    "materialism:lighting_t4",
+    "materialism:social_steppe_retinue",
+    "materialism:clothing_insulated_head_steppe_winter_t4",
+    "materialism:clothing_insulated_chest_steppe_winter_t4",
+    "materialism:clothing_insulated_legs_steppe_winter_t4",
+    "materialism:clothing_insulated_feet_steppe_winter_t4",
+    "materialism:drink_aged_vodka_t4",
+    "materialism:drink_vodka_t4",
+    "materialism:food_barley_bread_sandwich",
+    "materialism:food_aged_shosha",
+    "materialism:food_smoked_beef_t4",
+    "materialism:food_fresh_shosha_t4",
+    "materialism:household_sugar_t4",
+    "materialism:household_hematitic_glass_bottle_t4",
+    "materialism:energy_t4",
+    "materialism:workplace_steppe_lore",
+    "materialism:ritual_kurultai_t4",
+    "materialism:ritual_naadam_games_t4",
+    "materialism:reading_t4",
+    "materialism:pet_dog_1_t4",
+    "materialism:diet_t4",
+    "materialism:clothing_leather_head_steppe_summer_t4",
+    "materialism:clothing_leather_chest_steppe_summer_t4",
+    "materialism:clothing_leather_legs_steppe_summer_t4",
+    "materialism:clothing_leather_feet_steppe_summer_t4",
+    "materialism:sleep_t4",
+    "materialism:socialize_steppe_court_t4",
+    "materialism:visit_steppe_garden",
+    "materialism:quiet_study",
+    "materialism:homeland_steppe_t4",
+    "materialism:aspire_steppe_leader"
+  ],
+  "jobs": [
+    "materialism:steppe_writer",
+    "materialism:steppe_kurultai_officiant",
+    "materialism:steppe_apothecary"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:steppe_great_rider",
+      "required_happiness": 300.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_steppe_leader",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_steppe_windborn",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:reading_t4",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_clansman",
+          "percentage": 0.35,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        },
+        {
+          "social_class": "materialism:steppe_windborn",
+          "percentage": 0.75,
+          "scope": [
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:steppe_skychaser",
+      "required_happiness": 60.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_steppe_windborn",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_steppe_t4",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:diet_t4",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_clansman",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        }
+      ]
+    }
+  ]
+}

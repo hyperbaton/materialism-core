@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/kapok",
+    "tfc:wood/fence/palm",
+    "tfc:wood/log_fence/kapok",
+    "tfc:wood/log_fence/palm",
+    {
+      "id": "tfc:wood/planks/kapok_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/palm_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_wired_fence"
+  ]
+}

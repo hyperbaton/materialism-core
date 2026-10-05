@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_table",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_table",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_end_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_end_table",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_end_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_end_table"
+  ]
+}

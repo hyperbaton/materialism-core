@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/ash",
+    "afc:wood/fence/cypress",
+    "afc:wood/fence/eucalyptus",
+    "tfc:wood/log_fence/ash",
+    "afc:wood/log_fence/cypress",
+    "afc:wood/log_fence/eucalyptus",
+    {
+      "id": "tfc:wood/planks/ash_log_fence",
+      "required": false
+    },
+    "afc:wood/planks/cypress_log_fence",
+    "afc:wood/planks/eucalyptus_log_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/ash_fences/ash_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/eucalyptus_fences/eucalyptus_wired_fence"
+  ]
+}

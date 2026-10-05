@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_modern_chair"
+  ]
+}

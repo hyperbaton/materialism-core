@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/palm",
+    "afc:wood/fence/hevea",
+    "tfc:wood/log_fence/palm",
+    "afc:wood/log_fence/hevea",
+    {
+      "id": "tfc:wood/planks/palm_log_fence",
+      "required": false
+    },
+    "afc:wood/planks/hevea_log_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_wired_fence"
+  ]
+}

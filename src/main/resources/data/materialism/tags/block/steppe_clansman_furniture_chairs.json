@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_striped_chair"
+  ]
+}

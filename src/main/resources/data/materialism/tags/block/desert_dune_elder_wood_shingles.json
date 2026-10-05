@@ -1,0 +1,48 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/ipe",
+      "required": false
+    },
+    "rnr:wood/shingles/blackwood",
+    {
+      "id": "rnr:wood/shingles/ipe_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/blackwood_stairs",
+    {
+      "id": "rnr:wood/shingles/ipe_slab",
+      "required": false
+    },
+    "rnr:wood/shingles/blackwood_slab",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/ipe_roofs/ipe_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/blackwood_roofs/blackwood_planks_upper_steep_roof"
+  ]
+}

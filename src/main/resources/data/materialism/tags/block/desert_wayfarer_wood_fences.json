@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/palm",
+    "tfc:wood/fence/acacia",
+    "tfc:wood/log_fence/palm",
+    "tfc:wood/log_fence/acacia",
+    {
+      "id": "tfc:wood/planks/palm_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/acacia_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/palm_fences/palm_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_wired_fence"
+  ]
+}

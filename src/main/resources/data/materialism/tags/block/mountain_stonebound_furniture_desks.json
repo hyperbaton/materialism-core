@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_modern_desk"
+  ]
+}

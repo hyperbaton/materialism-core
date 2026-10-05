@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/white_cedar",
+    "afc:wood/planks/eucalyptus",
+    "tfc:wood/planks/white_cedar_stairs",
+    "afc:wood/planks/eucalyptus_stairs",
+    "tfc:wood/planks/white_cedar_slab",
+    "afc:wood/planks/eucalyptus_slab"
+  ]
+}

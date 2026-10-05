@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_desk",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_desk",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_modern_desk"
+  ]
+}

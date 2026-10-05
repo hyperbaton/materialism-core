@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/rosewood",
+    "afc:wood/log/mahogany",
+    "afc:wood/log/ipe",
+    "tfc:wood/wood/rosewood",
+    "afc:wood/wood/mahogany",
+    "afc:wood/wood/ipe",
+    "tfc:wood/stripped_log/rosewood",
+    "afc:wood/stripped_log/mahogany",
+    "afc:wood/stripped_log/ipe"
+  ]
+}

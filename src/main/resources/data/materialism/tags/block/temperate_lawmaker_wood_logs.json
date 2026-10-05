@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/log/teak",
+    "tfc:wood/log/blackwood",
+    "afc:wood/wood/teak",
+    "tfc:wood/wood/blackwood",
+    "afc:wood/stripped_log/teak",
+    "tfc:wood/stripped_log/blackwood"
+  ]
+}

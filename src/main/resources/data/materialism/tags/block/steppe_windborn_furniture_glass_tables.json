@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_glass_table"
+  ]
+}

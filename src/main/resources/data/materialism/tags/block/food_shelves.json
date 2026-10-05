@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    "firmalife:wood/food_shelf/acacia",
+    "firmalife:wood/food_shelf/ash",
+    "firmalife:wood/food_shelf/aspen",
+    "firmalife:wood/food_shelf/birch",
+    "firmalife:wood/food_shelf/blackwood",
+    "firmalife:wood/food_shelf/chestnut",
+    "firmalife:wood/food_shelf/douglas_fir",
+    "firmalife:wood/food_shelf/hickory",
+    "firmalife:wood/food_shelf/kapok",
+    "firmalife:wood/food_shelf/mangrove",
+    "firmalife:wood/food_shelf/maple",
+    "firmalife:wood/food_shelf/oak",
+    "firmalife:wood/food_shelf/palm",
+    "firmalife:wood/food_shelf/pine",
+    "firmalife:wood/food_shelf/rosewood",
+    "firmalife:wood/food_shelf/sequoia",
+    "firmalife:wood/food_shelf/spruce",
+    "firmalife:wood/food_shelf/sycamore",
+    "firmalife:wood/food_shelf/white_cedar",
+    "firmalife:wood/food_shelf/willow",
+    {
+      "id": "firmalife:wood/food_shelf/baobab",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/eucalyptus",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/hevea",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/ipe",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/ironwood",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/mahogany",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/teak",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/tualang",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/cypress",
+      "required": false
+    },
+    {
+      "id": "firmalife:wood/food_shelf/fig",
+      "required": false
+    }
+  ]
+}

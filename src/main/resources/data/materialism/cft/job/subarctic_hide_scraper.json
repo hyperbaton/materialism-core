@@ -1,0 +1,18 @@
+{
+  "type": "cft:crafter",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:subarctic_workshop",
+  "ingredients": [
+    {
+      "item": {
+        "item": "tfc:medium_soaked_hide"
+      },
+      "quantity": 1
+    }
+  ],
+  "output": {
+    "item": "tfc:medium_scraped_hide"
+  },
+  "output_count": 1,
+  "crafting_time": 400
+}

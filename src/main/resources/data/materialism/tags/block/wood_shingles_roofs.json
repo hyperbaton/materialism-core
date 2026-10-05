@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:wood/shingles/acacia",
+    "rnr:wood/shingles/ash",
+    "rnr:wood/shingles/aspen",
+    "rnr:wood/shingles/birch",
+    "rnr:wood/shingles/blackwood",
+    "rnr:wood/shingles/chestnut",
+    "rnr:wood/shingles/douglas_fir",
+    "rnr:wood/shingles/hickory",
+    "rnr:wood/shingles/kapok",
+    "rnr:wood/shingles/mangrove",
+    "rnr:wood/shingles/maple",
+    "rnr:wood/shingles/oak",
+    "rnr:wood/shingles/palm",
+    "rnr:wood/shingles/pine",
+    "rnr:wood/shingles/rosewood",
+    "rnr:wood/shingles/sequoia",
+    "rnr:wood/shingles/spruce",
+    "rnr:wood/shingles/sycamore",
+    "rnr:wood/shingles/white_cedar",
+    "rnr:wood/shingles/willow",
+    {
+      "id": "rnr:wood/shingles/baobab",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/eucalyptus",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/hevea",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ipe",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/ironwood",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/mahogany",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/teak",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/tualang",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/cypress",
+      "required": false
+    },
+    {
+      "id": "rnr:wood/shingles/fig",
+      "required": false
+    }
+  ]
+}

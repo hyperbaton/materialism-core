@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/spruce",
+    "tfc:wood/bookshelf/willow",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_lower_bookshelf_drawer"
+  ]
+}

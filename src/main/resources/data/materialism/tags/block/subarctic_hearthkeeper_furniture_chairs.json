@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_chair",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_chair",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_striped_chair"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_stool_chair"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/bookshelf/teak",
+    "afc:wood/bookshelf/mahogany",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_lower_bookshelf_drawer"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/oak",
+    "tfc:wood/bookshelf/hickory",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_lower_bookshelf_drawer"
+  ]
+}

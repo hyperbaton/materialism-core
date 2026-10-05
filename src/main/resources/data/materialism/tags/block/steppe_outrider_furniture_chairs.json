@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_striped_chair"
+  ]
+}

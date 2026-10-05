@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/oak",
+    "tfc:wood/fence/hickory",
+    "tfc:wood/log_fence/oak",
+    "tfc:wood/log_fence/hickory",
+    {
+      "id": "tfc:wood/planks/oak_log_fence",
+      "required": false
+    },
+    {
+      "id": "tfc:wood/planks/hickory_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/oak_fences/oak_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/hickory_fences/hickory_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/oak_fences/oak_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/hickory_fences/hickory_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/oak_fences/oak_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/hickory_fences/hickory_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/oak_fences/oak_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/hickory_fences/hickory_wired_fence"
+  ]
+}

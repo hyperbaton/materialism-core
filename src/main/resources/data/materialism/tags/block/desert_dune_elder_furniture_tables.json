@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_table",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_table",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_end_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_end_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_end_table"
+  ]
+}

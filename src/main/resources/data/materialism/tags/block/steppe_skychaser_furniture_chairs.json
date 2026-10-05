@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_striped_chair"
+  ]
+}

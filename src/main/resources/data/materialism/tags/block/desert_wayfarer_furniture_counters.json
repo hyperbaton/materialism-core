@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_cupboard_counter"
+  ]
+}

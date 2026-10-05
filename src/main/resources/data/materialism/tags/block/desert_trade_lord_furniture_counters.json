@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_cupboard_counter"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/palm",
+    "afc:wood/log/hevea",
+    "tfc:wood/wood/palm",
+    "afc:wood/wood/hevea",
+    "tfc:wood/stripped_log/palm",
+    "afc:wood/stripped_log/hevea"
+  ]
+}

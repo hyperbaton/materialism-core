@@ -1,0 +1,16 @@
+{
+  "type": "cft:social",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.163,
+  "satisfaction_threshold": 0.5,
+  "frequency": 0.5,
+  "classes": [
+    "materialism:temperate_barkcloak",
+    "materialism:temperate_burgher",
+    "materialism:temperate_moonwake"
+  ],
+  "min_count": 3,
+  "max_count": 12,
+  "radius": 48
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_modern_chair"
+  ]
+}

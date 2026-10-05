@@ -1,0 +1,48 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "rnr:wood/shingles/cypress",
+      "required": false
+    },
+    "rnr:wood/shingles/willow",
+    {
+      "id": "rnr:wood/shingles/cypress_stairs",
+      "required": false
+    },
+    "rnr:wood/shingles/willow_stairs",
+    {
+      "id": "rnr:wood/shingles/cypress_slab",
+      "required": false
+    },
+    "rnr:wood/shingles/willow_slab",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/cypress_roofs/cypress_planks_upper_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/willow_roofs/willow_planks_upper_steep_roof"
+  ]
+}

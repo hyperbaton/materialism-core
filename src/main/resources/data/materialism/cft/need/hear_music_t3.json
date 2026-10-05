@@ -1,0 +1,16 @@
+{
+  "type": "cft:hearing",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.2,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "bonus": true,
+  "game_events": [
+    "minecraft:note_block_play",
+    "minecraft:jukebox_play",
+    "minecraft:instrument_play"
+  ],
+  "min_events": 3,
+  "window": 300
+}

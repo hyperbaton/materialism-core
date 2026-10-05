@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/birch",
+    "tfc:wood/planks/willow",
+    "tfc:wood/planks/birch_stairs",
+    "tfc:wood/planks/willow_stairs",
+    "tfc:wood/planks/birch_slab",
+    "tfc:wood/planks/willow_slab"
+  ]
+}

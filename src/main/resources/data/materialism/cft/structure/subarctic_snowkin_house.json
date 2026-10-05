@@ -1,0 +1,162 @@
+{
+  "type": "cft:house",
+  "key_block": "#minecraft:doors",
+  "max_users": 1,
+  "requires_container": true,
+  "priority": 20,
+  "floor_blocks": [
+    {
+      "block": "rnr:rock/macadam_road/slate",
+      "min_quantity": 18,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:rock/gravel/slate",
+      "min_quantity": 22,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "wall_blocks": [
+    {
+      "block": "tfc:mud_bricks/fluvisol",
+      "min_quantity": 50,
+      "max_quantity": 80,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:subarctic_snowkin_wood_logs",
+      "min_quantity": 12,
+      "max_quantity": 18,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:subarctic_snowkin_wood_fences",
+      "min_quantity": 2,
+      "max_quantity": 6,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "create:encased_fluid_pipe",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#minecraft:doors",
+      "min_quantity": 1,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "interior_blocks": [
+    {
+      "block": "minecraft:air",
+      "min_quantity": 0,
+      "max_quantity": 60,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:barrels",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "create:fluid_tank",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "create:chute",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "create:portable_storage_interface",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#c:chests",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:torch",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:wall_torch",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#tfc:lamps",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:candles",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:log_pile",
+      "min_quantity": 0,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:thatch_bed",
+      "min_quantity": 0,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:firepit",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "roof_blocks": [
+    {
+      "block": "#materialism:thatch_roofs",
+      "min_quantity": 40,
+      "max_quantity": 60,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ]
+}

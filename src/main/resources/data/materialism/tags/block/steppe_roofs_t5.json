@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:terracotta_roof",
+    "rnr:terracotta_roof_stairs",
+    "rnr:terracotta_roof_slab",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_roof",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/orange_terracotta_roofs/orange_terracotta_upper_steep_roof"
+  ]
+}

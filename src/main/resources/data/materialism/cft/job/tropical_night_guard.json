@@ -1,0 +1,23 @@
+{
+  "type": "cft:guard",
+  "hours_per_day": 8.0,
+  "patrol_radius": 24,
+  "detection_radius": 24,
+  "required_needs": [
+    "materialism:equip_bronze_javelin"
+  ],
+  "schedule": [
+    {
+      "at": 2,
+      "activity": "minecraft:rest"
+    },
+    {
+      "at": 10,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 18,
+      "activity": "minecraft:work"
+    }
+  ]
+}

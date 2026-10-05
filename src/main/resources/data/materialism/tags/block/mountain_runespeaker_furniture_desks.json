@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_desk",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_desk",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_desk",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_desk",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_modern_desk"
+  ]
+}

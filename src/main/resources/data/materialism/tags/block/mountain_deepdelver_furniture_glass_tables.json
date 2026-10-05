@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_glass_table"
+  ]
+}

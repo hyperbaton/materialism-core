@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/kapok",
+    "afc:wood/log/hevea",
+    "afc:wood/log/tualang",
+    "tfc:wood/wood/kapok",
+    "afc:wood/wood/hevea",
+    "afc:wood/wood/tualang",
+    "tfc:wood/stripped_log/kapok",
+    "afc:wood/stripped_log/hevea",
+    "afc:wood/stripped_log/tualang"
+  ]
+}

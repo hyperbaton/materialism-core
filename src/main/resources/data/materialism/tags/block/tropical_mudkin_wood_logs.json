@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/log/kapok",
+    "tfc:wood/log/palm",
+    "tfc:wood/wood/kapok",
+    "tfc:wood/wood/palm",
+    "tfc:wood/stripped_log/kapok",
+    "tfc:wood/stripped_log/palm"
+  ]
+}

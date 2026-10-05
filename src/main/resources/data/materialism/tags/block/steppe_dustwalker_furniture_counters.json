@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_cupboard_counter"
+  ]
+}

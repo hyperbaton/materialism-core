@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/hickory",
+    "tfc:wood/bookshelf/chestnut",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_lower_bookshelf_drawer"
+  ]
+}

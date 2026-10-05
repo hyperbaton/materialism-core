@@ -1,0 +1,29 @@
+{
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.6522,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "item": {
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "firmalife:food/chevre"
+      },
+      {
+        "type": "tfc:not_rotten"
+      },
+      {
+        "type": "tfc:lacks_trait",
+        "trait": "firmalife:aged"
+      },
+      {
+        "type": "tfc:lacks_trait",
+        "trait": "firmalife:vintage"
+      }
+    ]
+  },
+  "quantity": 1,
+  "hoarding": 4
+}

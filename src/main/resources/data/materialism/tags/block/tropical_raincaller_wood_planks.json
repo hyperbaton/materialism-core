@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/planks/kapok",
+    "afc:wood/planks/hevea",
+    "afc:wood/planks/tualang",
+    "tfc:wood/planks/kapok_stairs",
+    "afc:wood/planks/hevea_stairs",
+    "afc:wood/planks/tualang_stairs",
+    "tfc:wood/planks/kapok_slab",
+    "afc:wood/planks/hevea_slab",
+    "afc:wood/planks/tualang_slab"
+  ]
+}

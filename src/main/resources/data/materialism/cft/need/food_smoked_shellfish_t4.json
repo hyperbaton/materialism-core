@@ -1,0 +1,25 @@
+{
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.6522,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "item": {
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "tfc:food/cooked_shellfish"
+      },
+      {
+        "type": "tfc:not_rotten"
+      },
+      {
+        "type": "tfc:has_trait",
+        "trait": "firmalife:smoked"
+      }
+    ]
+  },
+  "quantity": 1,
+  "hoarding": 4
+}

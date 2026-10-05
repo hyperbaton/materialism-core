@@ -1,0 +1,26 @@
+{
+  "type": "cftfc:farmer",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:farm",
+  "crops": [
+    {
+      "seed": "tfc:seeds/barley",
+      "weight": 1.5
+    },
+    {
+      "seed": "tfc:seeds/squash",
+      "weight": 1.0
+    },
+    {
+      "seed": "tfc:seeds/lentil",
+      "weight": 0.5
+    },
+    {
+      "seed": "tfc:seeds/alfalfa",
+      "weight": 0.3
+    }
+  ],
+  "soil_weight": 0.5,
+  "lookahead": 2,
+  "carry": 32
+}

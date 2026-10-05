@@ -1,0 +1,18 @@
+{
+  "type": "cft:crafter",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:mountain_workshop",
+  "ingredients": [
+    {
+      "item": {
+        "item": "tfc:metal/ingot/bronze"
+      },
+      "quantity": 1
+    }
+  ],
+  "output": {
+    "item": "tfc:metal/pickaxe_head/bronze"
+  },
+  "output_count": 1,
+  "crafting_time": 400
+}

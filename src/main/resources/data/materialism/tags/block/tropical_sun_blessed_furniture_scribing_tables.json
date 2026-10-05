@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/scribing_table/rosewood",
+    "tfc:wood/scribing_table/blackwood",
+    "afc:wood/scribing_table/baobab"
+  ]
+}

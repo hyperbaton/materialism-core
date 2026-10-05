@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_modern_chair"
+  ]
+}

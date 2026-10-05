@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_table",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_table",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_table",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_table",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_end_table",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_end_table"
+  ]
+}

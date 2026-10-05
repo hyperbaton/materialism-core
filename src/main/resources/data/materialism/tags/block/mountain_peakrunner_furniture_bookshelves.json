@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/bookshelf/birch",
+    "tfc:wood/bookshelf/aspen",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_lower_bookshelf_drawer"
+  ]
+}

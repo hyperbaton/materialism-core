@@ -1,0 +1,12 @@
+{
+  "type": "cft:visit",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 6.0,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "bonus": true,
+  "required_structure": "materialism:subarctic_garden",
+  "search_radius": 64,
+  "stay_duration": 2400
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/fence/teak",
+    "afc:wood/fence/ironwood",
+    "afc:wood/log_fence/teak",
+    "afc:wood/log_fence/ironwood",
+    "afc:wood/planks/teak_log_fence",
+    "afc:wood/planks/ironwood_log_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/ironwood_fences/ironwood_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/ironwood_fences/ironwood_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/ironwood_fences/ironwood_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/ironwood_fences/ironwood_wired_fence"
+  ]
+}

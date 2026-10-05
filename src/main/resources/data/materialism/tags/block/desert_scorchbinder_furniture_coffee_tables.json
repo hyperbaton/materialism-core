@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_coffee_table"
+  ]
+}

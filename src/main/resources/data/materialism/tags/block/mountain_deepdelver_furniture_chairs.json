@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_chair",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_chair",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_striped_chair"
+  ]
+}

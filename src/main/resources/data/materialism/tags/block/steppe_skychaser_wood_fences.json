@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "afc:wood/fence/cypress",
+    "tfc:wood/fence/willow",
+    "afc:wood/log_fence/cypress",
+    "tfc:wood/log_fence/willow",
+    "afc:wood/planks/cypress_log_fence",
+    {
+      "id": "tfc:wood/planks/willow_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/cypress_fences/cypress_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_wired_fence"
+  ]
+}

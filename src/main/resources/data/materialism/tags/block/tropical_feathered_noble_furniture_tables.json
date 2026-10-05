@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_table",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_table",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_end_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_end_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_end_table"
+  ]
+}

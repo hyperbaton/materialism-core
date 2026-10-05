@@ -1,0 +1,109 @@
+{
+  "max_happiness": 20.0,
+  "mating_happiness_threshold": 8.0,
+  "spontaneously_spawn_population": 3,
+  "name_samples": [
+    "Itzel",
+    "Ixchel",
+    "Nayeli",
+    "Citlali",
+    "Xochi",
+    "Yaretzi",
+    "Atzi",
+    "Ikal",
+    "Kanek",
+    "Kinich",
+    "Malinal",
+    "Nikte",
+    "Ollin",
+    "Quetzal",
+    "Sak",
+    "Yaxkin",
+    "Zyanya",
+    "Tenoch",
+    "Kai",
+    "Lani",
+    "Moana",
+    "Nalu",
+    "Keoni",
+    "Leilani",
+    "Mahina",
+    "Ikaika",
+    "Malia",
+    "Koa",
+    "Tama",
+    "Hina",
+    "Ariki",
+    "Manu",
+    "Rangi",
+    "Tavita",
+    "Aroha",
+    "Kalea",
+    "Noa",
+    "Pua",
+    "Mele",
+    "Tiare"
+  ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
+  "needs": [
+    "materialism:temperature_tropical",
+    "materialism:rainfall_tropical",
+    "materialism:altitude_lowlands",
+    "materialism:home_tropical_mudkin",
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_rice_flatbread",
+    "materialism:diet_t1",
+    "materialism:sleep_t1",
+    "materialism:socialize_tropical_folk_t1"
+  ],
+  "jobs": [
+    "materialism:tropical_forager",
+    "materialism:tropical_firekeeper",
+    "materialism:tropical_shore_fisher"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:tropical_palmhand",
+      "required_happiness": 12.0,
+      "required_needs": [
+        {
+          "need": "materialism:temperature_tropical",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_tropical",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_tropical_mudkin",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:tropical_mudkin",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:tropical_mudkin",
+            "materialism:tropical_palmhand"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

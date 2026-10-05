@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:wood/fence/acacia",
+    "tfc:wood/log_fence/acacia",
+    {
+      "id": "tfc:wood/planks/acacia_log_fence",
+      "required": false
+    },
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/acacia_fences/acacia_wired_fence"
+  ]
+}
