@@ -1,0 +1,92 @@
+{
+  "max_happiness": 20.0,
+  "mating_happiness_threshold": 8.0,
+  "spontaneously_spawn_population": 3,
+  "name_samples": [
+    "Aput",
+    "Siku",
+    "Nuka",
+    "Ilaq",
+    "Tavik",
+    "Oqi",
+    "Ukaliq",
+    "Pana",
+    "Kallu",
+    "Ataq",
+    "Nive",
+    "Saqqaq",
+    "Tulu",
+    "Aaju",
+    "Kiviaq",
+    "Inu",
+    "Malik",
+    "Nauja",
+    "Pilu",
+    "Sura",
+    "Tikaani",
+    "Uki",
+    "Amaruq",
+    "Iluak",
+    "Kunuk",
+    "Naaja",
+    "Qilak",
+    "Sesi",
+    "Tuuli",
+    "Varje",
+    "Aili",
+    "Eira",
+    "Hilja",
+    "Joni",
+    "Kaisa",
+    "Lumi",
+    "Mielik",
+    "Oula",
+    "Ristin",
+    "Sunna"
+  ],
+  "needs": [
+    "materialism:temperature_subarctic",
+    "materialism:rainfall_subarctic",
+    "materialism:altitude_lowlands",
+    "materialism:home_subarctic_tundrafellow",
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_rye_flatbread",
+    "materialism:household_hide_blanket"
+  ],
+  "jobs": [
+    "materialism:subarctic_forager",
+    "materialism:subarctic_shore_fisher"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:subarctic_snowkin",
+      "required_happiness": 12.0,
+      "required_needs": [
+        {
+          "need": "materialism:temperature_subarctic",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_subarctic",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_subarctic_tundrafellow",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:subarctic_tundrafellow",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:subarctic_tundrafellow",
+            "materialism:subarctic_snowkin"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

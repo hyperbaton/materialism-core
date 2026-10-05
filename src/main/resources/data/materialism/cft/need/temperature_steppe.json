@@ -1,5 +1,4 @@
 {
-  "id": "materialism:temperature_steppe",
   "type": "cftfc:temperature",
   "damage": 1.0,
   "damage_threshold": 0.75,

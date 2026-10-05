@@ -1,5 +1,4 @@
 {
-  "id": "materialism:drink_goat_milk",
   "type": "cft:fluid",
   "damage": 0.5,
   "damage_threshold": 0.25,

@@ -1,121 +1,120 @@
 {
   "type": "cft:house",
-  "id": "materialism:tropical_mudkin_house",
-  "key_block_tag": "minecraft:doors",
+  "key_block": "#minecraft:doors",
   "max_users": 1,
   "requires_container": true,
   "priority": 10,
-  "floorBlocks": [
+  "floor_blocks": [
     {
       "block": "rnr:rock/gravel_road/claystone",
-      "minQuantity": 5,
-      "maxQuantity": 10,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 5,
+      "max_quantity": 10,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/gravel/claystone",
-      "minQuantity": 16,
-      "maxQuantity": 25,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 16,
+      "max_quantity": 25,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "wallBlocks": [
+  "wall_blocks": [
     {
-      "tagBlock": "materialism:wattle",
-      "minQuantity": 22,
-      "maxQuantity": 30,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:wattle",
+      "min_quantity": 22,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:tropical_mudkin_wood_logs",
-      "minQuantity": 8,
-      "maxQuantity": 12,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:tropical_mudkin_wood_logs",
+      "min_quantity": 8,
+      "max_quantity": 12,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "create:encased_fluid_pipe",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:doors",
-      "minQuantity": 1,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:doors",
+      "min_quantity": 1,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "interiorBlocks": [
+  "interior_blocks": [
     {
       "block": "minecraft:air",
-      "minQuantity": 0,
-      "maxQuantity": 50,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 50,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:barrels",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:barrels",
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "create:fluid_tank",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "create:chute",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "create:portable_storage_interface",
-      "minQuantity": 0,
-      "maxQuantity": 1,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 1,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
-      "maxQuantity": 4,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:chests",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:log_pile",
-      "minQuantity": 0,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:thatch_bed",
-      "minQuantity": 0,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "roofBlocks": [
+  "roof_blocks": [
     {
       "block": "rnr:thatch_roof",
-      "minQuantity": 21,
-      "maxQuantity": 35,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 21,
+      "max_quantity": 35,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ]
 }

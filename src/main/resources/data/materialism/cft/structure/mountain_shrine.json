@@ -1,28 +1,27 @@
 {
   "type": "cft:monument",
-  "id": "materialism:mountain_shrine",
-  "key_block_tag": "tfc:lamps",
+  "key_block": "#tfc:lamps",
   "max_users": 0,
   "requires_container": false,
   "priority": 0,
-  "layerRules": [
+  "layer_rules": [
     {
       "from": 0,
       "to": 0,
       "blocks": [
         {
-          "tagBlock": "tfc:lamps",
-          "minQuantity": 1,
-          "maxQuantity": 1,
-          "minPercentage": 0.0,
-          "maxPercentage": 1.0
+          "block": "#tfc:lamps",
+          "min_quantity": 1,
+          "max_quantity": 1,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         },
         {
           "block": "tfc:rock/cobble/phyllite",
-          "minQuantity": 0,
-          "maxQuantity": 8,
-          "minPercentage": 0.0,
-          "maxPercentage": 1.0
+          "min_quantity": 0,
+          "max_quantity": 8,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         }
       ]
     },
@@ -32,17 +31,17 @@
       "blocks": [
         {
           "block": "tfc:rock/cobble/phyllite",
-          "minQuantity": 1,
-          "maxQuantity": 9,
-          "minPercentage": 0.0,
-          "maxPercentage": 1.0
+          "min_quantity": 1,
+          "max_quantity": 9,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         },
         {
           "block": "tfc:rock/raw/phyllite",
-          "minQuantity": 0,
-          "maxQuantity": 9,
-          "minPercentage": 0.0,
-          "maxPercentage": 1.0
+          "min_quantity": 0,
+          "max_quantity": 9,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         }
       ]
     }

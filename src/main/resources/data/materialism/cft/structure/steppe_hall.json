@@ -1,163 +1,162 @@
 {
   "type": "cft:enclosed_building",
-  "id": "materialism:steppe_hall",
-  "key_block_tag": "minecraft:banners",
+  "key_block": "#minecraft:banners",
   "max_users": 0,
   "requires_container": true,
   "priority": 5,
-  "floorBlocks": [
+  "floor_blocks": [
     {
-      "tagBlock": "minecraft:planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/phyllite",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:rock/cobbled_road/phyllite",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/bricks/phyllite",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "wallBlocks": [
+  "wall_blocks": [
     {
-      "tagBlock": "materialism:steppe_kinlord_wood_logs",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:steppe_kinlord_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:steppe_kinlord_wood_planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:steppe_kinlord_wood_planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/bricks/phyllite",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/phyllite",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/smooth/phyllite",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:glass_panes",
-      "minQuantity": 0,
-      "maxQuantity": 30,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:glass_panes",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:doors",
-      "minQuantity": 1,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:doors",
+      "min_quantity": 1,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "interiorBlocks": [
+  "interior_blocks": [
     {
       "block": "minecraft:air",
-      "minQuantity": 0,
-      "maxQuantity": 800,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 800,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
-      "maxQuantity": 4,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:chests",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:banners",
-      "minQuantity": 1,
-      "maxQuantity": 8,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:banners",
+      "min_quantity": 1,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:steppe_kinlord_furniture_tables",
-      "minQuantity": 1,
-      "maxQuantity": 6,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:steppe_kinlord_furniture_tables",
+      "min_quantity": 1,
+      "max_quantity": 6,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:steppe_kinlord_furniture_chairs",
-      "minQuantity": 4,
-      "maxQuantity": 20,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:steppe_kinlord_furniture_chairs",
+      "min_quantity": 4,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "tfc:lamps",
-      "minQuantity": 2,
-      "maxQuantity": 12,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#tfc:lamps",
+      "min_quantity": 2,
+      "max_quantity": 12,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "roofBlocks": [
+  "roof_blocks": [
     {
-      "tagBlock": "materialism:wood_shingles_roofs",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:wood_shingles_roofs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:thatch_roof",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:ceramic_roof",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ]
 }

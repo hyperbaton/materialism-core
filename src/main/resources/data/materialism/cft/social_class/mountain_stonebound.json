@@ -1,0 +1,91 @@
+{
+  "max_happiness": 20.0,
+  "mating_happiness_threshold": 8.0,
+  "spontaneously_spawn_population": 3,
+  "name_samples": [
+    "Tenzin",
+    "Dawa",
+    "Pema",
+    "Norbu",
+    "Karma",
+    "Lhamo",
+    "Sonam",
+    "Tashi",
+    "Dolma",
+    "Nyima",
+    "Jamyang",
+    "Yangchen",
+    "Inti",
+    "Amaru",
+    "Kusi",
+    "Rumi",
+    "Sumaq",
+    "Wayra",
+    "Killa",
+    "Qori",
+    "Illari",
+    "Mayta",
+    "Huaman",
+    "Pacha",
+    "Chaska",
+    "Ayar",
+    "Seppi",
+    "Gion",
+    "Ursin",
+    "Fadri",
+    "Mena",
+    "Ladina",
+    "Corsin",
+    "Flurina",
+    "Duri",
+    "Nesa",
+    "Andri",
+    "Seraina",
+    "Reto",
+    "Aita"
+  ],
+  "needs": [
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:altitude_mountain",
+    "materialism:home_mountain_stonebound",
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_maize_flatbread",
+    "materialism:household_hide_blanket"
+  ],
+  "jobs": [
+    "materialism:mountain_forager"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:mountain_cliffdweller",
+      "required_happiness": 12.0,
+      "required_needs": [
+        {
+          "need": "materialism:temperature_mountain",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_mountain",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_mountain_stonebound",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:mountain_stonebound",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:mountain_stonebound",
+            "materialism:mountain_cliffdweller"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

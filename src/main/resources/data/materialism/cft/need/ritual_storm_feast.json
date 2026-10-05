@@ -1,0 +1,13 @@
+{
+  "type": "cft:ritual",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 60.0,
+  "satisfaction_threshold": 0.2,
+  "frequency": 8.75,
+  "hidden": true,
+  "bonus": true,
+  "ritual_id": "materialism:storm_feast",
+  "radius": 64,
+  "requires_presence": false
+}

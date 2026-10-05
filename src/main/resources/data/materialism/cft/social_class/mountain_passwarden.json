@@ -1,0 +1,145 @@
+{
+  "max_happiness": 150.0,
+  "mating_happiness_threshold": 100.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Tenzin",
+    "Dawa",
+    "Pema",
+    "Norbu",
+    "Karma",
+    "Lhamo",
+    "Sonam",
+    "Tashi",
+    "Dolma",
+    "Nyima",
+    "Jamyang",
+    "Yangchen",
+    "Inti",
+    "Amaru",
+    "Kusi",
+    "Rumi",
+    "Sumaq",
+    "Wayra",
+    "Killa",
+    "Qori",
+    "Illari",
+    "Mayta",
+    "Huaman",
+    "Pacha",
+    "Chaska",
+    "Ayar",
+    "Seppi",
+    "Gion",
+    "Ursin",
+    "Fadri",
+    "Mena",
+    "Ladina",
+    "Corsin",
+    "Flurina",
+    "Duri",
+    "Nesa",
+    "Andri",
+    "Seraina",
+    "Reto",
+    "Aita"
+  ],
+  "needs": [
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:altitude_mountain",
+    "materialism:home_mountain_passwarden",
+    "materialism:heating_mountain_t3",
+    "materialism:lighting_t3",
+    "materialism:social_mountain_workforce",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_chest_t3",
+    "materialism:clothing_wool_legs_t3",
+    "materialism:clothing_wool_feet",
+    "materialism:equip_bronze_mace",
+    "materialism:equip_copper_shield",
+    "materialism:drink_mead_t3",
+    "materialism:drink_water_t3",
+    "materialism:food_vegetables_soup",
+    "materialism:food_fresh_rajya_metok_t3",
+    "materialism:food_smoked_mutton_t3",
+    "materialism:household_volcanic_glass_bottle_t3",
+    "materialism:household_candles",
+    "materialism:workplace_mountain_defender",
+    "materialism:ritual_summit_beacon_attend",
+    "materialism:ritual_storm_feast",
+    "materialism:aspire_authority"
+  ],
+  "jobs": [
+    "materialism:mountain_guard"
+  ],
+  "max_health": 30.0,
+  "upgrades": [
+    {
+      "next_class": "materialism:mountain_skyforged",
+      "required_happiness": 100.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_authority",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_mountain_passwarden",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:ritual_summit_beacon_attend",
+          "satisfaction_threshold": 0.2
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:mountain_cliffdweller",
+          "percentage": 0.4,
+          "scope": [
+            "materialism:mountain_cliffdweller",
+            "materialism:mountain_passwarden",
+            "materialism:mountain_deepdelver",
+            "materialism:mountain_peakrunner",
+            "materialism:mountain_skyforged",
+            "materialism:mountain_runespeaker",
+            "materialism:mountain_stormcaller"
+          ]
+        },
+        {
+          "social_class": "materialism:mountain_passwarden",
+          "percentage": 0.5,
+          "scope": [
+            "materialism:mountain_passwarden",
+            "materialism:mountain_skyforged"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:mountain_cliffdweller",
+      "required_happiness": 20.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_mountain_passwarden",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_mountain_t3",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t3",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_vegetables_soup",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

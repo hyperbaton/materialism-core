@@ -1,0 +1,155 @@
+{
+  "max_happiness": 400.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Itzel",
+    "Ixchel",
+    "Nayeli",
+    "Citlali",
+    "Xochi",
+    "Yaretzi",
+    "Atzi",
+    "Ikal",
+    "Kanek",
+    "Kinich",
+    "Malinal",
+    "Nikte",
+    "Ollin",
+    "Quetzal",
+    "Sak",
+    "Yaxkin",
+    "Zyanya",
+    "Tenoch",
+    "Kai",
+    "Lani",
+    "Moana",
+    "Nalu",
+    "Keoni",
+    "Leilani",
+    "Mahina",
+    "Ikaika",
+    "Malia",
+    "Koa",
+    "Tama",
+    "Hina",
+    "Ariki",
+    "Manu",
+    "Rangi",
+    "Tavita",
+    "Aroha",
+    "Kalea",
+    "Noa",
+    "Pua",
+    "Mele",
+    "Tiare"
+  ],
+  "needs": [
+    "materialism:temperature_tropical",
+    "materialism:rainfall_tropical",
+    "materialism:altitude_lowlands",
+    "materialism:home_tropical_councilor",
+    "materialism:heating_tropical_t4",
+    "materialism:lighting_t4",
+    "materialism:social_tropical_retinue",
+    "materialism:clothing_burlap_head_t4",
+    "materialism:clothing_leather_chest_t4",
+    "materialism:clothing_leather_legs_t4",
+    "materialism:clothing_burlap_feet_t4",
+    "materialism:drink_aged_sake_t4",
+    "materialism:drink_sake_t4",
+    "materialism:food_maki_roll",
+    "materialism:food_aged_gouda",
+    "materialism:food_smoked_tropical_fish_t4",
+    "materialism:food_fresh_gouda_t4",
+    "materialism:household_silk_cloth_t4",
+    "materialism:household_sugar_t4",
+    "materialism:household_olivine_glass_bottle_t4",
+    "materialism:energy_t4",
+    "materialism:workplace_tropical_lore",
+    "materialism:ritual_calendar_rite_t4",
+    "materialism:ritual_sun_ascension",
+    "materialism:reading_t4",
+    "materialism:pet_peafowl_1_t4",
+    "materialism:aspire_tropical_leader"
+  ],
+  "jobs": [
+    "materialism:tropical_writer",
+    "materialism:tropical_calendar_rite_officiant",
+    "materialism:tropical_apothecary"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:tropical_sun_blessed",
+      "required_happiness": 300.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_tropical_leader",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_tropical_councilor",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:reading_t4",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:tropical_palmhand",
+          "percentage": 0.35,
+          "scope": [
+            "materialism:tropical_palmhand",
+            "materialism:tropical_junglebound",
+            "materialism:tropical_bloomtender",
+            "materialism:tropical_raincaller",
+            "materialism:tropical_feathered_noble",
+            "materialism:tropical_councilor",
+            "materialism:tropical_sun_blessed"
+          ]
+        },
+        {
+          "social_class": "materialism:tropical_councilor",
+          "percentage": 0.75,
+          "scope": [
+            "materialism:tropical_councilor",
+            "materialism:tropical_sun_blessed"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:tropical_raincaller",
+      "required_happiness": 60.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_tropical_councilor",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_maki_roll",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:tropical_palmhand",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:tropical_palmhand",
+            "materialism:tropical_junglebound",
+            "materialism:tropical_bloomtender",
+            "materialism:tropical_raincaller",
+            "materialism:tropical_feathered_noble",
+            "materialism:tropical_councilor",
+            "materialism:tropical_sun_blessed"
+          ]
+        }
+      ]
+    }
+  ]
+}

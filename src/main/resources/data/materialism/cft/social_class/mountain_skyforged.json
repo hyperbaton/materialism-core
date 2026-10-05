@@ -1,0 +1,160 @@
+{
+  "max_happiness": 400.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Tenzin",
+    "Dawa",
+    "Pema",
+    "Norbu",
+    "Karma",
+    "Lhamo",
+    "Sonam",
+    "Tashi",
+    "Dolma",
+    "Nyima",
+    "Jamyang",
+    "Yangchen",
+    "Inti",
+    "Amaru",
+    "Kusi",
+    "Rumi",
+    "Sumaq",
+    "Wayra",
+    "Killa",
+    "Qori",
+    "Illari",
+    "Mayta",
+    "Huaman",
+    "Pacha",
+    "Chaska",
+    "Ayar",
+    "Seppi",
+    "Gion",
+    "Ursin",
+    "Fadri",
+    "Mena",
+    "Ladina",
+    "Corsin",
+    "Flurina",
+    "Duri",
+    "Nesa",
+    "Andri",
+    "Seraina",
+    "Reto",
+    "Aita"
+  ],
+  "needs": [
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:altitude_mountain",
+    "materialism:home_mountain_skyforged",
+    "materialism:heating_mountain_t4",
+    "materialism:lighting_t4",
+    "materialism:social_mountain_retinue",
+    "materialism:clothing_leather_head_t4",
+    "materialism:clothing_leather_chest_t4",
+    "materialism:clothing_leather_legs_t4",
+    "materialism:clothing_leather_feet_t4",
+    "materialism:equip_steel_mace",
+    "materialism:equip_wrought_iron_shield",
+    "materialism:drink_aged_corn_whiskey_t4",
+    "materialism:drink_mead_t4",
+    "materialism:food_maize_bread_sandwich",
+    "materialism:food_aged_rajya_metok",
+    "materialism:food_smoked_salmon_t4",
+    "materialism:food_smoked_mutton_t4",
+    "materialism:household_sugar_t4",
+    "materialism:household_volcanic_glass_bottle_t4",
+    "materialism:energy_t4",
+    "materialism:workplace_mountain_authority",
+    "materialism:ritual_rune_moot_t4",
+    "materialism:ritual_storm_feast",
+    "materialism:reading_t4",
+    "materialism:pet_dog_1_t4",
+    "materialism:aspire_mountain_leader"
+  ],
+  "jobs": [
+    "materialism:mountain_captain",
+    "materialism:mountain_merchant"
+  ],
+  "max_health": 40.0,
+  "upgrades": [
+    {
+      "next_class": "materialism:mountain_stormcaller",
+      "required_happiness": 300.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_mountain_leader",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_mountain_skyforged",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:reading_t4",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:mountain_cliffdweller",
+          "percentage": 0.35,
+          "scope": [
+            "materialism:mountain_cliffdweller",
+            "materialism:mountain_passwarden",
+            "materialism:mountain_deepdelver",
+            "materialism:mountain_peakrunner",
+            "materialism:mountain_skyforged",
+            "materialism:mountain_runespeaker",
+            "materialism:mountain_stormcaller"
+          ]
+        },
+        {
+          "social_class": "materialism:mountain_skyforged",
+          "percentage": 0.75,
+          "scope": [
+            "materialism:mountain_skyforged",
+            "materialism:mountain_stormcaller"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:mountain_passwarden",
+      "required_happiness": 60.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_mountain_skyforged",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_mountain_t4",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_maize_bread_sandwich",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:mountain_cliffdweller",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:mountain_cliffdweller",
+            "materialism:mountain_passwarden",
+            "materialism:mountain_deepdelver",
+            "materialism:mountain_peakrunner",
+            "materialism:mountain_skyforged",
+            "materialism:mountain_runespeaker",
+            "materialism:mountain_stormcaller"
+          ]
+        }
+      ]
+    }
+  ]
+}

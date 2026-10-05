@@ -1,149 +1,148 @@
 {
   "type": "cft:enclosed_building",
-  "id": "materialism:steppe_granary",
   "key_block": "tfc:ceramic/large_vessel",
   "max_users": 0,
   "requires_container": true,
   "priority": 0,
-  "floorBlocks": [
+  "floor_blocks": [
     {
-      "tagBlock": "minecraft:planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/chert",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:rock/cobbled_road/chert",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/bricks/chert",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "wallBlocks": [
+  "wall_blocks": [
     {
-      "tagBlock": "materialism:steppe_clansman_wood_logs",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:steppe_clansman_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:steppe_clansman_wood_planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:steppe_clansman_wood_planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/bricks/chert",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/chert",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/smooth/chert",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:glass_panes",
-      "minQuantity": 0,
-      "maxQuantity": 30,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:glass_panes",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:doors",
-      "minQuantity": 1,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:doors",
+      "min_quantity": 1,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "interiorBlocks": [
+  "interior_blocks": [
     {
       "block": "minecraft:air",
-      "minQuantity": 0,
-      "maxQuantity": 300,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 300,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
-      "maxQuantity": 4,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:chests",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:ceramic/large_vessel",
-      "minQuantity": 1,
-      "maxQuantity": 12,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 1,
+      "max_quantity": 12,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:barrels",
-      "minQuantity": 0,
-      "maxQuantity": 6,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:barrels",
+      "min_quantity": 0,
+      "max_quantity": 6,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "roofBlocks": [
+  "roof_blocks": [
     {
-      "tagBlock": "materialism:wood_shingles_roofs",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:wood_shingles_roofs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:thatch_roof",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:ceramic_roof",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "id": "materialism:heating_temperate_t2",
   "type": "cftfc:heat_source",
   "damage": 0.0,
   "damage_threshold": 0.0,

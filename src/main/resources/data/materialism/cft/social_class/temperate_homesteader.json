@@ -1,0 +1,90 @@
+{
+  "max_happiness": 20.0,
+  "mating_happiness_threshold": 8.0,
+  "spontaneously_spawn_population": 3,
+  "name_samples": [
+    "Aldric",
+    "Brenna",
+    "Cedric",
+    "Dunstan",
+    "Elowen",
+    "Fenwick",
+    "Gwyneth",
+    "Hartley",
+    "Isolde",
+    "Jory",
+    "Kenrick",
+    "Linnet",
+    "Merrick",
+    "Nessa",
+    "Osric",
+    "Perrin",
+    "Rowena",
+    "Sefton",
+    "Tamsin",
+    "Ulric",
+    "Wren",
+    "Alwyn",
+    "Bryony",
+    "Corwin",
+    "Edda",
+    "Fitch",
+    "Godric",
+    "Hazel",
+    "Ivo",
+    "Joss",
+    "Kestrel",
+    "Leofric",
+    "Maude",
+    "Nolan",
+    "Odette",
+    "Piers",
+    "Rosalind",
+    "Tobias",
+    "Wilmot",
+    "Yarrow"
+  ],
+  "needs": [
+    "materialism:temperature_temperate",
+    "materialism:rainfall_temperate",
+    "materialism:altitude_lowlands",
+    "materialism:home_temperate_homesteader",
+    "materialism:clothing_straw_head_t1",
+    "materialism:drink_water_t1",
+    "materialism:food_wheat_flatbread"
+  ],
+  "jobs": [
+    "materialism:temperate_forager"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:temperate_villager",
+      "required_happiness": 12.0,
+      "required_needs": [
+        {
+          "need": "materialism:temperature_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:rainfall_temperate",
+          "satisfaction_threshold": 0.85
+        },
+        {
+          "need": "materialism:home_temperate_homesteader",
+          "satisfaction_threshold": 0.4
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:temperate_homesteader",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:temperate_homesteader",
+            "materialism:temperate_villager"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": []
+}

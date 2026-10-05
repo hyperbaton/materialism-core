@@ -1,0 +1,115 @@
+{
+  "max_happiness": 1000.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Altan",
+    "Batu",
+    "Chagan",
+    "Dorji",
+    "Erdene",
+    "Gansukh",
+    "Khulan",
+    "Temuge",
+    "Arslan",
+    "Bora",
+    "Ceren",
+    "Davaa",
+    "Esen",
+    "Hulan",
+    "Ilkhan",
+    "Jochi",
+    "Kaidu",
+    "Mergen",
+    "Nomin",
+    "Oyun",
+    "Sarnai",
+    "Tolui",
+    "Uyanga",
+    "Yesui",
+    "Ariq",
+    "Bayan",
+    "Chinua",
+    "Ganzorig",
+    "Khasar",
+    "Naran",
+    "Odval",
+    "Sukh",
+    "Toghrul",
+    "Unegen",
+    "Yuldus",
+    "Alaqai",
+    "Borte",
+    "Kokochu",
+    "Sorkhan",
+    "Tumen"
+  ],
+  "needs": [
+    "materialism:temperature_steppe",
+    "materialism:rainfall_steppe",
+    "materialism:altitude_lowlands",
+    "materialism:home_steppe_great_rider",
+    "materialism:heating_steppe_t5",
+    "materialism:lighting_t5",
+    "materialism:social_steppe_court",
+    "materialism:clothing_insulated_head",
+    "materialism:clothing_insulated_chest",
+    "materialism:clothing_insulated_legs",
+    "materialism:clothing_insulated_feet",
+    "materialism:drink_aged_whiskey",
+    "materialism:drink_aged_vodka_t5",
+    "materialism:food_burrito",
+    "materialism:food_vintage_shosha",
+    "materialism:food_smoked_beef_t5",
+    "materialism:food_cookie_dough_ice_cream",
+    "materialism:food_cooked_rice_noodles",
+    "materialism:household_sugar_t5",
+    "materialism:household_topaz_jewel",
+    "materialism:energy_t5",
+    "materialism:compound_steppe_plaza",
+    "materialism:ritual_kurultai_t5",
+    "materialism:ritual_naadam_games",
+    "materialism:reading_t5",
+    "materialism:pet_horse_2"
+  ],
+  "jobs": [
+    "materialism:steppe_naadam_games_host"
+  ],
+  "max_health": 30.0,
+  "upgrades": [],
+  "downgrades": [
+    {
+      "next_class": "materialism:steppe_kinlord",
+      "required_happiness": 200.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_steppe_great_rider",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_steppe_t5",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_burrito",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:steppe_clansman",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:steppe_clansman",
+            "materialism:steppe_outrider",
+            "materialism:steppe_dustwalker",
+            "materialism:steppe_skychaser",
+            "materialism:steppe_kinlord",
+            "materialism:steppe_windborn",
+            "materialism:steppe_great_rider"
+          ]
+        }
+      ]
+    }
+  ]
+}

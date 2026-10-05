@@ -1,156 +1,155 @@
 {
   "type": "cft:enclosed_building",
-  "id": "materialism:temperate_shrine",
-  "key_block_tag": "materialism:candles",
+  "key_block": "#materialism:candles",
   "max_users": 0,
   "requires_container": true,
   "priority": 0,
-  "floorBlocks": [
+  "floor_blocks": [
     {
-      "tagBlock": "minecraft:planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/claystone",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:rock/cobbled_road/claystone",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/bricks/claystone",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "wallBlocks": [
+  "wall_blocks": [
     {
-      "tagBlock": "materialism:temperate_moonwake_wood_logs",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:temperate_moonwake_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:temperate_moonwake_wood_planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:temperate_moonwake_wood_planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/bricks/claystone",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/claystone",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/smooth/claystone",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:glass_panes",
-      "minQuantity": 0,
-      "maxQuantity": 30,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:glass_panes",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:doors",
-      "minQuantity": 1,
-      "maxQuantity": 2,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:doors",
+      "min_quantity": 1,
+      "max_quantity": 2,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "interiorBlocks": [
+  "interior_blocks": [
     {
       "block": "minecraft:air",
-      "minQuantity": 0,
-      "maxQuantity": 300,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 300,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "c:chests",
-      "minQuantity": 1,
-      "maxQuantity": 4,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#c:chests",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:candles",
-      "minQuantity": 1,
-      "maxQuantity": 4,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:candles",
+      "min_quantity": 1,
+      "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "materialism:candles",
-      "minQuantity": 2,
-      "maxQuantity": 20,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:candles",
+      "min_quantity": 2,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:flower_pots",
-      "minQuantity": 0,
-      "maxQuantity": 10,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:flower_pots",
+      "min_quantity": 0,
+      "max_quantity": 10,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
-  "roofBlocks": [
+  "roof_blocks": [
     {
-      "tagBlock": "materialism:wood_shingles_roofs",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#materialism:wood_shingles_roofs",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:thatch_roof",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
       "block": "rnr:ceramic_roof",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     },
     {
-      "tagBlock": "minecraft:planks",
-      "minQuantity": 0,
-      "maxQuantity": 500,
-      "minPercentage": 0.0,
-      "maxPercentage": 1.0
+      "block": "#minecraft:planks",
+      "min_quantity": 0,
+      "max_quantity": 500,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ]
 }

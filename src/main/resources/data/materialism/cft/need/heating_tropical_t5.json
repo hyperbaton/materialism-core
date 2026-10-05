@@ -1,5 +1,4 @@
 {
-  "id": "materialism:heating_tropical_t5",
   "type": "cftfc:heat_source",
   "damage": 0.0,
   "damage_threshold": 0.0,

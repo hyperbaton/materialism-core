@@ -1,0 +1,141 @@
+{
+  "max_happiness": 150.0,
+  "mating_happiness_threshold": 100.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Aldric",
+    "Brenna",
+    "Cedric",
+    "Dunstan",
+    "Elowen",
+    "Fenwick",
+    "Gwyneth",
+    "Hartley",
+    "Isolde",
+    "Jory",
+    "Kenrick",
+    "Linnet",
+    "Merrick",
+    "Nessa",
+    "Osric",
+    "Perrin",
+    "Rowena",
+    "Sefton",
+    "Tamsin",
+    "Ulric",
+    "Wren",
+    "Alwyn",
+    "Bryony",
+    "Corwin",
+    "Edda",
+    "Fitch",
+    "Godric",
+    "Hazel",
+    "Ivo",
+    "Joss",
+    "Kestrel",
+    "Leofric",
+    "Maude",
+    "Nolan",
+    "Odette",
+    "Piers",
+    "Rosalind",
+    "Tobias",
+    "Wilmot",
+    "Yarrow"
+  ],
+  "needs": [
+    "materialism:temperature_temperate",
+    "materialism:rainfall_temperate",
+    "materialism:altitude_lowlands",
+    "materialism:home_temperate_moonwake",
+    "materialism:heating_temperate_t3",
+    "materialism:lighting_t3",
+    "materialism:social_temperate_workforce",
+    "materialism:clothing_wool_head",
+    "materialism:clothing_wool_chest_t3",
+    "materialism:clothing_wool_legs_t3",
+    "materialism:clothing_wool_feet",
+    "materialism:drink_beer_t3",
+    "materialism:drink_water_t3",
+    "materialism:food_grain_soup",
+    "materialism:food_fresh_cheddar_t3",
+    "materialism:food_smoked_pork_t3",
+    "materialism:household_hematitic_glass_bottle_t3",
+    "materialism:household_candles",
+    "materialism:household_bandages",
+    "materialism:workplace_temperate_keeper",
+    "materialism:ritual_moonlit_vigil_attend",
+    "materialism:ritual_harvest_festival",
+    "materialism:aspire_lore"
+  ],
+  "jobs": [
+    "materialism:temperate_moonlit_vigil_officiant",
+    "materialism:temperate_healer",
+    "materialism:temperate_scribe"
+  ],
+  "upgrades": [
+    {
+      "next_class": "materialism:temperate_lawmaker",
+      "required_happiness": 100.0,
+      "required_needs": [
+        {
+          "need": "materialism:aspire_lore",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:home_temperate_moonwake",
+          "satisfaction_threshold": 0.4
+        },
+        {
+          "need": "materialism:ritual_moonlit_vigil_attend",
+          "satisfaction_threshold": 0.2
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:temperate_villager",
+          "percentage": 0.4,
+          "scope": [
+            "materialism:temperate_villager",
+            "materialism:temperate_barkcloak",
+            "materialism:temperate_burgher",
+            "materialism:temperate_moonwake",
+            "materialism:temperate_steward",
+            "materialism:temperate_lawmaker",
+            "materialism:temperate_arbiter"
+          ]
+        },
+        {
+          "social_class": "materialism:temperate_moonwake",
+          "percentage": 0.5,
+          "scope": [
+            "materialism:temperate_moonwake",
+            "materialism:temperate_lawmaker"
+          ]
+        }
+      ]
+    }
+  ],
+  "downgrades": [
+    {
+      "next_class": "materialism:temperate_villager",
+      "required_happiness": 20.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_temperate_moonwake",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:drink_water_t3",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_grain_soup",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": []
+    }
+  ]
+}

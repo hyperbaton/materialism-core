@@ -1,5 +1,4 @@
 {
-  "id": "materialism:drink_water_t3",
   "type": "cft:fluid",
   "damage": 0.5,
   "damage_threshold": 0.25,

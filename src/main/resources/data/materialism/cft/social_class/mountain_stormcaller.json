@@ -1,0 +1,120 @@
+{
+  "max_happiness": 1000.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Tenzin",
+    "Dawa",
+    "Pema",
+    "Norbu",
+    "Karma",
+    "Lhamo",
+    "Sonam",
+    "Tashi",
+    "Dolma",
+    "Nyima",
+    "Jamyang",
+    "Yangchen",
+    "Inti",
+    "Amaru",
+    "Kusi",
+    "Rumi",
+    "Sumaq",
+    "Wayra",
+    "Killa",
+    "Qori",
+    "Illari",
+    "Mayta",
+    "Huaman",
+    "Pacha",
+    "Chaska",
+    "Ayar",
+    "Seppi",
+    "Gion",
+    "Ursin",
+    "Fadri",
+    "Mena",
+    "Ladina",
+    "Corsin",
+    "Flurina",
+    "Duri",
+    "Nesa",
+    "Andri",
+    "Seraina",
+    "Reto",
+    "Aita"
+  ],
+  "needs": [
+    "materialism:temperature_mountain",
+    "materialism:rainfall_mountain",
+    "materialism:altitude_mountain",
+    "materialism:home_mountain_stormcaller",
+    "materialism:heating_mountain_t5",
+    "materialism:lighting_t5",
+    "materialism:social_mountain_court",
+    "materialism:clothing_insulated_head",
+    "materialism:clothing_insulated_chest",
+    "materialism:clothing_insulated_legs",
+    "materialism:clothing_insulated_feet",
+    "materialism:drink_aged_beer",
+    "materialism:drink_aged_corn_whiskey_t5",
+    "materialism:food_nachos",
+    "materialism:food_vintage_rajya_metok",
+    "materialism:food_smoked_salmon_t5",
+    "materialism:food_strawberry_ice_cream",
+    "materialism:food_cooked_pie",
+    "materialism:household_sugar_t5",
+    "materialism:household_diamond_jewel",
+    "materialism:energy_t5",
+    "materialism:compound_mountain_plaza",
+    "materialism:ritual_rune_moot_t5",
+    "materialism:ritual_storm_feast",
+    "materialism:reading_t5",
+    "materialism:pet_yak_1",
+    "materialism:pet_dog_1_t5"
+  ],
+  "jobs": [
+    "materialism:mountain_storm_feast_host"
+  ],
+  "max_health": 30.0,
+  "upgrades": [],
+  "downgrades": [
+    {
+      "next_class": "materialism:mountain_skyforged",
+      "required_happiness": 200.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_mountain_stormcaller",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:heating_mountain_t5",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_nachos",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_cooked_pie",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:mountain_cliffdweller",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:mountain_cliffdweller",
+            "materialism:mountain_passwarden",
+            "materialism:mountain_deepdelver",
+            "materialism:mountain_peakrunner",
+            "materialism:mountain_skyforged",
+            "materialism:mountain_runespeaker",
+            "materialism:mountain_stormcaller"
+          ]
+        }
+      ]
+    }
+  ]
+}

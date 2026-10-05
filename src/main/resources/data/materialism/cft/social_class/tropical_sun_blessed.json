@@ -1,0 +1,113 @@
+{
+  "max_happiness": 1000.0,
+  "mating_happiness_threshold": 2000.0,
+  "spontaneously_spawn_population": 0,
+  "name_samples": [
+    "Itzel",
+    "Ixchel",
+    "Nayeli",
+    "Citlali",
+    "Xochi",
+    "Yaretzi",
+    "Atzi",
+    "Ikal",
+    "Kanek",
+    "Kinich",
+    "Malinal",
+    "Nikte",
+    "Ollin",
+    "Quetzal",
+    "Sak",
+    "Yaxkin",
+    "Zyanya",
+    "Tenoch",
+    "Kai",
+    "Lani",
+    "Moana",
+    "Nalu",
+    "Keoni",
+    "Leilani",
+    "Mahina",
+    "Ikaika",
+    "Malia",
+    "Koa",
+    "Tama",
+    "Hina",
+    "Ariki",
+    "Manu",
+    "Rangi",
+    "Tavita",
+    "Aroha",
+    "Kalea",
+    "Noa",
+    "Pua",
+    "Mele",
+    "Tiare"
+  ],
+  "needs": [
+    "materialism:temperature_tropical",
+    "materialism:rainfall_tropical",
+    "materialism:altitude_lowlands",
+    "materialism:home_tropical_sun_blessed",
+    "materialism:heating_tropical_t5",
+    "materialism:lighting_t5",
+    "materialism:social_tropical_court",
+    "materialism:clothing_leather_head_t5",
+    "materialism:clothing_leather_chest_t5",
+    "materialism:clothing_leather_legs_t5",
+    "materialism:clothing_leather_feet_t5",
+    "materialism:drink_pina_colada",
+    "materialism:drink_aged_sake_t5",
+    "materialism:food_futo_maki_roll",
+    "materialism:food_vintage_gouda",
+    "materialism:food_smoked_tropical_fish_t5",
+    "materialism:food_banana_split",
+    "materialism:food_taco",
+    "materialism:household_silk_cloth_t5",
+    "materialism:household_sugar_t5",
+    "materialism:household_emerald_jewel",
+    "materialism:energy_t5",
+    "materialism:compound_tropical_plaza",
+    "materialism:ritual_calendar_rite_t5",
+    "materialism:ritual_sun_ascension",
+    "materialism:reading_t5",
+    "materialism:pet_peafowl_1_t5",
+    "materialism:pet_cat_1_t5"
+  ],
+  "jobs": [
+    "materialism:tropical_sun_ascension_host"
+  ],
+  "max_health": 30.0,
+  "upgrades": [],
+  "downgrades": [
+    {
+      "next_class": "materialism:tropical_feathered_noble",
+      "required_happiness": 200.0,
+      "required_needs": [
+        {
+          "need": "materialism:home_tropical_sun_blessed",
+          "satisfaction_threshold": 0.25
+        },
+        {
+          "need": "materialism:food_futo_maki_roll",
+          "satisfaction_threshold": 0.25
+        }
+      ],
+      "social_structure_requirements": [
+        {
+          "social_class": "materialism:tropical_palmhand",
+          "percentage": 0.2,
+          "scope": [
+            "materialism:tropical_palmhand",
+            "materialism:tropical_junglebound",
+            "materialism:tropical_bloomtender",
+            "materialism:tropical_raincaller",
+            "materialism:tropical_feathered_noble",
+            "materialism:tropical_councilor",
+            "materialism:tropical_sun_blessed"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 {
-  "id": "materialism:heating_steppe_t2",
   "type": "cftfc:heat_source",
   "damage": 0.5,
   "damage_threshold": 0.25,
