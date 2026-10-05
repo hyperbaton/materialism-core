@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_desk",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_desk",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_modern_desk"
+  ]
+}

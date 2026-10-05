@@ -44,6 +44,20 @@
     "Reto",
     "Aita"
   ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_mountain",
     "materialism:rainfall_mountain",
@@ -52,10 +66,10 @@
     "materialism:heating_mountain_t4",
     "materialism:lighting_t4",
     "materialism:social_mountain_retinue",
-    "materialism:clothing_leather_head_t4",
-    "materialism:clothing_leather_chest_t4",
-    "materialism:clothing_leather_legs_t4",
-    "materialism:clothing_leather_feet_t4",
+    "materialism:clothing_insulated_head_mountain_winter_t4",
+    "materialism:clothing_insulated_chest_mountain_winter_t4",
+    "materialism:clothing_insulated_legs_mountain_winter_t4",
+    "materialism:clothing_insulated_feet_mountain_winter_t4",
     "materialism:drink_aged_corn_whiskey_t4",
     "materialism:drink_mead_t4",
     "materialism:food_maize_bread_sandwich",
@@ -67,9 +81,20 @@
     "materialism:energy_t4",
     "materialism:workplace_mountain_lore",
     "materialism:ritual_rune_moot_t4",
-    "materialism:ritual_storm_feast",
+    "materialism:ritual_storm_feast_t4",
     "materialism:reading_t4",
     "materialism:pet_cat_1_t4",
+    "materialism:diet_t4",
+    "materialism:clothing_leather_head_mountain_summer_t4",
+    "materialism:clothing_leather_chest_mountain_summer_t4",
+    "materialism:clothing_leather_legs_mountain_summer_t4",
+    "materialism:clothing_leather_feet_mountain_summer_t4",
+    "materialism:sleep_t4",
+    "materialism:socialize_mountain_court_t4",
+    "materialism:visit_mountain_garden",
+    "materialism:quiet_study",
+    "materialism:homeland_mountain_t4",
+    "materialism:stone_born_t4",
     "materialism:aspire_mountain_leader"
   ],
   "jobs": [
@@ -134,7 +159,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_maize_bread_sandwich",
+          "need": "materialism:diet_t4",
           "satisfaction_threshold": 0.25
         }
       ],

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_cupboard_counter"
+  ]
+}

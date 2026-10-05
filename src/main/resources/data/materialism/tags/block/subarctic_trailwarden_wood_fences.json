@@ -13,29 +13,13 @@
       "id": "tfc:wood/planks/chestnut_log_fence",
       "required": false
     },
-    {
-      "id": "mcw_tfc_aio:fences/douglas_fir_fences/douglas_fir_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/chestnut_fences/chestnut_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/douglas_fir_fences/douglas_fir_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/chestnut_fences/chestnut_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/douglas_fir_fences/douglas_fir_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/chestnut_fences/chestnut_stockade_fence",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/chestnut_fences/chestnut_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/chestnut_fences/chestnut_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/chestnut_fences/chestnut_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/douglas_fir_fences/douglas_fir_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/chestnut_fences/chestnut_wired_fence"
   ]
 }

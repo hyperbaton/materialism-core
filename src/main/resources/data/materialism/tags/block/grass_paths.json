@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:grass_path/alfisol",
+    "tfc:grass_path/andisol",
+    "tfc:grass_path/aridisol",
+    "tfc:grass_path/entisol",
+    "tfc:grass_path/fluvisol",
+    "tfc:grass_path/mollisol",
+    "tfc:grass_path/oxisol",
+    "tfc:grass_path/podzol"
+  ]
+}

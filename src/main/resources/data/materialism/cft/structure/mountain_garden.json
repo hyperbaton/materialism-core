@@ -1,0 +1,32 @@
+{
+  "type": "cft:compound",
+  "key_block": "#minecraft:flower_pots",
+  "max_users": 0,
+  "requires_container": false,
+  "priority": 0,
+  "surface_blocks": [
+    {
+      "block": "#materialism:grass_paths",
+      "min_quantity": 0,
+      "max_quantity": 144,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "rnr:rock/gravel_road/gneiss",
+      "min_quantity": 0,
+      "max_quantity": 144,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "rnr:rock/macadam_road/gneiss",
+      "min_quantity": 0,
+      "max_quantity": 144,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    }
+  ],
+  "requires_sky_access": true,
+  "required_structures": []
+}

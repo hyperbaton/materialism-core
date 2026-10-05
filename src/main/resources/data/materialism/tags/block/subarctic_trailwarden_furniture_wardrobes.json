@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_lower_triple_drawer"
   ]
 }

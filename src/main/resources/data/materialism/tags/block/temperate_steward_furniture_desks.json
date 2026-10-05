@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_modern_desk"
+  ]
+}

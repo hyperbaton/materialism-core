@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_lower_triple_drawer"
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "type": "cft:goods",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.236,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "item": {
+    "type": "tfc:and",
+    "children": [
+      {
+        "item": "firmalife:food/sugar_cookie"
+      },
+      {
+        "type": "tfc:not_rotten"
+      }
+    ]
+  },
+  "quantity": 1,
+  "hoarding": 4,
+  "active_when": [
+    {
+      "type": "cft:not",
+      "condition": {
+        "type": "cftfc:season",
+        "seasons": "summer"
+      }
+    }
+  ]
+}

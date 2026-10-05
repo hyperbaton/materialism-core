@@ -1,23 +1,23 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/kapok",
-    "tfc:wood/bookshelf/mangrove"
+    "tfc:wood/bookshelf/mangrove",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_lower_bookshelf_drawer"
   ]
 }

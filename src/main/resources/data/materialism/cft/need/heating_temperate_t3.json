@@ -2,10 +2,16 @@
   "type": "cftfc:heat_source",
   "damage": 0.0,
   "damage_threshold": 0.0,
-  "provided_happiness": 0.1364,
+  "provided_happiness": 0.1132,
   "satisfaction_threshold": 0.5,
   "frequency": 0.25,
   "search_radius": 8,
   "min_source_temperature": 200,
-  "temperature_threshold": 10
+  "active_when": [
+    {
+      "type": "cftfc:temperature",
+      "max": 5,
+      "mode": "instant"
+    }
+  ]
 }

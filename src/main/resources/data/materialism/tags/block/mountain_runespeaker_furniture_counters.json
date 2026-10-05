@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_cupboard_counter"
+  ]
+}

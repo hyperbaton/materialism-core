@@ -1,32 +1,32 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/sequoia_furniture/sequoia_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/sequoia_furniture/stripped_sequoia_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/sequoia",
     "tfc:wood/bookshelf/rosewood",
-    "afc:wood/bookshelf/mahogany"
+    "afc:wood/bookshelf/mahogany",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_lower_bookshelf_drawer"
   ]
 }

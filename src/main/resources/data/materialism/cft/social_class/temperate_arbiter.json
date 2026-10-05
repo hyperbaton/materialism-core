@@ -44,6 +44,20 @@
     "Wilmot",
     "Yarrow"
   ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_temperate",
     "materialism:rainfall_temperate",
@@ -69,10 +83,17 @@
     "materialism:energy_t5",
     "materialism:compound_temperate_plaza",
     "materialism:ritual_assizes_t5",
-    "materialism:ritual_harvest_festival",
+    "materialism:ritual_harvest_festival_t5",
     "materialism:reading_t5",
     "materialism:pet_horse_1_t5",
-    "materialism:pet_dog_1_t5"
+    "materialism:pet_dog_1_t5",
+    "materialism:diet_t5",
+    "materialism:food_chocolate_chip_cookie_winter",
+    "materialism:sleep_t5",
+    "materialism:socialize_temperate_court_t5",
+    "materialism:visit_temperate_garden_leisure",
+    "materialism:hear_bells_t5",
+    "materialism:homeland_temperate_t5"
   ],
   "jobs": [
     "materialism:temperate_harvest_festival_host"
@@ -89,7 +110,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_cooked_lasagna",
+          "need": "materialism:diet_t5",
           "satisfaction_threshold": 0.25
         }
       ],

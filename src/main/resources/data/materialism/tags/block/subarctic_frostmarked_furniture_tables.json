@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_end_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_table",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_table",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_table",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_table",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_end_table",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_end_table",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_end_table",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_end_table"
   ]
 }

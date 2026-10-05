@@ -108,6 +108,34 @@
       "max_percentage": 1.0
     },
     {
+      "block": "tfc:torch",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "tfc:wall_torch",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#tfc:lamps",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:candles",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
       "block": "#materialism:tropical_raincaller_furniture_tables",
       "min_quantity": 1,
       "max_quantity": 2,
@@ -122,7 +150,7 @@
       "max_percentage": 1.0
     },
     {
-      "block": "#minecraft:beds",
+      "block": "#materialism:wool_beds",
       "min_quantity": 0,
       "max_quantity": 2,
       "min_percentage": 0.0,
@@ -132,13 +160,6 @@
       "block": "tfc:firepit",
       "min_quantity": 0,
       "max_quantity": 1,
-      "min_percentage": 0.0,
-      "max_percentage": 1.0
-    },
-    {
-      "block": "#materialism:candles",
-      "min_quantity": 0,
-      "max_quantity": 6,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }
@@ -151,5 +172,9 @@
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }
-  ]
+  ],
+  "lighting": {
+    "min_light": 7,
+    "min_percentage": 0.6
+  }
 }

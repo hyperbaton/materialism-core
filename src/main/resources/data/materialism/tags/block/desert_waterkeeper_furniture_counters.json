@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_cupboard_counter"
+  ]
+}

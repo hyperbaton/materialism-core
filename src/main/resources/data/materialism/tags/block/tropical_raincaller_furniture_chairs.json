@@ -1,53 +1,17 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/kapok_furniture/kapok_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/tualang_furniture/tualang_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/tualang_furniture/stripped_tualang_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/kapok_furniture/stripped_kapok_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/tualang_furniture/stripped_tualang_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_chair",
+    "mcw_tfc_aio_unofficial:furniture/tualang_furniture/tualang_chair",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_chair",
+    "mcw_tfc_aio_unofficial:furniture/tualang_furniture/stripped_tualang_chair",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/kapok_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/tualang_furniture/tualang_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/kapok_furniture/stripped_kapok_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/tualang_furniture/stripped_tualang_striped_chair"
   ]
 }

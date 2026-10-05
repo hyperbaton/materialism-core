@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/ironwood_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ironwood_furniture/stripped_ironwood_end_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_end_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/ironwood_end_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_end_table",
+    "mcw_tfc_aio_unofficial:furniture/ironwood_furniture/stripped_ironwood_end_table"
   ]
 }

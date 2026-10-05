@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_coffee_table"
+  ]
+}

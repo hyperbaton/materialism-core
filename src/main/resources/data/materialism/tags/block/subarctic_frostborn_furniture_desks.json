@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_desk",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_desk",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_modern_desk"
+  ]
+}

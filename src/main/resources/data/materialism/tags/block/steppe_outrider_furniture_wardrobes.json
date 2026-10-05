@@ -1,125 +1,53 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_lower_triple_drawer"
   ]
 }

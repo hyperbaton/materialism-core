@@ -1,53 +1,17 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_striped_chair"
   ]
 }

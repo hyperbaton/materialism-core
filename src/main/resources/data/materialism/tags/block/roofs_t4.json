@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "rnr:ceramic_roof",
+    "rnr:ceramic_roof_stairs",
+    "rnr:ceramic_roof_slab",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_roof",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_steep_roof",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_attic_roof",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_top_roof",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_upper_lower_roof",
+    "mcw_tfc_aio_unofficial:roofs/brick_roofs/bricks_upper_steep_roof"
+  ]
+}

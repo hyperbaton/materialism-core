@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/teak_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/teak_furniture/stripped_teak_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_glass_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_glass_table"
   ]
 }

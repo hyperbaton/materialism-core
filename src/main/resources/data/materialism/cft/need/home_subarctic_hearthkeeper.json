@@ -2,7 +2,7 @@
   "type": "cft:home",
   "damage": 0.5,
   "damage_threshold": 0.25,
-  "provided_happiness": 0.8182,
+  "provided_happiness": 0.6792,
   "satisfaction_threshold": 0.5,
   "frequency": 1.0,
   "required_structure": "materialism:subarctic_hearthkeeper_house"

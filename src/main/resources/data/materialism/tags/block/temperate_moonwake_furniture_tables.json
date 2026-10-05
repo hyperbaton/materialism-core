@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/maple_furniture/maple_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/maple_furniture/stripped_maple_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/maple_furniture/maple_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/maple_furniture/stripped_maple_end_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_end_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_end_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_end_table",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_end_table"
   ]
 }

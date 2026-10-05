@@ -2,7 +2,7 @@
   "type": "cft:goods",
   "damage": 0.0,
   "damage_threshold": 0.0,
-  "provided_happiness": 0.5455,
+  "provided_happiness": 0.4528,
   "satisfaction_threshold": 0.5,
   "frequency": 2.0,
   "item": {

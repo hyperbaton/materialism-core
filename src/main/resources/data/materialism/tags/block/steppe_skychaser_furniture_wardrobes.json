@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/cypress_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/cypress_furniture/stripped_cypress_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_lower_triple_drawer"
   ]
 }

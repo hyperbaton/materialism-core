@@ -10,29 +10,13 @@
       "id": "tfc:wood/planks/blackwood_log_fence",
       "required": false
     },
-    {
-      "id": "mcw_tfc_aio:fences/teak_fences/teak_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/blackwood_fences/blackwood_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/teak_fences/teak_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/blackwood_fences/blackwood_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/teak_fences/teak_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/blackwood_fences/blackwood_stockade_fence",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/blackwood_fences/blackwood_wired_fence"
   ]
 }

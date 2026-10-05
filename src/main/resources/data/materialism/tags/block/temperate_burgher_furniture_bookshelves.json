@@ -1,32 +1,32 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/ash_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/ash_furniture/stripped_ash_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/ash",
     "tfc:wood/bookshelf/douglas_fir",
-    "afc:wood/bookshelf/eucalyptus"
+    "afc:wood/bookshelf/eucalyptus",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/ash_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/ash_furniture/stripped_ash_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_lower_bookshelf_drawer"
   ]
 }

@@ -14,6 +14,30 @@
           "quantity": 32
         }
       ]
+    },
+    {
+      "origin_structure": "materialism:subarctic_granary",
+      "destination_structure": "materialism:subarctic_mill",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/rye"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:subarctic_mill",
+      "destination_structure": "materialism:subarctic_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/rye_flour"
+          },
+          "quantity": 16
+        }
+      ]
     }
   ]
 }

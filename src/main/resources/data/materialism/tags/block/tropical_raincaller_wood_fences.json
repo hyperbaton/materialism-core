@@ -13,41 +13,17 @@
     },
     "afc:wood/planks/hevea_log_fence",
     "afc:wood/planks/tualang_log_fence",
-    {
-      "id": "mcw_tfc_aio:fences/kapok_fences/kapok_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/hevea_fences/hevea_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/tualang_fences/tualang_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/kapok_fences/kapok_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/hevea_fences/hevea_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/tualang_fences/tualang_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/kapok_fences/kapok_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/hevea_fences/hevea_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/tualang_fences/tualang_stockade_fence",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/tualang_fences/tualang_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/tualang_fences/tualang_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/tualang_fences/tualang_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/kapok_fences/kapok_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/hevea_fences/hevea_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/tualang_fences/tualang_wired_fence"
   ]
 }

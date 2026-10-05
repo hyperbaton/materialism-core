@@ -1,13 +1,7 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_glass_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_glass_table"
   ]
 }

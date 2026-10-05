@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/mangrove_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mangrove_furniture/stripped_mangrove_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_lower_triple_drawer"
   ]
 }

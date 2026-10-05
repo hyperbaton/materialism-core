@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_glass_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_glass_table"
   ]
 }

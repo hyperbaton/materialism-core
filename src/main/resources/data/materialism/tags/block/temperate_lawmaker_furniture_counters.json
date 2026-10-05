@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_cupboard_counter"
+  ]
+}

@@ -44,6 +44,20 @@
     "Bahram",
     "Azadeh"
   ],
+  "schedule": [
+    {
+      "at": 7,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 16,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 22,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_desert",
     "materialism:rainfall_desert",
@@ -66,7 +80,14 @@
     "materialism:household_bandages",
     "materialism:workplace_desert_keeper",
     "materialism:ritual_water_blessing_attend",
-    "materialism:ritual_solstice_court",
+    "materialism:ritual_solstice_court_t3",
+    "materialism:diet_t3",
+    "materialism:sleep_t3",
+    "materialism:socialize_desert_guild",
+    "materialism:visit_desert_tavern_t3",
+    "materialism:hear_music_t3",
+    "materialism:homeland_desert_t3",
+    "materialism:rain_blessing_t3",
     "materialism:aspire_lore"
   ],
   "jobs": [
@@ -131,7 +152,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_grain_salad",
+          "need": "materialism:diet_t3",
           "satisfaction_threshold": 0.25
         }
       ],

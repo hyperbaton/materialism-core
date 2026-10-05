@@ -1,0 +1,22 @@
+{
+  "type": "cft:altitude",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 2.25,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "bonus": true,
+  "min_altitude": -64,
+  "max_altitude": 512,
+  "active_when": [
+    {
+      "type": "cftfc:climate",
+      "climates": [
+        "af",
+        "am",
+        "as",
+        "aw"
+      ]
+    }
+  ]
+}

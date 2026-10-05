@@ -44,6 +44,20 @@
     "Bahram",
     "Azadeh"
   ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_desert",
     "materialism:rainfall_desert",
@@ -51,10 +65,15 @@
     "materialism:home_desert_wayfarer",
     "materialism:clothing_straw_head_t1",
     "materialism:drink_water_t1",
-    "materialism:food_oat_flatbread"
+    "materialism:food_oat_flatbread",
+    "materialism:diet_t1",
+    "materialism:sleep_t1",
+    "materialism:socialize_desert_folk_t1",
+    "materialism:rain_blessing_t1"
   ],
   "jobs": [
     "materialism:desert_forager",
+    "materialism:desert_firekeeper",
     "materialism:desert_shore_fisher"
   ],
   "upgrades": [

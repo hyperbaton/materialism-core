@@ -44,6 +44,20 @@
     "Mele",
     "Tiare"
   ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_tropical",
     "materialism:rainfall_tropical",
@@ -68,9 +82,15 @@
     "materialism:energy_t4",
     "materialism:workplace_tropical_lore",
     "materialism:ritual_calendar_rite_t4",
-    "materialism:ritual_sun_ascension",
+    "materialism:ritual_sun_ascension_t4",
     "materialism:reading_t4",
     "materialism:pet_peafowl_1_t4",
+    "materialism:diet_t4",
+    "materialism:sleep_t4",
+    "materialism:socialize_tropical_court_t4",
+    "materialism:visit_tropical_garden",
+    "materialism:quiet_study",
+    "materialism:homeland_tropical_t4",
     "materialism:aspire_tropical_leader"
   ],
   "jobs": [
@@ -131,7 +151,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_maki_roll",
+          "need": "materialism:diet_t4",
           "satisfaction_threshold": 0.25
         }
       ],

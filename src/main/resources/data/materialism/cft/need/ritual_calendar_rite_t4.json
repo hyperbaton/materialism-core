@@ -2,7 +2,7 @@
   "type": "cft:ritual",
   "damage": 0.0,
   "damage_threshold": 0.0,
-  "provided_happiness": 4.3831,
+  "provided_happiness": 3.6685,
   "satisfaction_threshold": 0.2,
   "frequency": 3.75,
   "ritual_id": "materialism:calendar_rite",

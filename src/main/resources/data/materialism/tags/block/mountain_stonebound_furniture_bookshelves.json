@@ -1,23 +1,23 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/pine_furniture/pine_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/spruce_furniture/spruce_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/pine_furniture/stripped_pine_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/spruce_furniture/stripped_spruce_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/pine",
-    "tfc:wood/bookshelf/spruce"
+    "tfc:wood/bookshelf/spruce",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/pine_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/spruce_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/pine_furniture/stripped_pine_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/spruce_furniture/stripped_spruce_lower_bookshelf_drawer"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_desk",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_desk",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/cypress_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/cypress_furniture/stripped_cypress_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_modern_desk"
+  ]
+}

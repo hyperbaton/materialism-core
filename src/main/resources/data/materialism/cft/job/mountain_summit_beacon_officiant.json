@@ -31,5 +31,23 @@
       "min": 4
     }
   ],
-  "max_attendees": 30
+  "max_attendees": 30,
+  "schedule": [
+    {
+      "at": 0,
+      "activity": "minecraft:rest"
+    },
+    {
+      "at": 9,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:idle"
+    }
+  ]
 }

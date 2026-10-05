@@ -1,29 +1,11 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/baobab_furniture/stripped_baobab_glass_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_glass_table"
   ]
 }

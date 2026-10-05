@@ -14,6 +14,30 @@
           "quantity": 32
         }
       ]
+    },
+    {
+      "origin_structure": "materialism:mountain_granary",
+      "destination_structure": "materialism:mountain_mill",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/maize"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:mountain_mill",
+      "destination_structure": "materialism:mountain_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/maize_flour"
+          },
+          "quantity": 16
+        }
+      ]
     }
   ]
 }

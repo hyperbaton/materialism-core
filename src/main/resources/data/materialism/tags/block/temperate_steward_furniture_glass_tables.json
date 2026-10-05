@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_glass_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_glass_table"
   ]
 }

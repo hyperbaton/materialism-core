@@ -44,6 +44,20 @@
     "Wilmot",
     "Yarrow"
   ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_temperate",
     "materialism:rainfall_temperate",
@@ -69,9 +83,15 @@
     "materialism:energy_t4",
     "materialism:workplace_temperate_authority",
     "materialism:ritual_assizes_t4",
-    "materialism:ritual_harvest_festival",
+    "materialism:ritual_harvest_festival_t4",
     "materialism:reading_t4",
     "materialism:pet_horse_1_t4",
+    "materialism:diet_t4",
+    "materialism:sleep_t4",
+    "materialism:socialize_temperate_court_t4",
+    "materialism:visit_temperate_garden",
+    "materialism:hear_bells_t4",
+    "materialism:homeland_temperate_t4",
     "materialism:aspire_temperate_leader"
   ],
   "jobs": [
@@ -132,7 +152,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_cooked_pizza",
+          "need": "materialism:diet_t4",
           "satisfaction_threshold": 0.25
         }
       ],

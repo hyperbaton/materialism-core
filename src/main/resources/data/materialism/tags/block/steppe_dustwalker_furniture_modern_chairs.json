@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_modern_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_modern_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_modern_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_modern_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_modern_chair"
   ]
 }

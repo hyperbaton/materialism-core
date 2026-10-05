@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_modern_desk"
+  ]
+}

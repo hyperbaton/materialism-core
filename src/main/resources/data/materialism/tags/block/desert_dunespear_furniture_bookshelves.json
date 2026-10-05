@@ -1,23 +1,23 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/acacia",
-    "tfc:wood/bookshelf/palm"
+    "tfc:wood/bookshelf/palm",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_lower_bookshelf_drawer"
   ]
 }

@@ -44,6 +44,20 @@
     "Ristin",
     "Sunna"
   ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_subarctic",
     "materialism:rainfall_subarctic",
@@ -61,12 +75,23 @@
     "materialism:food_brined_carrot",
     "materialism:household_jug",
     "materialism:ritual_hearthfire_vigil",
+    "materialism:diet_t2",
+    "materialism:food_fresh_carrot",
+    "materialism:sleep_t2",
+    "materialism:socialize_subarctic_folk_t2",
+    "materialism:visit_subarctic_tavern_t2",
+    "materialism:hear_music_t2",
+    "materialism:homeland_subarctic_t2",
     "materialism:aspire_subarctic_defender",
     "materialism:aspire_subarctic_maker",
     "materialism:aspire_subarctic_keeper"
   ],
   "jobs": [
-    "materialism:subarctic_rye_farmer",
+    "materialism:subarctic_farmer",
+    "materialism:subarctic_miller",
+    "materialism:subarctic_preserver",
+    "materialism:subarctic_composter",
+    "materialism:subarctic_tavern_keeper",
     "materialism:subarctic_grain_hauler",
     "materialism:subarctic_builder",
     "materialism:subarctic_rancher"
@@ -206,7 +231,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_rye_bread",
+          "need": "materialism:diet_t2",
           "satisfaction_threshold": 0.25
         }
       ],

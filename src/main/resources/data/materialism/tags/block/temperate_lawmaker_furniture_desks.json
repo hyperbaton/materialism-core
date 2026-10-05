@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_desk",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_desk",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/teak_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/teak_furniture/stripped_teak_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_modern_desk"
+  ]
+}

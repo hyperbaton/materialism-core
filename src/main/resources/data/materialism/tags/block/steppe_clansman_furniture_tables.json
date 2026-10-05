@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_end_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_table",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_table",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_end_table",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_end_table"
   ]
 }

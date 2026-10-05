@@ -44,6 +44,20 @@
     "Sorkhan",
     "Tumen"
   ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_steppe",
     "materialism:rainfall_steppe",
@@ -52,10 +66,10 @@
     "materialism:heating_steppe_t4",
     "materialism:lighting_t4",
     "materialism:social_steppe_retinue",
-    "materialism:clothing_leather_head_t4",
-    "materialism:clothing_leather_chest_t4",
-    "materialism:clothing_leather_legs_t4",
-    "materialism:clothing_leather_feet_t4",
+    "materialism:clothing_insulated_head_steppe_winter_t4",
+    "materialism:clothing_insulated_chest_steppe_winter_t4",
+    "materialism:clothing_insulated_legs_steppe_winter_t4",
+    "materialism:clothing_insulated_feet_steppe_winter_t4",
     "materialism:drink_aged_vodka_t4",
     "materialism:drink_vodka_t4",
     "materialism:food_barley_bread_sandwich",
@@ -67,9 +81,19 @@
     "materialism:energy_t4",
     "materialism:workplace_steppe_lore",
     "materialism:ritual_kurultai_t4",
-    "materialism:ritual_naadam_games",
+    "materialism:ritual_naadam_games_t4",
     "materialism:reading_t4",
     "materialism:pet_dog_1_t4",
+    "materialism:diet_t4",
+    "materialism:clothing_leather_head_steppe_summer_t4",
+    "materialism:clothing_leather_chest_steppe_summer_t4",
+    "materialism:clothing_leather_legs_steppe_summer_t4",
+    "materialism:clothing_leather_feet_steppe_summer_t4",
+    "materialism:sleep_t4",
+    "materialism:socialize_steppe_court_t4",
+    "materialism:visit_steppe_garden",
+    "materialism:quiet_study",
+    "materialism:homeland_steppe_t4",
     "materialism:aspire_steppe_leader"
   ],
   "jobs": [
@@ -134,7 +158,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_barley_bread_sandwich",
+          "need": "materialism:diet_t4",
           "satisfaction_threshold": 0.25
         }
       ],

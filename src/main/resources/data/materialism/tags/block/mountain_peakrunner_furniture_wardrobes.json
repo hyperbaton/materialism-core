@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_lower_triple_drawer"
   ]
 }

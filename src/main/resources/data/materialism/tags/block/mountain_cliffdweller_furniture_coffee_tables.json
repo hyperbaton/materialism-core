@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_coffee_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_coffee_table"
+  ]
+}

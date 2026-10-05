@@ -13,41 +13,17 @@
     },
     "afc:wood/planks/mahogany_log_fence",
     "afc:wood/planks/ipe_log_fence",
-    {
-      "id": "mcw_tfc_aio:fences/rosewood_fences/rosewood_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/mahogany_fences/mahogany_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/ipe_fences/ipe_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/rosewood_fences/rosewood_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/mahogany_fences/mahogany_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/ipe_fences/ipe_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/rosewood_fences/rosewood_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/mahogany_fences/mahogany_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/ipe_fences/ipe_stockade_fence",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/rosewood_fences/rosewood_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/ipe_fences/ipe_wired_fence"
   ]
 }

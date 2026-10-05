@@ -44,6 +44,20 @@
     "Ristin",
     "Sunna"
   ],
+  "schedule": [
+    {
+      "at": 7,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 16,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 22,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_subarctic",
     "materialism:rainfall_subarctic",
@@ -67,11 +81,18 @@
     "materialism:household_candles",
     "materialism:workplace_subarctic_defender",
     "materialism:ritual_hearthfire_vigil_attend",
-    "materialism:ritual_midwinter_feast",
+    "materialism:ritual_midwinter_feast_t3",
+    "materialism:diet_t3",
+    "materialism:sleep_t3",
+    "materialism:socialize_subarctic_guild",
+    "materialism:visit_subarctic_tavern_t3",
+    "materialism:hear_music_t3",
+    "materialism:homeland_subarctic_t3",
     "materialism:aspire_authority"
   ],
   "jobs": [
-    "materialism:subarctic_guard"
+    "materialism:subarctic_day_guard",
+    "materialism:subarctic_night_guard"
   ],
   "max_health": 30.0,
   "upgrades": [
@@ -135,7 +156,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_protein_soup",
+          "need": "materialism:diet_t3",
           "satisfaction_threshold": 0.25
         }
       ],

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_cupboard_counter"
+  ]
+}

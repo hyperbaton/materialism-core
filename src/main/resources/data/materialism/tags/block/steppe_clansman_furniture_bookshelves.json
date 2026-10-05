@@ -1,14 +1,14 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_bookshelf",
-      "required": false
-    },
-    "tfc:wood/bookshelf/acacia"
+    "tfc:wood/bookshelf/acacia",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_lower_bookshelf_drawer"
   ]
 }

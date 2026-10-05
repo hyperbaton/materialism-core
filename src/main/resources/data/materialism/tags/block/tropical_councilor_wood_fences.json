@@ -7,29 +7,13 @@
     "afc:wood/log_fence/mahogany",
     "afc:wood/planks/teak_log_fence",
     "afc:wood/planks/mahogany_log_fence",
-    {
-      "id": "mcw_tfc_aio:fences/teak_fences/teak_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/mahogany_fences/mahogany_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/teak_fences/teak_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/mahogany_fences/mahogany_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/teak_fences/teak_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/mahogany_fences/mahogany_stockade_fence",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/teak_fences/teak_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/mahogany_fences/mahogany_wired_fence"
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "type": "cft:socialize",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.3261,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "classes": [
+    "materialism:desert_trade_lord",
+    "materialism:desert_dune_elder",
+    "materialism:desert_sunward"
+  ],
+  "radius": 48,
+  "duration": 300
+}

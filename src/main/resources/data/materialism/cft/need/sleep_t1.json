@@ -1,0 +1,8 @@
+{
+  "type": "cft:sleep",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.2222,
+  "satisfaction_threshold": 0.3,
+  "frequency": 1.0
+}

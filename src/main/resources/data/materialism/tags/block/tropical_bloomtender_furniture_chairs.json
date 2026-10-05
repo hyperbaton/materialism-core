@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_chair",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_chair",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_striped_chair"
   ]
 }

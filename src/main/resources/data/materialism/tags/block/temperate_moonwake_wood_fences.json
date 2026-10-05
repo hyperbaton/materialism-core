@@ -13,29 +13,13 @@
       "id": "tfc:wood/planks/maple_log_fence",
       "required": false
     },
-    {
-      "id": "mcw_tfc_aio:fences/willow_fences/willow_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/maple_fences/maple_horse_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/willow_fences/willow_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/maple_fences/maple_picket_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/willow_fences/willow_stockade_fence",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:fences/maple_fences/maple_stockade_fence",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_horse_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_picket_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_stockade_fence",
+    "mcw_tfc_aio_unofficial:fences/willow_fences/willow_wired_fence",
+    "mcw_tfc_aio_unofficial:fences/maple_fences/maple_wired_fence"
   ]
 }

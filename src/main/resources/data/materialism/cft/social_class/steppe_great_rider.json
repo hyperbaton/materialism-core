@@ -44,6 +44,20 @@
     "Sorkhan",
     "Tumen"
   ],
+  "schedule": [
+    {
+      "at": 9,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 15,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 23,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_steppe",
     "materialism:rainfall_steppe",
@@ -52,10 +66,10 @@
     "materialism:heating_steppe_t5",
     "materialism:lighting_t5",
     "materialism:social_steppe_court",
-    "materialism:clothing_insulated_head",
-    "materialism:clothing_insulated_chest",
-    "materialism:clothing_insulated_legs",
-    "materialism:clothing_insulated_feet",
+    "materialism:clothing_insulated_head_steppe_winter_t5",
+    "materialism:clothing_insulated_chest_steppe_winter_t5",
+    "materialism:clothing_insulated_legs_steppe_winter_t5",
+    "materialism:clothing_insulated_feet_steppe_winter_t5",
     "materialism:drink_aged_whiskey",
     "materialism:drink_aged_vodka_t5",
     "materialism:food_burrito",
@@ -68,9 +82,20 @@
     "materialism:energy_t5",
     "materialism:compound_steppe_plaza",
     "materialism:ritual_kurultai_t5",
-    "materialism:ritual_naadam_games",
+    "materialism:ritual_naadam_games_t5",
     "materialism:reading_t5",
-    "materialism:pet_horse_2"
+    "materialism:pet_horse_2",
+    "materialism:diet_t5",
+    "materialism:food_sugar_cookie_winter",
+    "materialism:clothing_leather_head_steppe_summer_t5",
+    "materialism:clothing_leather_chest_steppe_summer_t5",
+    "materialism:clothing_leather_legs_steppe_summer_t5",
+    "materialism:clothing_leather_feet_steppe_summer_t5",
+    "materialism:sleep_t5",
+    "materialism:socialize_steppe_court_t5",
+    "materialism:visit_steppe_garden_leisure",
+    "materialism:hear_bells_t5",
+    "materialism:homeland_steppe_t5"
   ],
   "jobs": [
     "materialism:steppe_naadam_games_host"
@@ -91,7 +116,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_burrito",
+          "need": "materialism:diet_t5",
           "satisfaction_threshold": 0.25
         }
       ],

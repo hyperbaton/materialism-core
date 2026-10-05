@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_chair",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_chair",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_striped_chair"
   ]
 }

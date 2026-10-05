@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_desk",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_desk",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_desk",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_desk",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_modern_desk"
+  ]
+}

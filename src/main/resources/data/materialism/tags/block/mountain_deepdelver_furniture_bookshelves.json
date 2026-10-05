@@ -1,23 +1,23 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/oak_furniture/oak_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/oak_furniture/stripped_oak_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/douglas_fir",
-    "tfc:wood/bookshelf/oak"
+    "tfc:wood/bookshelf/oak",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_lower_bookshelf_drawer"
   ]
 }

@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/sycamore_furniture/sycamore_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/sycamore_furniture/stripped_sycamore_end_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_end_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_table",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_table",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_end_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_end_table",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_end_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_end_table"
   ]
 }

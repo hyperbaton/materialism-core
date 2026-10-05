@@ -1,0 +1,30 @@
+{
+  "type": "cftfc:farmer",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:farm",
+  "crops": [
+    {
+      "seed": "tfc:seeds/wheat",
+      "weight": 1.5
+    },
+    {
+      "seed": "tfc:seeds/cabbage",
+      "weight": 1.0
+    },
+    {
+      "seed": "tfc:seeds/onion",
+      "weight": 0.5
+    },
+    {
+      "seed": "tfc:seeds/soybean",
+      "weight": 0.4
+    },
+    {
+      "seed": "tfc:seeds/alfalfa",
+      "weight": 0.2
+    }
+  ],
+  "soil_weight": 0.5,
+  "lookahead": 2,
+  "carry": 32
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/maple_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/maple_furniture/stripped_maple_cupboard_counter"
+  ]
+}

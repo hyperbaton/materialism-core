@@ -2,7 +2,7 @@
   "type": "cft:structure",
   "damage": 0.0,
   "damage_threshold": 0.0,
-  "provided_happiness": 2.4658,
+  "provided_happiness": 2.236,
   "satisfaction_threshold": 0.5,
   "frequency": 1.0,
   "required_structure": "materialism:steppe_plaza",

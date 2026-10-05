@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_desk",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_desk",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/ipe_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/ipe_furniture/stripped_ipe_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_modern_desk"
+  ]
+}

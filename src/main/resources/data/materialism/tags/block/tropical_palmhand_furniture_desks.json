@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_desk",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_desk",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_desk",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_desk",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_modern_desk"
+  ]
+}

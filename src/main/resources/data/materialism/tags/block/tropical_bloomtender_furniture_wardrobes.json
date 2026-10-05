@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/hevea_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/hevea_furniture/stripped_hevea_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/hevea_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/hevea_furniture/stripped_hevea_lower_triple_drawer"
   ]
 }

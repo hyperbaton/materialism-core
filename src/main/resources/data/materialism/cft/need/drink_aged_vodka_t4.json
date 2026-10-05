@@ -2,7 +2,7 @@
   "type": "cft:fluid",
   "damage": 0.0,
   "damage_threshold": 0.0,
-  "provided_happiness": 1.1688,
+  "provided_happiness": 0.9783,
   "satisfaction_threshold": 0.5,
   "frequency": 1.0,
   "fluid_stack": {

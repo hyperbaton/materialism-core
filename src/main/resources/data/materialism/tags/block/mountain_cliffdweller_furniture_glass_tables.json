@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/birch_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/aspen_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/birch_furniture/stripped_birch_glass_table",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/aspen_furniture/stripped_aspen_glass_table",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/aspen_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_glass_table",
+    "mcw_tfc_aio_unofficial:furniture/aspen_furniture/stripped_aspen_glass_table"
   ]
 }

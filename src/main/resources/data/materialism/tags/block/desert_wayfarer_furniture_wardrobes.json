@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/palm_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/palm_furniture/stripped_palm_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_lower_triple_drawer"
   ]
 }

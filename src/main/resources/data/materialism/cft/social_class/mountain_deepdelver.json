@@ -44,6 +44,20 @@
     "Reto",
     "Aita"
   ],
+  "schedule": [
+    {
+      "at": 7,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 16,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 22,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_mountain",
     "materialism:rainfall_mountain",
@@ -66,13 +80,20 @@
     "materialism:household_candles",
     "materialism:workplace_mountain_maker",
     "materialism:ritual_summit_beacon_attend",
-    "materialism:ritual_storm_feast",
+    "materialism:ritual_storm_feast_t3",
+    "materialism:diet_t3",
+    "materialism:sleep_t3",
+    "materialism:socialize_mountain_guild",
+    "materialism:visit_mountain_tavern_t3",
+    "materialism:hear_music_t3",
+    "materialism:homeland_mountain_t3",
+    "materialism:stone_born_t3",
     "materialism:aspire_authority",
     "materialism:aspire_lore"
   ],
   "jobs": [
-    "materialism:mountain_ore_crusher",
-    "materialism:mountain_toolsmith"
+    "materialism:mountain_toolsmith",
+    "materialism:mountain_charcoal_burner"
   ],
   "upgrades": [
     {
@@ -176,7 +197,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_vegetables_soup",
+          "need": "materialism:diet_t3",
           "satisfaction_threshold": 0.25
         }
       ],

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/oak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/hickory_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/oak_furniture/stripped_oak_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/hickory_furniture/stripped_hickory_cupboard_counter"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "cftfc:farmer",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:farm",
+  "crops": [
+    {
+      "seed": "tfc:seeds/potato",
+      "weight": 1.2
+    },
+    {
+      "seed": "tfc:seeds/beet",
+      "weight": 0.8
+    },
+    {
+      "seed": "tfc:seeds/rye",
+      "weight": 0.5
+    },
+    {
+      "seed": "tfc:seeds/lentil",
+      "weight": 0.5
+    }
+  ],
+  "soil_weight": 0.5,
+  "lookahead": 2,
+  "carry": 32
+}

@@ -1,53 +1,17 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/baobab_furniture/baobab_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/baobab_furniture/stripped_baobab_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/baobab_furniture/stripped_baobab_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_chair",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_chair",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/baobab_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/baobab_furniture/stripped_baobab_striped_chair"
   ]
 }

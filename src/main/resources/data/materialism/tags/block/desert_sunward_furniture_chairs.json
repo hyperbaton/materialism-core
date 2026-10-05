@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/mahogany_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/mahogany_furniture/stripped_mahogany_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/mahogany_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/mahogany_furniture/stripped_mahogany_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_striped_chair"
   ]
 }

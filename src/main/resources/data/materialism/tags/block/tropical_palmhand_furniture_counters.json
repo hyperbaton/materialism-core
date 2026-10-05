@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/mangrove_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/palm_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/mangrove_furniture/stripped_mangrove_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/palm_furniture/stripped_palm_cupboard_counter"
+  ]
+}

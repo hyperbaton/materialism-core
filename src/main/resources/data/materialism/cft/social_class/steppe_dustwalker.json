@@ -44,6 +44,20 @@
     "Sorkhan",
     "Tumen"
   ],
+  "schedule": [
+    {
+      "at": 7,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 16,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 22,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_steppe",
     "materialism:rainfall_steppe",
@@ -66,13 +80,19 @@
     "materialism:household_candles",
     "materialism:workplace_steppe_maker",
     "materialism:ritual_sky_offering_attend",
-    "materialism:ritual_naadam_games",
+    "materialism:ritual_naadam_games_t3",
+    "materialism:diet_t3",
+    "materialism:sleep_t3",
+    "materialism:socialize_steppe_guild",
+    "materialism:visit_steppe_tavern_t3",
+    "materialism:hear_music_t3",
+    "materialism:homeland_steppe_t3",
     "materialism:aspire_authority",
     "materialism:aspire_lore"
   ],
   "jobs": [
     "materialism:steppe_feltmaker",
-    "materialism:steppe_spinner"
+    "materialism:steppe_barrel_keeper"
   ],
   "upgrades": [
     {
@@ -176,7 +196,7 @@
           "satisfaction_threshold": 0.25
         },
         {
-          "need": "materialism:food_dairy_soup",
+          "need": "materialism:diet_t3",
           "satisfaction_threshold": 0.25
         }
       ],

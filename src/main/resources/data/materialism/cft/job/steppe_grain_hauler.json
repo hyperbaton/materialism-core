@@ -14,6 +14,30 @@
           "quantity": 32
         }
       ]
+    },
+    {
+      "origin_structure": "materialism:steppe_granary",
+      "destination_structure": "materialism:steppe_mill",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/barley"
+          },
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "origin_structure": "materialism:steppe_mill",
+      "destination_structure": "materialism:steppe_granary",
+      "items": [
+        {
+          "item": {
+            "item": "tfc:food/barley_flour"
+          },
+          "quantity": 16
+        }
+      ]
     }
   ]
 }

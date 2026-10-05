@@ -1,0 +1,15 @@
+{
+  "type": "cft:socialize",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 0.7453,
+  "satisfaction_threshold": 0.5,
+  "frequency": 1.0,
+  "classes": [
+    "materialism:mountain_skyforged",
+    "materialism:mountain_runespeaker",
+    "materialism:mountain_stormcaller"
+  ],
+  "radius": 48,
+  "duration": 300
+}

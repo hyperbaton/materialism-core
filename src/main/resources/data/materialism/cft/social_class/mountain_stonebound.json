@@ -44,6 +44,20 @@
     "Reto",
     "Aita"
   ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_mountain",
     "materialism:rainfall_mountain",
@@ -52,10 +66,15 @@
     "materialism:clothing_straw_head_t1",
     "materialism:drink_water_t1",
     "materialism:food_maize_flatbread",
-    "materialism:household_hide_blanket"
+    "materialism:household_hide_blanket",
+    "materialism:diet_t1",
+    "materialism:sleep_t1",
+    "materialism:socialize_mountain_folk_t1",
+    "materialism:stone_born_t1"
   ],
   "jobs": [
-    "materialism:mountain_forager"
+    "materialism:mountain_forager",
+    "materialism:mountain_firekeeper"
   ],
   "upgrades": [
     {

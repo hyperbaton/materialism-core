@@ -2,7 +2,7 @@
   "type": "cft:energy",
   "damage": 0.0,
   "damage_threshold": 0.0,
-  "provided_happiness": 0.411,
+  "provided_happiness": 0.3727,
   "satisfaction_threshold": 0.5,
   "frequency": 0.25,
   "energy_amount": 1000

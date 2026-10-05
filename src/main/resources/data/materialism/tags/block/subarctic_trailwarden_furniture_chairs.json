@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/douglas_fir_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/chestnut_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/douglas_fir_furniture/stripped_douglas_fir_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/chestnut_furniture/stripped_chestnut_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_striped_chair"
   ]
 }

@@ -1,85 +1,37 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_modern_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_double_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_double_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_large_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_triple_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/eucalyptus_cupboard_counter",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_wardrobe",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_drawer",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_modern_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_wardrobe",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_double_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_large_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/eucalyptus_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_lower_triple_drawer",
+    "mcw_tfc_aio_unofficial:furniture/eucalyptus_furniture/stripped_eucalyptus_lower_triple_drawer"
   ]
 }

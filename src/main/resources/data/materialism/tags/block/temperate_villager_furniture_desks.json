@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_covered_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/sycamore_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/birch_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/sycamore_furniture/stripped_sycamore_modern_desk",
+    "mcw_tfc_aio_unofficial:furniture/birch_furniture/stripped_birch_modern_desk"
+  ]
+}

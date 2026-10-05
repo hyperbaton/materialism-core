@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_modern_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/willow_modern_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_modern_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/willow_furniture/stripped_willow_modern_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/willow_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_modern_chair",
+    "mcw_tfc_aio_unofficial:furniture/willow_furniture/stripped_willow_modern_chair"
   ]
 }

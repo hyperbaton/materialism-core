@@ -1,0 +1,11 @@
+{
+  "type": "cft:visit",
+  "damage": 0.0,
+  "damage_threshold": 0.0,
+  "provided_happiness": 1.3043,
+  "satisfaction_threshold": 0.5,
+  "frequency": 2.0,
+  "required_structure": "materialism:mountain_garden",
+  "search_radius": 64,
+  "stay_duration": 1600
+}

@@ -8,21 +8,21 @@
     {
       "block": "rnr:rock/flagstones/granite",
       "min_quantity": 25,
-      "max_quantity": 2000,
+      "max_quantity": 144,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "rnr:rock/sett_road/granite",
       "min_quantity": 0,
-      "max_quantity": 2000,
+      "max_quantity": 144,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/chiseled/granite",
       "min_quantity": 0,
-      "max_quantity": 400,
+      "max_quantity": 144,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }

@@ -1,21 +1,9 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/sequoia_furniture/sequoia_stool_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/rosewood_stool_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/sequoia_furniture/stripped_sequoia_stool_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/rosewood_furniture/stripped_rosewood_stool_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/sequoia_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/rosewood_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/sequoia_furniture/stripped_sequoia_stool_chair",
+    "mcw_tfc_aio_unofficial:furniture/rosewood_furniture/stripped_rosewood_stool_chair"
   ]
 }

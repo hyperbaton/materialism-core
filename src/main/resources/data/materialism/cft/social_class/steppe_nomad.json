@@ -44,6 +44,20 @@
     "Sorkhan",
     "Tumen"
   ],
+  "schedule": [
+    {
+      "at": 5,
+      "activity": "minecraft:work"
+    },
+    {
+      "at": 17,
+      "activity": "minecraft:idle"
+    },
+    {
+      "at": 21,
+      "activity": "minecraft:rest"
+    }
+  ],
   "needs": [
     "materialism:temperature_steppe",
     "materialism:rainfall_steppe",
@@ -52,10 +66,14 @@
     "materialism:clothing_straw_head_t1",
     "materialism:drink_water_t1",
     "materialism:food_barley_flatbread",
-    "materialism:household_hide_blanket"
+    "materialism:household_hide_blanket",
+    "materialism:diet_t1",
+    "materialism:sleep_t1",
+    "materialism:socialize_steppe_folk_t1"
   ],
   "jobs": [
-    "materialism:steppe_forager"
+    "materialism:steppe_forager",
+    "materialism:steppe_firekeeper"
   ],
   "upgrades": [
     {

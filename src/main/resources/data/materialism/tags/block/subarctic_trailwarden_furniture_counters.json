@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_double_drawer_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/douglas_fir_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/chestnut_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/douglas_fir_furniture/stripped_douglas_fir_cupboard_counter",
+    "mcw_tfc_aio_unofficial:furniture/chestnut_furniture/stripped_chestnut_cupboard_counter"
+  ]
+}

@@ -1,37 +1,13 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/acacia_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/fig_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/acacia_furniture/stripped_acacia_striped_chair",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/fig_furniture/stripped_fig_striped_chair",
-      "required": false
-    }
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/acacia_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/fig_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/acacia_furniture/stripped_acacia_striped_chair",
+    "mcw_tfc_aio_unofficial:furniture/fig_furniture/stripped_fig_striped_chair"
   ]
 }

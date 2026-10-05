@@ -1,23 +1,23 @@
 {
   "replace": false,
   "values": [
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/blackwood_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/white_cedar_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/blackwood_furniture/stripped_blackwood_bookshelf",
-      "required": false
-    },
-    {
-      "id": "mcw_tfc_aio:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf",
-      "required": false
-    },
     "tfc:wood/bookshelf/blackwood",
-    "tfc:wood/bookshelf/white_cedar"
+    "tfc:wood/bookshelf/white_cedar",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf_cupboard",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/blackwood_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/white_cedar_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/blackwood_furniture/stripped_blackwood_lower_bookshelf_drawer",
+    "mcw_tfc_aio_unofficial:furniture/white_cedar_furniture/stripped_white_cedar_lower_bookshelf_drawer"
   ]
 }

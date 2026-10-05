@@ -1,0 +1,22 @@
+{
+  "type": "cftfc:farmer",
+  "hours_per_day": 8.0,
+  "required_structure": "materialism:farm",
+  "crops": [
+    {
+      "seed": "tfc:seeds/cassava",
+      "weight": 1.0
+    },
+    {
+      "seed": "tfc:seeds/peanut",
+      "weight": 0.8
+    },
+    {
+      "seed": "tfc:seeds/soybean",
+      "weight": 0.4
+    }
+  ],
+  "soil_weight": 0.5,
+  "lookahead": 2,
+  "carry": 32
+}
