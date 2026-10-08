@@ -7,15 +7,15 @@
   "floor_blocks": [
     {
       "block": "rnr:rock/macadam_road/chalk",
-      "min_quantity": 18,
-      "max_quantity": 30,
+      "min_quantity": 8,
+      "max_quantity": 90,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/gravel/chalk",
-      "min_quantity": 22,
-      "max_quantity": 30,
+      "min_quantity": 8,
+      "max_quantity": 90,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }
@@ -23,22 +23,22 @@
   "wall_blocks": [
     {
       "block": "tfc:mud_bricks/mollisol",
-      "min_quantity": 50,
-      "max_quantity": 80,
+      "min_quantity": 30,
+      "max_quantity": 217,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:temperate_villager_wood_logs",
       "min_quantity": 12,
-      "max_quantity": 18,
+      "max_quantity": 108,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:temperate_villager_wood_fences",
       "min_quantity": 2,
-      "max_quantity": 6,
+      "max_quantity": 34,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -60,8 +60,8 @@
   "interior_blocks": [
     {
       "block": "minecraft:air",
-      "min_quantity": 0,
-      "max_quantity": 60,
+      "min_quantity": 42,
+      "max_quantity": 560,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -148,13 +148,34 @@
       "max_quantity": 1,
       "min_percentage": 0.0,
       "max_percentage": 1.0
+    },
+    {
+      "block": "#minecraft:wooden_stairs",
+      "min_quantity": 0,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:decor",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
   "roof_blocks": [
     {
       "block": "#materialism:thatch_roofs",
-      "min_quantity": 40,
-      "max_quantity": 60,
+      "min_quantity": 33,
+      "max_quantity": 90,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:temperate_villager_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 20,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }

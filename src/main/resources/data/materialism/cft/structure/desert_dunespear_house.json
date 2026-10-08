@@ -7,15 +7,15 @@
   "floor_blocks": [
     {
       "block": "rnr:rock/cobbled_road/limestone",
-      "min_quantity": 40,
-      "max_quantity": 50,
+      "min_quantity": 20,
+      "max_quantity": 156,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/cobble/limestone",
-      "min_quantity": 35,
-      "max_quantity": 45,
+      "min_quantity": 10,
+      "max_quantity": 156,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }
@@ -23,29 +23,29 @@
   "wall_blocks": [
     {
       "block": "#materialism:desert_dunespear_wood_logs",
-      "min_quantity": 18,
-      "max_quantity": 25,
+      "min_quantity": 12,
+      "max_quantity": 187,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:desert_dunespear_wood_planks",
       "min_quantity": 20,
-      "max_quantity": 50,
+      "max_quantity": 374,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#c:glass_blocks",
-      "min_quantity": 6,
-      "max_quantity": 12,
+      "min_quantity": 4,
+      "max_quantity": 76,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#c:glass_panes",
       "min_quantity": 0,
-      "max_quantity": 12,
+      "max_quantity": 76,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -67,8 +67,8 @@
   "interior_blocks": [
     {
       "block": "minecraft:air",
-      "min_quantity": 0,
-      "max_quantity": 100,
+      "min_quantity": 75,
+      "max_quantity": 1320,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -138,14 +138,49 @@
     {
       "block": "#materialism:desert_dunespear_furniture_tables",
       "min_quantity": 1,
-      "max_quantity": 2,
+      "max_quantity": 4,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:desert_dunespear_furniture_stools",
       "min_quantity": 2,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_dunespear_furniture_chairs",
+      "min_quantity": 0,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_dunespear_furniture_counters",
+      "min_quantity": 0,
+      "max_quantity": 6,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_dunespear_furniture_wardrobes",
+      "min_quantity": 0,
       "max_quantity": 4,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_dunespear_furniture_bookshelves",
+      "min_quantity": 0,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_dunespear_furniture_coffee_tables",
+      "min_quantity": 0,
+      "max_quantity": 2,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -162,13 +197,41 @@
       "max_quantity": 1,
       "min_percentage": 0.0,
       "max_percentage": 1.0
+    },
+    {
+      "block": "#minecraft:wooden_stairs",
+      "min_quantity": 0,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "minecraft:ladder",
+      "min_quantity": 0,
+      "max_quantity": 10,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:decor",
+      "min_quantity": 0,
+      "max_quantity": 40,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
   "roof_blocks": [
     {
       "block": "#materialism:desert_dunespear_wood_shingles",
-      "min_quantity": 75,
-      "max_quantity": 95,
+      "min_quantity": 51,
+      "max_quantity": 156,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_dunespear_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 26,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }

@@ -7,15 +7,15 @@
   "floor_blocks": [
     {
       "block": "rnr:rock/gravel_road/conglomerate",
-      "min_quantity": 5,
-      "max_quantity": 10,
+      "min_quantity": 4,
+      "max_quantity": 56,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "tfc:rock/gravel/conglomerate",
-      "min_quantity": 16,
-      "max_quantity": 25,
+      "min_quantity": 9,
+      "max_quantity": 56,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }
@@ -23,15 +23,15 @@
   "wall_blocks": [
     {
       "block": "#materialism:wattle",
-      "min_quantity": 22,
-      "max_quantity": 30,
+      "min_quantity": 10,
+      "max_quantity": 127,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:steppe_nomad_wood_logs",
       "min_quantity": 8,
-      "max_quantity": 12,
+      "max_quantity": 63,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -53,8 +53,8 @@
   "interior_blocks": [
     {
       "block": "minecraft:air",
-      "min_quantity": 0,
-      "max_quantity": 50,
+      "min_quantity": 12,
+      "max_quantity": 240,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -134,13 +134,27 @@
       "max_quantity": 2,
       "min_percentage": 0.0,
       "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:decor",
+      "min_quantity": 0,
+      "max_quantity": 20,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
   "roof_blocks": [
     {
       "block": "#materialism:thatch_roofs",
-      "min_quantity": 21,
-      "max_quantity": 35,
+      "min_quantity": 20,
+      "max_quantity": 56,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:steppe_nomad_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 16,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }

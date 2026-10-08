@@ -7,8 +7,8 @@
   "floor_blocks": [
     {
       "block": "tfc:raw_sandstone/yellow",
-      "min_quantity": 18,
-      "max_quantity": 30,
+      "min_quantity": 16,
+      "max_quantity": 90,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }
@@ -16,22 +16,22 @@
   "wall_blocks": [
     {
       "block": "tfc:mud_bricks/aridisol",
-      "min_quantity": 50,
-      "max_quantity": 80,
+      "min_quantity": 30,
+      "max_quantity": 217,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:desert_sandborn_wood_logs",
       "min_quantity": 12,
-      "max_quantity": 18,
+      "max_quantity": 108,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
     {
       "block": "#materialism:desert_sandborn_wood_fences",
       "min_quantity": 2,
-      "max_quantity": 6,
+      "max_quantity": 34,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -53,8 +53,8 @@
   "interior_blocks": [
     {
       "block": "minecraft:air",
-      "min_quantity": 0,
-      "max_quantity": 60,
+      "min_quantity": 42,
+      "max_quantity": 560,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     },
@@ -141,13 +141,34 @@
       "max_quantity": 1,
       "min_percentage": 0.0,
       "max_percentage": 1.0
+    },
+    {
+      "block": "#minecraft:wooden_stairs",
+      "min_quantity": 0,
+      "max_quantity": 8,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:decor",
+      "min_quantity": 0,
+      "max_quantity": 30,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
     }
   ],
   "roof_blocks": [
     {
       "block": "#materialism:thatch_roofs",
-      "min_quantity": 34,
-      "max_quantity": 55,
+      "min_quantity": 33,
+      "max_quantity": 90,
+      "min_percentage": 0.0,
+      "max_percentage": 1.0
+    },
+    {
+      "block": "#materialism:desert_sandborn_wood_logs",
+      "min_quantity": 0,
+      "max_quantity": 20,
       "min_percentage": 0.0,
       "max_percentage": 1.0
     }

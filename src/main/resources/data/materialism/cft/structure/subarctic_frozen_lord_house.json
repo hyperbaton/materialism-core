@@ -11,15 +11,15 @@
       "floor_blocks": [
         {
           "block": "rnr:rock/flagstones/granite",
-          "min_quantity": 30,
-          "max_quantity": 144,
+          "min_quantity": 40,
+          "max_quantity": 289,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "tfc:rock/chiseled/granite",
           "min_quantity": 0,
-          "max_quantity": 60,
+          "max_quantity": 144,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
@@ -55,8 +55,8 @@
         },
         {
           "block": "minecraft:air",
-          "min_quantity": 0,
-          "max_quantity": 900,
+          "min_quantity": 170,
+          "max_quantity": 3375,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -126,7 +126,7 @@
         {
           "block": "#minecraft:wooden_stairs",
           "min_quantity": 0,
-          "max_quantity": 8,
+          "max_quantity": 16,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -227,34 +227,41 @@
           "max_quantity": 2,
           "min_percentage": 0.0,
           "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:decor",
+          "min_quantity": 0,
+          "max_quantity": 80,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         }
       ],
       "wall_blocks": [
         {
           "block": "#materialism:alabaster_raw",
           "min_quantity": 0,
-          "max_quantity": 200,
+          "max_quantity": 640,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#materialism:alabaster_bricks",
           "min_quantity": 30,
-          "max_quantity": 300,
+          "max_quantity": 640,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#materialism:alabaster_polished",
           "min_quantity": 0,
-          "max_quantity": 80,
+          "max_quantity": 320,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#c:glass_panes",
           "min_quantity": 0,
-          "max_quantity": 60,
+          "max_quantity": 128,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -276,15 +283,15 @@
       "roof_blocks": [
         {
           "block": "#materialism:subarctic_frozen_lord_wood_planks",
-          "min_quantity": 20,
-          "max_quantity": 144,
+          "min_quantity": 60,
+          "max_quantity": 289,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "minecraft:air",
           "min_quantity": 1,
-          "max_quantity": 6,
+          "max_quantity": 12,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -292,6 +299,20 @@
           "block": "minecraft:ladder",
           "min_quantity": 0,
           "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:wooden_trapdoors",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:subarctic_frozen_lord_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 34,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
@@ -304,28 +325,28 @@
         {
           "block": "#materialism:alabaster_raw",
           "min_quantity": 0,
-          "max_quantity": 200,
+          "max_quantity": 640,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#materialism:alabaster_bricks",
           "min_quantity": 0,
-          "max_quantity": 300,
+          "max_quantity": 640,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#materialism:alabaster_polished",
           "min_quantity": 0,
-          "max_quantity": 80,
+          "max_quantity": 320,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#c:glass_panes",
           "min_quantity": 0,
-          "max_quantity": 60,
+          "max_quantity": 128,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -339,7 +360,7 @@
         {
           "block": "#minecraft:doors",
           "min_quantity": 0,
-          "max_quantity": 2,
+          "max_quantity": 0,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
@@ -347,8 +368,8 @@
       "interior_blocks": [
         {
           "block": "minecraft:air",
-          "min_quantity": 0,
-          "max_quantity": 900,
+          "min_quantity": 170,
+          "max_quantity": 3375,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -418,7 +439,7 @@
         {
           "block": "#minecraft:wooden_stairs",
           "min_quantity": 0,
-          "max_quantity": 8,
+          "max_quantity": 16,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -519,20 +540,27 @@
           "max_quantity": 2,
           "min_percentage": 0.0,
           "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:decor",
+          "min_quantity": 0,
+          "max_quantity": 80,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         }
       ],
       "floor_blocks": [
         {
           "block": "#materialism:subarctic_frozen_lord_wood_planks",
-          "min_quantity": 20,
-          "max_quantity": 144,
+          "min_quantity": 60,
+          "max_quantity": 289,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "minecraft:air",
           "min_quantity": 1,
-          "max_quantity": 6,
+          "max_quantity": 12,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -540,6 +568,20 @@
           "block": "minecraft:ladder",
           "min_quantity": 0,
           "max_quantity": 2,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:wooden_trapdoors",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:subarctic_frozen_lord_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 34,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
@@ -548,14 +590,14 @@
         {
           "block": "#materialism:subarctic_frozen_lord_wood_planks",
           "min_quantity": 0,
-          "max_quantity": 144,
+          "max_quantity": 289,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "minecraft:air",
           "min_quantity": 0,
-          "max_quantity": 6,
+          "max_quantity": 12,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -567,9 +609,23 @@
           "max_percentage": 1.0
         },
         {
+          "block": "#minecraft:wooden_trapdoors",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:subarctic_frozen_lord_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 34,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
           "block": "#materialism:subarctic_roofs_t5",
           "min_quantity": 0,
-          "max_quantity": 400,
+          "max_quantity": 289,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
@@ -582,28 +638,28 @@
         {
           "block": "#materialism:alabaster_raw",
           "min_quantity": 0,
-          "max_quantity": 200,
+          "max_quantity": 640,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#materialism:alabaster_bricks",
           "min_quantity": 0,
-          "max_quantity": 300,
+          "max_quantity": 640,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#materialism:alabaster_polished",
           "min_quantity": 0,
-          "max_quantity": 80,
+          "max_quantity": 320,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "#c:glass_panes",
           "min_quantity": 0,
-          "max_quantity": 60,
+          "max_quantity": 128,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -617,7 +673,7 @@
         {
           "block": "#minecraft:doors",
           "min_quantity": 0,
-          "max_quantity": 2,
+          "max_quantity": 0,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
@@ -625,8 +681,8 @@
       "interior_blocks": [
         {
           "block": "minecraft:air",
-          "min_quantity": 0,
-          "max_quantity": 900,
+          "min_quantity": 170,
+          "max_quantity": 3375,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -696,7 +752,7 @@
         {
           "block": "#minecraft:wooden_stairs",
           "min_quantity": 0,
-          "max_quantity": 8,
+          "max_quantity": 16,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -797,20 +853,27 @@
           "max_quantity": 2,
           "min_percentage": 0.0,
           "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:decor",
+          "min_quantity": 0,
+          "max_quantity": 80,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         }
       ],
       "floor_blocks": [
         {
           "block": "#materialism:subarctic_frozen_lord_wood_planks",
-          "min_quantity": 20,
-          "max_quantity": 144,
+          "min_quantity": 60,
+          "max_quantity": 289,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
         {
           "block": "minecraft:air",
           "min_quantity": 1,
-          "max_quantity": 6,
+          "max_quantity": 12,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         },
@@ -820,13 +883,41 @@
           "max_quantity": 2,
           "min_percentage": 0.0,
           "max_percentage": 1.0
+        },
+        {
+          "block": "#minecraft:wooden_trapdoors",
+          "min_quantity": 0,
+          "max_quantity": 4,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:subarctic_frozen_lord_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 34,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
         }
       ],
       "roof_blocks": [
         {
           "block": "#materialism:subarctic_roofs_t5",
-          "min_quantity": 30,
-          "max_quantity": 400,
+          "min_quantity": 96,
+          "max_quantity": 289,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:subarctic_frozen_lord_wood_logs",
+          "min_quantity": 0,
+          "max_quantity": 34,
+          "min_percentage": 0.0,
+          "max_percentage": 1.0
+        },
+        {
+          "block": "#materialism:subarctic_frozen_lord_wood_planks",
+          "min_quantity": 0,
+          "max_quantity": 96,
           "min_percentage": 0.0,
           "max_percentage": 1.0
         }
