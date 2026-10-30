@@ -11,6 +11,8 @@
     "BlastFurnaceOutputBlockEntityMixin",
     "BlastFurnaceHatchBlockEntityMixin"
   ],
-  "client": [],
+  "client": [
+    "SequencedAssemblyCategoryMixin"
+  ],
   "server": []
 }
