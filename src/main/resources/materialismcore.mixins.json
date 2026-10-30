@@ -9,7 +9,9 @@
     "MapProjectionHolderMixin",
     "HelveBlockEntityMixin",
     "BlastFurnaceOutputBlockEntityMixin",
-    "BlastFurnaceHatchBlockEntityMixin"
+    "BlastFurnaceHatchBlockEntityMixin",
+    "ExhaustTankMixin",
+    "SmokestackBlockEntityMixin"
   ],
   "client": [
     "SequencedAssemblyCategoryMixin"
