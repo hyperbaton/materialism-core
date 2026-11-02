@@ -6,7 +6,15 @@
   "items": [
     {
       "item": {
-        "item": "tfc_medicine:garlic_paste"
+        "type": "tfc:and",
+        "children": [
+          {
+            "item": "tfc:food/garlic"
+          },
+          {
+            "type": "tfc:not_rotten"
+          }
+        ]
       },
       "quantity": 1
     }

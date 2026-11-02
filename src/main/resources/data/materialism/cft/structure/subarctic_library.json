@@ -224,6 +224,6 @@
   ],
   "lighting": {
     "min_light": 10,
-    "min_percentage": 0.8
+    "min_percentage": 0.45
   }
 }

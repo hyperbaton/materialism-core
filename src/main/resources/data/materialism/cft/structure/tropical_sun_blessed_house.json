@@ -926,7 +926,7 @@
   ],
   "lighting": {
     "min_light": 11,
-    "min_percentage": 0.9
+    "min_percentage": 0.5
   },
   "min_storeys": 2,
   "max_storeys": 3
