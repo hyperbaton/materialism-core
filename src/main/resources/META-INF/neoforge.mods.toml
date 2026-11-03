@@ -44,6 +44,7 @@ side="BOTH"
 [[dependencies.${mod_id}]]
 modId="tfmg"
 type="optional"
+versionRange="[1.3.3,)"
 ordering="AFTER"
 side="BOTH"
 

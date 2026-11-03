@@ -17,6 +17,13 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import java.util.List;
 
+/**
+ * Items thrown into the blast furnace opening are sorted by {@code collectItems()}. TFMG's version
+ * lets items fall through into the ore slot: fuel arriving at 64 fuel ends up there, and flux
+ * spills into it too (even right after being placed in the flux slot), blocking the recipe. Stop
+ * at the first item that can't be placed in its own slot instead, leaving the rest in the
+ * opening. (The top hatch's {@code fillFurnace()} already routes correctly.)
+ */
 @Mixin(BlastFurnaceOutputBlockEntity.class)
 public abstract class BlastFurnaceOutputBlockEntityMixin {
     @Inject(method = "collectItems()V", at = @At("HEAD"), cancellable = true)
@@ -36,30 +43,23 @@ public abstract class BlastFurnaceOutputBlockEntityMixin {
             return;
         }
 
-        boolean recheckRecipe = false;
+        // No need to recheck the recipe here: lazyTick() looks one up right after collecting.
         for (ItemEntity entity : entities) {
             ItemStack stack = entity.getItem();
 
             for (int i = 0; i < 64 && !stack.isEmpty(); i++) {
-                if (stack.is(TFMGTags.TFMGItemTags.BLAST_FURNACE_FUEL.tag)) {
+                if (stack.is(TFMGTags.Items.BLAST_FURNACE_FUEL.tag)) {
                     if (self.fuel >= 64) break;
                     self.fuel++;
                     stack.shrink(1);
-                    recheckRecipe = true;
                     continue;
                 }
-                if (stack.is(TFMGTags.TFMGItemTags.FLUX.tag)) {
+                if (stack.is(TFMGTags.Items.FLUX.tag)) {
                     if (!materialismcore$offer(self.fluxInventory, stack)) break;
-                    recheckRecipe = true;
                     continue;
                 }
                 if (!materialismcore$offer(self.inputInventory, stack)) break;
-                recheckRecipe = true;
             }
-        }
-
-        if (recheckRecipe && self.timer <= -1) {
-            self.executeRecipe();
         }
     }
 

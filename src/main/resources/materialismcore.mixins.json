@@ -3,15 +3,11 @@
   "package": "com.pjbhva.materialismcore.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "CastingBasinBlockEntityMixin",
     "OvenBottomBlockEntityMixin",
     "ConfigBaseCValueMixin",
     "MapProjectionHolderMixin",
     "HelveBlockEntityMixin",
-    "BlastFurnaceOutputBlockEntityMixin",
-    "BlastFurnaceHatchBlockEntityMixin",
-    "ExhaustTankMixin",
-    "SmokestackBlockEntityMixin"
+    "BlastFurnaceOutputBlockEntityMixin"
   ],
   "client": [
     "SequencedAssemblyCategoryMixin"

@@ -79,7 +79,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly 'curse.maven:create-industry-693815:7430073'
+    compileOnly 'curse.maven:tfmg-community-edition-1653026:9413167'
     compileOnly 'curse.maven:create-328085:7963363'
     compileOnly 'curse.maven:tfc-302973:8566530'
     compileOnly 'curse.maven:firmalife-453394:8364676'
