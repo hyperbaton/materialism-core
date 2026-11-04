@@ -8,8 +8,10 @@ import com.pjbhva.materialismcore.registry.ModCreativeTab;
 import com.pjbhva.materialismcore.registry.ModDataComponents;
 import com.pjbhva.materialismcore.registry.ModItems;
 import net.neoforged.bus.api.IEventBus;
+import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
+import net.neoforged.fml.config.ModConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -18,7 +20,8 @@ public class MaterialismCore {
     public static final String MOD_ID = "materialismcore";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
-    public MaterialismCore(IEventBus modEventBus) {
+    public MaterialismCore(IEventBus modEventBus, ModContainer modContainer) {
+        modContainer.registerConfig(ModConfig.Type.STARTUP, ModConfigs.STARTUP_SPEC);
         ModBlocks.BLOCKS.register(modEventBus);
         ModItems.ITEMS.register(modEventBus);
         ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);

@@ -3,6 +3,7 @@ package com.pjbhva.materialismcore;
 import com.pjbhva.materialismcore.block.GalvanicCellEnergyStorage;
 import com.pjbhva.materialismcore.compat.BlastFurnaceInteractionHandler;
 import com.pjbhva.materialismcore.compat.TFCFireboxBoilerHeater;
+import com.pjbhva.materialismcore.compat.VatCompat;
 import com.pjbhva.materialismcore.item.FluidScannerFluidHandler;
 import com.pjbhva.materialismcore.registry.ModBlockEntities;
 import com.pjbhva.materialismcore.registry.ModItems;
@@ -13,6 +14,7 @@ import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.capabilities.Capabilities;
 import net.neoforged.neoforge.capabilities.RegisterCapabilitiesEvent;
 import net.neoforged.neoforge.common.NeoForge;
+import net.neoforged.neoforge.event.ModifyDefaultComponentsEvent;
 
 @EventBusSubscriber(modid = MaterialismCore.MOD_ID, bus = EventBusSubscriber.Bus.MOD)
 public class ModEvents {
@@ -28,6 +30,16 @@ public class ModEvents {
                 (stack, ctx) -> new FluidScannerFluidHandler(stack),
                 ModItems.FLUID_SCANNER.get()
         );
+        if (ModList.get().isLoaded("tfmg")) {
+            VatCompat.registerCapabilities(event);
+        }
+    }
+
+    @SubscribeEvent
+    public static void modifyDefaultComponents(ModifyDefaultComponentsEvent event) {
+        if (ModList.get().isLoaded("tfmg")) {
+            VatCompat.addElectrodeDurability(event);
+        }
     }
 
     @SubscribeEvent

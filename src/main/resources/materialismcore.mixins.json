@@ -8,10 +8,13 @@
     "MapProjectionHolderMixin",
     "HelveBlockEntityMixin",
     "BlastFurnaceOutputBlockEntityMixin",
-    "CastingBasinBlockEntityMixin"
+    "CastingBasinBlockEntityMixin",
+    "VatBlockEntityMixin",
+    "VatRecipeParamsMixin"
   ],
   "client": [
-    "SequencedAssemblyCategoryMixin"
+    "SequencedAssemblyCategoryMixin",
+    "ChemicalVatCategoryMixin"
   ],
   "server": []
 }
