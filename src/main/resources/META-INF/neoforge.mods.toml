@@ -5,6 +5,9 @@ license="${mod_license}"
 [[mixins]]
 config="materialismcore.mixins.json"
 
+[[mixins]]
+config="materialismcore.solarpunk.mixins.json"
+
 [[mods]]
 modId="${mod_id}"
 namespace="${mod_id}"
@@ -56,6 +59,12 @@ side="BOTH"
 
 [[dependencies.${mod_id}]]
 modId="vintageimprovements"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="solarpunk"
 type="optional"
 ordering="AFTER"
 side="BOTH"

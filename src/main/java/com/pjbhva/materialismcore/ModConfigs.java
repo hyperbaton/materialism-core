@@ -8,6 +8,9 @@ public final class ModConfigs {
     public static final ModConfigSpec.IntValue ZINC_ELECTRODE_DURABILITY;
     public static final ModConfigSpec.IntValue GRAPHITE_ELECTRODE_DURABILITY;
 
+    public static final ModConfigSpec COMMON_SPEC;
+    public static final ModConfigSpec.DoubleValue STEAM_PER_BOILER_LEVEL;
+
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
 
@@ -20,6 +23,13 @@ public final class ModConfigs {
         builder.pop();
 
         STARTUP_SPEC = builder.build();
+
+        ModConfigSpec.Builder common = new ModConfigSpec.Builder();
+        common.comment("Steam cycle: steam engine outlets").push("steam");
+        STEAM_PER_BOILER_LEVEL = common.comment("mB/t of pressurized steam per boiler level an outlet engine draws (Create takes 10 mB/t of water per level)")
+                .defineInRange("steamPerBoilerLevel", 10.0, 0.0, 1000.0);
+        common.pop();
+        COMMON_SPEC = common.build();
     }
 
     private ModConfigs() {}

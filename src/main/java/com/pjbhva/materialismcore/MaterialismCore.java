@@ -2,6 +2,7 @@ package com.pjbhva.materialismcore;
 
 import com.pjbhva.materialismcore.compat.TFCChestMountedStorage;
 import com.pjbhva.materialismcore.compat.TFCFireboxArmInteraction;
+import com.pjbhva.materialismcore.registry.ModAttachments;
 import com.pjbhva.materialismcore.registry.ModBlockEntities;
 import com.pjbhva.materialismcore.registry.ModBlocks;
 import com.pjbhva.materialismcore.registry.ModCreativeTab;
@@ -22,6 +23,8 @@ public class MaterialismCore {
 
     public MaterialismCore(IEventBus modEventBus, ModContainer modContainer) {
         modContainer.registerConfig(ModConfig.Type.STARTUP, ModConfigs.STARTUP_SPEC);
+        modContainer.registerConfig(ModConfig.Type.COMMON, ModConfigs.COMMON_SPEC);
+        ModAttachments.ATTACHMENT_TYPES.register(modEventBus);
         ModBlocks.BLOCKS.register(modEventBus);
         ModItems.ITEMS.register(modEventBus);
         ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);

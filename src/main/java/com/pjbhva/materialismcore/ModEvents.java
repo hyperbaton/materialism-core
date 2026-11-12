@@ -7,6 +7,7 @@ import com.pjbhva.materialismcore.compat.VatCompat;
 import com.pjbhva.materialismcore.item.FluidScannerFluidHandler;
 import com.pjbhva.materialismcore.registry.ModBlockEntities;
 import com.pjbhva.materialismcore.registry.ModItems;
+import com.pjbhva.materialismcore.steam.SteamOutlet;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.EventBusSubscriber;
@@ -30,6 +31,9 @@ public class ModEvents {
                 (stack, ctx) -> new FluidScannerFluidHandler(stack),
                 ModItems.FLUID_SCANNER.get()
         );
+        if (ModList.get().isLoaded("create")) {
+            SteamOutlet.registerCapability(event);
+        }
         if (ModList.get().isLoaded("tfmg")) {
             VatCompat.registerCapabilities(event);
         }

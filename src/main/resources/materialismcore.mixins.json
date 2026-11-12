@@ -10,7 +10,10 @@
     "BlastFurnaceOutputBlockEntityMixin",
     "CastingBasinBlockEntityMixin",
     "VatBlockEntityMixin",
-    "VatRecipeParamsMixin"
+    "VatRecipeParamsMixin",
+    "SteamEngineBlockEntityMixin",
+    "SmokestackBlockEntityMixin",
+    "ExhaustBlockEntityMixin"
   ],
   "client": [
     "SequencedAssemblyCategoryMixin",
