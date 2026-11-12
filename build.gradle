@@ -88,6 +88,7 @@ dependencies {
     compileOnly 'curse.maven:vintage-improvenents-ssw-edition-1255448:8600647'
     compileOnly 'mezz.jei:jei-1.21.1-common-api:19.25.1.332'
     compileOnly 'mezz.jei:jei-1.21.1-neoforge-api:19.25.1.332'
+    compileOnly files('libs/electroenergetics-1.21.1-1.1.4.jar')
 }
 
 tasks.named('processResources', ProcessResources).configure {

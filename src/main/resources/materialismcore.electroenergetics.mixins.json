@@ -1,0 +1,9 @@
+{
+  "required": false,
+  "package": "com.pjbhva.materialismcore.mixin.electroenergetics",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ConverterBlockEntityMixin",
+    "ConverterValueBoxMixin"
+  ]
+}

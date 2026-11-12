@@ -8,6 +8,9 @@ config="materialismcore.mixins.json"
 [[mixins]]
 config="materialismcore.solarpunk.mixins.json"
 
+[[mixins]]
+config="materialismcore.electroenergetics.mixins.json"
+
 [[mods]]
 modId="${mod_id}"
 namespace="${mod_id}"
@@ -65,6 +68,12 @@ side="BOTH"
 
 [[dependencies.${mod_id}]]
 modId="solarpunk"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="electroenergetics"
 type="optional"
 ordering="AFTER"
 side="BOTH"

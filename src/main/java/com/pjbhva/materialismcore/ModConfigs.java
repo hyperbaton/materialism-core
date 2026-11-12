@@ -10,6 +10,7 @@ public final class ModConfigs {
 
     public static final ModConfigSpec COMMON_SPEC;
     public static final ModConfigSpec.DoubleValue STEAM_PER_BOILER_LEVEL;
+    public static final ModConfigSpec.DoubleValue EE_WATTS_PER_TFMG_WATT;
 
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
@@ -28,6 +29,10 @@ public final class ModConfigs {
         common.comment("Steam cycle: steam engine outlets").push("steam");
         STEAM_PER_BOILER_LEVEL = common.comment("mB/t of pressurized steam per boiler level an outlet engine draws (Create takes 10 mB/t of water per level)")
                 .defineInRange("steamPerBoilerLevel", 10.0, 0.0, 1000.0);
+        common.pop();
+        common.comment("Electro Energetics converter bridge to TFMG's electrical network").push("electroenergetics");
+        EE_WATTS_PER_TFMG_WATT = common.comment("EE watts exchanged per TFMG watt (both networks compute power as V·I, so 1.0 conserves energy)")
+                .defineInRange("eeWattsPerTfmgWatt", 1.0, 0.01, 100.0);
         common.pop();
         COMMON_SPEC = common.build();
     }
