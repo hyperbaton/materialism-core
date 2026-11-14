@@ -11,6 +11,8 @@ public final class ModConfigs {
     public static final ModConfigSpec COMMON_SPEC;
     public static final ModConfigSpec.DoubleValue STEAM_PER_BOILER_LEVEL;
     public static final ModConfigSpec.DoubleValue EE_WATTS_PER_TFMG_WATT;
+    public static final ModConfigSpec.DoubleValue RESISTIVE_HEATER_DEGREES_PER_HEAT;
+    public static final ModConfigSpec.DoubleValue RESISTIVE_HEATER_MAX_TEMPERATURE;
 
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
@@ -33,6 +35,10 @@ public final class ModConfigs {
         common.comment("Electro Energetics converter bridge to TFMG's electrical network").push("electroenergetics");
         EE_WATTS_PER_TFMG_WATT = common.comment("EE watts exchanged per TFMG watt (both networks compute power as V·I, so 1.0 conserves energy)")
                 .defineInRange("eeWattsPerTfmgWatt", 1.0, 0.01, 100.0);
+        RESISTIVE_HEATER_DEGREES_PER_HEAT = common.comment("°C a lit resistive heater pushes into the TFC heat consumer above it (a TFMG vat, a crucible) per unit of its heat; 1 heat is about 7.4 kW")
+                .defineInRange("resistiveHeaterDegreesPerHeat", 1000.0, 0.0, 10000.0);
+        RESISTIVE_HEATER_MAX_TEMPERATURE = common.comment("Highest °C a resistive heater can push, the limit of its heating element")
+                .defineInRange("resistiveHeaterMaxTemperature", 1800.0, 0.0, 5000.0);
         common.pop();
         COMMON_SPEC = common.build();
     }

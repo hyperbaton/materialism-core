@@ -16,11 +16,11 @@ import java.util.List;
 /**
  * Optional fields the pack adds to TFMG's vat recipes. They all default to 0, which leaves the
  * recipe behaving as TFMG defines it. {@code min_current} and {@code energy} only apply to recipes
- * that use electrodes.
+ * that use electrodes or freezers.
  *
  * @param electrodeWear durability each electrode the recipe uses loses per finished craft
- * @param minCurrent    amps each of those electrodes needs for the recipe to progress
- * @param energy        FE those electrodes must draw in total before the recipe can finish
+ * @param minCurrent    amps each of its electrodes or freezers needs for the recipe to progress
+ * @param energy        FE those machines must draw in total before the recipe can finish
  * @param temperature   degrees Celsius the vat must be at for the recipe to progress
  */
 public record VatRecipeExtras(int electrodeWear, float minCurrent, int energy, float temperature) {

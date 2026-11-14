@@ -1,5 +1,7 @@
 package com.pjbhva.materialismcore.mixin;
 
+import com.drmangotea.tfmg.content.electricity.base.ElectricBlockEntity;
+import com.drmangotea.tfmg.content.machinery.vat.base.IVatMachine;
 import com.drmangotea.tfmg.content.machinery.vat.base.VatBlockEntity;
 import com.drmangotea.tfmg.content.machinery.vat.base.registry.operations.VatOperation;
 import com.drmangotea.tfmg.content.machinery.vat.electrode_holder.ElectrodeHolderBlockEntity;
@@ -40,8 +42,8 @@ import java.util.Map;
  * a wide vat needs a heater under every column. Create-style heaters have no real temperature and
  * count as {@link #HEATED_TEMPERATURE} or {@link #SUPERHEATED_TEMPERATURE}.
  * <p>
- * TFMG's electrical network only models instantaneous power, and electrodes draw it constantly.
- * Energy is metered here instead: each tick adds what the electrodes are drawing, and the recipe
+ * TFMG's electrical network only models instantaneous power, and electrodes and freezers draw it constantly.
+ * Energy is metered here instead: each tick adds what the recipe's machines are drawing, and the recipe
  * can't finish until it has reached the recipe's total, on top of its usual processing time.
  */
 @Mixin(VatBlockEntity.class)
@@ -78,6 +80,9 @@ public abstract class VatBlockEntityMixin implements IHeatConsumer, VatHeatRecei
     private long materialismcore$energyDrawn;
     @Unique
     private VatMachineRecipe materialismcore$meteredRecipe;
+    // The recipe handleRecipe() started with; result output can clear the field before it finishes.
+    @Unique
+    private VatMachineRecipe materialismcore$handledRecipe;
 
     @Override
     public float getTemperature() {
@@ -133,6 +138,7 @@ public abstract class VatBlockEntityMixin implements IHeatConsumer, VatHeatRecei
 
     @Inject(method = "handleRecipe()V", at = @At("HEAD"), cancellable = true)
     private void materialismcore$checkRequirements(CallbackInfo ci) {
+        materialismcore$handledRecipe = recipe;
         VatBlockEntity self = (VatBlockEntity) (Object) this;
         Level level = self.getLevel();
         if (level == null || level.isClientSide || recipe == null || !isController()) {
@@ -148,12 +154,13 @@ public abstract class VatBlockEntityMixin implements IHeatConsumer, VatHeatRecei
             return;
         }
 
-        List<ElectrodeHolderBlockEntity> electrodes = materialismcore$recipeElectrodes(level);
-        if (electrodes.isEmpty()) {
+        List<ElectricBlockEntity> machines = materialismcore$recipeElectricMachines(level, recipe);
+        if (machines.isEmpty()) {
             return;
         }
-        for (ElectrodeHolderBlockEntity electrode : electrodes) {
-            if (electrode.getCurrent() < extras.minCurrent() || !electrode.canWork()) {
+        for (ElectricBlockEntity machine : machines) {
+            if (machine.getCurrent() < extras.minCurrent()
+                    || machine instanceof ElectrodeHolderBlockEntity electrode && !electrode.canWork()) {
                 ci.cancel();
                 return;
             }
@@ -165,9 +172,9 @@ public abstract class VatBlockEntityMixin implements IHeatConsumer, VatHeatRecei
                 materialismcore$energyDrawn = 0;
             }
             if (materialismcore$energyDrawn < extras.energy()) {
-                for (ElectrodeHolderBlockEntity electrode : electrodes) {
-                    if (electrode.canOperate(self)) {
-                        materialismcore$energyDrawn += (long) electrode.getPowerUsage();
+                for (ElectricBlockEntity machine : machines) {
+                    if (((IVatMachine) machine).canOperate(self)) {
+                        materialismcore$energyDrawn += (long) machine.getPowerUsage();
                     }
                 }
             }
@@ -190,9 +197,17 @@ public abstract class VatBlockEntityMixin implements IHeatConsumer, VatHeatRecei
         materialismcore$energyDrawn = 0;
         materialismcore$meteredRecipe = null;
 
-        int wear = VatRecipeExtras.of(recipe).electrodeWear();
+        VatMachineRecipe finished = materialismcore$handledRecipe;
+        materialismcore$handledRecipe = null;
+        if (finished == null) {
+            return;
+        }
+        int wear = VatRecipeExtras.of(finished).electrodeWear();
         if (wear > 0 && ((VatBlockEntity) (Object) this).getLevel() instanceof ServerLevel level) {
-            for (ElectrodeHolderBlockEntity electrode : materialismcore$recipeElectrodes(level)) {
+            for (ElectricBlockEntity machine : materialismcore$recipeElectricMachines(level, finished)) {
+                if (!(machine instanceof ElectrodeHolderBlockEntity electrode)) {
+                    continue;
+                }
                 ItemStack stack = electrode.inventory.getStackInSlot(0).copy();
                 if (stack.isDamageableItem()) {
                     stack.hurtAndBreak(wear, level, null, item ->
@@ -203,18 +218,19 @@ public abstract class VatBlockEntityMixin implements IHeatConsumer, VatHeatRecei
         }
     }
 
-    /** The electrode holders fulfilling the current recipe, leaving out any spare ones on the vat. */
+    /** The powered machines (electrodes, freezers) fulfilling the recipe, leaving out any spare ones on the vat. */
     @Unique
-    private List<ElectrodeHolderBlockEntity> materialismcore$recipeElectrodes(Level level) {
-        List<VatOperation> required = new ArrayList<>(recipe.machines);
-        List<ElectrodeHolderBlockEntity> electrodes = new ArrayList<>();
+    private List<ElectricBlockEntity> materialismcore$recipeElectricMachines(Level level, VatMachineRecipe forRecipe) {
+        List<VatOperation> required = new ArrayList<>(forRecipe.machines);
+        List<ElectricBlockEntity> machines = new ArrayList<>();
         for (Map.Entry<BlockPos, VatOperation> machine : machineMap.entrySet()) {
             if (required.remove(machine.getValue())
-                    && level.getBlockEntity(machine.getKey()) instanceof ElectrodeHolderBlockEntity electrode) {
-                electrodes.add(electrode);
+                    && level.getBlockEntity(machine.getKey()) instanceof ElectricBlockEntity electric
+                    && electric instanceof IVatMachine) {
+                machines.add(electric);
             }
         }
-        return electrodes;
+        return machines;
     }
 
     @Inject(

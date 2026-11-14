@@ -4,6 +4,7 @@
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "ConverterBlockEntityMixin",
-    "ConverterValueBoxMixin"
+    "ConverterValueBoxMixin",
+    "ResistiveHeaterBlockEntityMixin"
   ]
 }
