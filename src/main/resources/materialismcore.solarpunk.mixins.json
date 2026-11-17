@@ -5,6 +5,11 @@
   "mixins": [
     "TurbineRotorExhaustMixin",
     "TurbineExhaustTankMixin",
-    "TurbineExhaustHandlerMixin"
+    "TurbineExhaustHandlerMixin",
+    "FermentationVatBlockEntityMixin",
+    "FermentationVatInputsMixin",
+    "FermentationVatInputTankMixin",
+    "FermentationVatOutputTankMixin",
+    "FermentationVatFluidHandlerMixin"
   ]
 }

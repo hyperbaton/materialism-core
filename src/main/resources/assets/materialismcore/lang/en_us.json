@@ -1512,5 +1512,7 @@
   "structure.materialism.tropical_woodshed": "Woodshed",
   "structure.materialism.tropical_workshop": "Workshop",
   "materialismcore.computer.battery": "Battery: %s / %s FE",
-  "materialismcore.computer.battery_empty": "Battery empty: charge it under an energiser"
+  "materialismcore.computer.battery_empty": "Battery empty: charge it under an energiser",
+  "materialismcore.jei.fermenting": "Fermentation Vat",
+  "materialismcore.jei.fermenting.time": "%s s per batch"
 }

@@ -8,6 +8,7 @@ import com.pjbhva.materialismcore.registry.ModBlocks;
 import com.pjbhva.materialismcore.registry.ModCreativeTab;
 import com.pjbhva.materialismcore.registry.ModDataComponents;
 import com.pjbhva.materialismcore.registry.ModItems;
+import com.pjbhva.materialismcore.registry.ModRecipes;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.ModList;
@@ -29,6 +30,8 @@ public class MaterialismCore {
         ModItems.ITEMS.register(modEventBus);
         ModBlockEntities.BLOCK_ENTITIES.register(modEventBus);
         ModDataComponents.DATA_COMPONENTS.register(modEventBus);
+        ModRecipes.RECIPE_TYPES.register(modEventBus);
+        ModRecipes.RECIPE_SERIALIZERS.register(modEventBus);
         ModCreativeTab.CREATIVE_TABS.register(modEventBus);
         if (ModList.get().isLoaded("create")) {
             TFCFireboxArmInteraction.register(modEventBus);
