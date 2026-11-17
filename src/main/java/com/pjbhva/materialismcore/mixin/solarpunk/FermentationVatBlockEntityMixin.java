@@ -20,6 +20,14 @@ import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
+import com.simibubi.create.foundation.utility.CreateLang;
+import net.minecraft.ChatFormatting;
+import net.minecraft.network.chat.Component;
+import net.minecraft.world.item.ItemStack;
+import net.neoforged.neoforge.fluids.FluidStack;
+
+import java.util.List;
 
 /** The fermentation vat runs materialismcore:fermenting recipes instead of its fixed biofuel and fertilizer batches. */
 @Mixin(value = FermentationVatBlockEntity.class, remap = false)
@@ -46,6 +54,50 @@ public abstract class FermentationVatBlockEntityMixin extends MultiBlockFluidBE<
     @Shadow
     private void setLit(boolean lit) {
         throw new AssertionError();
+    }
+
+    // Goggles show the running recipe's fluids, batch count and real duration
+    @Inject(method = "addToGoggleTooltip", at = @At("HEAD"), cancellable = true)
+    private void materialismcore$tooltip(List<Component> tooltip, boolean sneaking, CallbackInfoReturnable<Boolean> cir) {
+        if (!isController()) {
+            cir.setReturnValue(getControllerBE() instanceof FermentationVatBlockEntity controller
+                    && controller.addToGoggleTooltip(tooltip, sneaking));
+            return;
+        }
+        cir.setReturnValue(true);
+        CreateLang.builder().add(Component.translatable("create.solar_punk.tooltip.fermentation_vat_header")).forGoggles(tooltip);
+        if (width < Config.fermentationVatMinWidth) {
+            CreateLang.builder().add(Component.translatable("create.solar_punk.tooltip.vat_too_small")).style(ChatFormatting.RED).forGoggles(tooltip, 1);
+        }
+        if (height < Config.fermentationVatMinHeight) {
+            CreateLang.builder().add(Component.translatable("create.solar_punk.tooltip.vat_too_short")).style(ChatFormatting.RED).forGoggles(tooltip, 1);
+        }
+        int batches = Fermenting.batches(width, height);
+        ItemStack item = itemHandler.getStackInSlot(0);
+        FermentingRecipe recipe = getLevel() == null ? null : Fermenting.find(getLevel(), item, waterTank.getFluid());
+        CreateLang.builder().add(Component.translatable("materialismcore.vat.batches", batches)).style(ChatFormatting.GRAY).forGoggles(tooltip, 1);
+        if (!item.isEmpty()) {
+            CreateLang.builder().add(Component.translatable("materialismcore.vat.item", item.getHoverName(), item.getCount()))
+                    .style(ChatFormatting.GRAY).forGoggles(tooltip, 1);
+        }
+        materialismcore$tank(tooltip, "materialismcore.vat.input", waterTank);
+        materialismcore$tank(tooltip, "materialismcore.vat.output", outputTank);
+        if (recipe == null) {
+            CreateLang.builder().add(Component.translatable("materialismcore.vat.no_recipe")).style(ChatFormatting.DARK_GRAY).forGoggles(tooltip, 1);
+            return;
+        }
+        FluidStack result = recipe.result();
+        CreateLang.builder().add(Component.translatable("materialismcore.vat.makes", result.getHoverName(), result.getAmount() * batches))
+                .style(ChatFormatting.GREEN).forGoggles(tooltip, 1);
+        CreateLang.builder().add(Component.translatable("materialismcore.vat.progress", progress, recipe.processingTime()))
+                .style(ChatFormatting.YELLOW).forGoggles(tooltip, 1);
+    }
+
+    @Unique
+    private static void materialismcore$tank(List<Component> tooltip, String key, FluidTank tank) {
+        Component fluid = tank.isEmpty() ? Component.translatable("materialismcore.vat.empty") : tank.getFluid().getHoverName();
+        CreateLang.builder().add(Component.translatable(key, fluid, tank.getFluidAmount(), tank.getCapacity()))
+                .style(ChatFormatting.AQUA).forGoggles(tooltip, 1);
     }
 
     @Inject(method = "tick()V", at = @At("HEAD"), cancellable = true)
