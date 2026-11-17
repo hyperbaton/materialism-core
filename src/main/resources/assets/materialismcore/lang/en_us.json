@@ -1510,5 +1510,7 @@
   "structure.materialism.tropical_sun_blessed_house": "Sun-Blessed's House",
   "structure.materialism.tropical_tavern": "Tavern",
   "structure.materialism.tropical_woodshed": "Woodshed",
-  "structure.materialism.tropical_workshop": "Workshop"
+  "structure.materialism.tropical_workshop": "Workshop",
+  "materialismcore.computer.battery": "Battery: %s / %s FE",
+  "materialismcore.computer.battery_empty": "Battery empty: charge it under an energiser"
 }

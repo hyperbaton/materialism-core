@@ -2,6 +2,7 @@ package com.pjbhva.materialismcore;
 
 import com.pjbhva.materialismcore.block.GalvanicCellEnergyStorage;
 import com.pjbhva.materialismcore.compat.BlastFurnaceInteractionHandler;
+import com.pjbhva.materialismcore.compat.ComputerPower;
 import com.pjbhva.materialismcore.compat.TFCFireboxBoilerHeater;
 import com.pjbhva.materialismcore.compat.VatCompat;
 import com.pjbhva.materialismcore.item.FluidScannerFluidHandler;
@@ -36,6 +37,9 @@ public class ModEvents {
         }
         if (ModList.get().isLoaded("tfmg")) {
             VatCompat.registerCapabilities(event);
+        }
+        if (ModList.get().isLoaded("computercraft")) {
+            ComputerPower.registerCapabilities(event);
         }
     }
 

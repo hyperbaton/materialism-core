@@ -13,6 +13,13 @@ public final class ModConfigs {
     public static final ModConfigSpec.DoubleValue EE_WATTS_PER_TFMG_WATT;
     public static final ModConfigSpec.DoubleValue RESISTIVE_HEATER_DEGREES_PER_HEAT;
     public static final ModConfigSpec.DoubleValue RESISTIVE_HEATER_MAX_TEMPERATURE;
+    public static final ModConfigSpec.IntValue COMPUTER_ENERGY_PER_TICK;
+    public static final ModConfigSpec.IntValue ADVANCED_COMPUTER_ENERGY_PER_TICK;
+    public static final ModConfigSpec.IntValue COMPUTER_BUFFER;
+    public static final ModConfigSpec.IntValue POCKET_COMPUTER_ENERGY_PER_TICK;
+    public static final ModConfigSpec.IntValue ADVANCED_POCKET_COMPUTER_ENERGY_PER_TICK;
+    public static final ModConfigSpec.IntValue POCKET_COMPUTER_CAPACITY;
+    public static final ModConfigSpec.IntValue ADVANCED_POCKET_COMPUTER_CAPACITY;
 
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
@@ -39,6 +46,22 @@ public final class ModConfigs {
                 .defineInRange("resistiveHeaterDegreesPerHeat", 1000.0, 0.0, 10000.0);
         RESISTIVE_HEATER_MAX_TEMPERATURE = common.comment("Highest °C a resistive heater can push, the limit of its heating element")
                 .defineInRange("resistiveHeaterMaxTemperature", 1800.0, 0.0, 5000.0);
+        common.pop();
+        common.comment("ComputerCraft power: computers draw FE while on and shut down without it").push("computers");
+        COMPUTER_ENERGY_PER_TICK = common.comment("FE/t a running computer draws from its buffer")
+                .defineInRange("computerEnergyPerTick", 20, 0, 100000);
+        ADVANCED_COMPUTER_ENERGY_PER_TICK = common.comment("FE/t a running advanced computer draws from its buffer")
+                .defineInRange("advancedComputerEnergyPerTick", 40, 0, 100000);
+        COMPUTER_BUFFER = common.comment("FE a computer block can hold, filled from any FE source such as an EE converter")
+                .defineInRange("computerBuffer", 2000, 1, Integer.MAX_VALUE);
+        POCKET_COMPUTER_ENERGY_PER_TICK = common.comment("FE/t a running pocket computer draws from its battery")
+                .defineInRange("pocketComputerEnergyPerTick", 5, 0, 100000);
+        ADVANCED_POCKET_COMPUTER_ENERGY_PER_TICK = common.comment("FE/t a running advanced pocket computer draws from its battery")
+                .defineInRange("advancedPocketComputerEnergyPerTick", 10, 0, 100000);
+        POCKET_COMPUTER_CAPACITY = common.comment("FE a pocket computer battery holds; charge it under a New Age energiser")
+                .defineInRange("pocketComputerCapacity", 360000, 1, Integer.MAX_VALUE);
+        ADVANCED_POCKET_COMPUTER_CAPACITY = common.comment("FE an advanced pocket computer battery holds")
+                .defineInRange("advancedPocketComputerCapacity", 720000, 1, Integer.MAX_VALUE);
         common.pop();
         COMMON_SPEC = common.build();
     }

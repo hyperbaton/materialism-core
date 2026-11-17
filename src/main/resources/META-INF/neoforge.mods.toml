@@ -11,6 +11,9 @@ config="materialismcore.solarpunk.mixins.json"
 [[mixins]]
 config="materialismcore.electroenergetics.mixins.json"
 
+[[mixins]]
+config="materialismcore.computercraft.mixins.json"
+
 [[mods]]
 modId="${mod_id}"
 namespace="${mod_id}"
