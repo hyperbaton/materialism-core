@@ -91,6 +91,7 @@ dependencies {
     compileOnly files('libs/electroenergetics-1.21.1-1.1.4.jar')
     compileOnly files('libs/cc-tweaked-1.21.1-forge-1.120.0.jar')
     compileOnly files('libs/solarpunk-2.1.0-1.21.1.jar')
+    compileOnly files('libs/geckolib-neoforge-1.21.1-4.9.3.jar')
 }
 
 tasks.named('processResources', ProcessResources).configure {

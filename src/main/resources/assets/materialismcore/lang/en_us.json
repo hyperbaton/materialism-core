@@ -1522,5 +1522,19 @@
   "materialismcore.computer.battery": "Battery: %s / %s FE",
   "materialismcore.computer.battery_empty": "Battery empty: charge it under an energiser",
   "materialismcore.jei.fermenting": "Fermentation Vat",
-  "materialismcore.jei.fermenting.time": "%s s per batch"
+  "materialismcore.jei.fermenting.time": "%s s per batch",
+  "materialismcore.sprinkler.mode.water": "Irrigating",
+  "materialismcore.sprinkler.mode.fertilizer": "Irrigating and fertilizing",
+  "materialismcore.sprinkler.mode.rich_fertilizer": "Irrigating and fertilizing (rich)",
+  "materialismcore.sprinkler.mode.herbicide": "Spraying herbicide",
+  "materialismcore.sprinkler.idle": "Idle: needs water, fertilizer or herbicide",
+  "materialismcore.sprinkler.disabled": "Herbicide is disabled on this server",
+  "materialismcore.sprinkler.area": "Covers %s×%s blocks, up to %s below",
+  "materialismcore.sprinkler.hydration": "Farmland hydration at least %s%%",
+  "materialismcore.sprinkler.tank": "%s: %s / %s mB",
+  "materialismcore.sprinkler.overlay": "Irrigated by a sprinkler: at least %s%% hydration",
+  "materialismcore.jei.sprinkler.1": "Sprays the fluid in its tank over a square below it, reaching farmland, Firmalife planters and plants up to 5 blocks down.",
+  "materialismcore.jei.sprinkler.2": "Water irrigates: TFC farmland keeps at least 60% hydration while the sprinkler runs, and planters get water.",
+  "materialismcore.jei.sprinkler.3": "Fertilizer also irrigates and adds nitrogen and potassium. Rich fertilizer adds all three nutrients and reaches 1 block further.",
+  "materialismcore.jei.sprinkler.4": "Sodium arsenite is a herbicide: crops die, wild plants and grass are removed, and grass blocks turn to dirt."
 }

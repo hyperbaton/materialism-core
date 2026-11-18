@@ -2,6 +2,8 @@ package com.pjbhva.materialismcore;
 
 import net.neoforged.neoforge.common.ModConfigSpec;
 
+import java.util.List;
+
 public final class ModConfigs {
     public static final ModConfigSpec STARTUP_SPEC;
     public static final ModConfigSpec.IntValue COPPER_ELECTRODE_DURABILITY;
@@ -20,6 +22,17 @@ public final class ModConfigs {
     public static final ModConfigSpec.IntValue ADVANCED_POCKET_COMPUTER_ENERGY_PER_TICK;
     public static final ModConfigSpec.IntValue POCKET_COMPUTER_CAPACITY;
     public static final ModConfigSpec.IntValue ADVANCED_POCKET_COMPUTER_CAPACITY;
+    public static final ModConfigSpec.IntValue SPRINKLER_CYCLE_TICKS;
+    public static final ModConfigSpec.IntValue SPRINKLER_FLUID_PER_CYCLE;
+    public static final ModConfigSpec.IntValue SPRINKLER_RADIUS;
+    public static final ModConfigSpec.IntValue SPRINKLER_RICH_BONUS;
+    public static final ModConfigSpec.IntValue SPRINKLER_DEPTH;
+    public static final ModConfigSpec.IntValue SPRINKLER_HYDRATION_FLOOR;
+    public static final ModConfigSpec.IntValue SPRINKLER_RETENTION_TICKS;
+    public static final ModConfigSpec.DoubleValue SPRINKLER_PLANTER_WATER;
+    public static final ModConfigSpec.ConfigValue<List<? extends Double>> SPRINKLER_FERTILIZER;
+    public static final ModConfigSpec.ConfigValue<List<? extends Double>> SPRINKLER_RICH_FERTILIZER;
+    public static final ModConfigSpec.BooleanValue SPRINKLER_HERBICIDE;
 
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
@@ -62,6 +75,30 @@ public final class ModConfigs {
                 .defineInRange("pocketComputerCapacity", 360000, 1, Integer.MAX_VALUE);
         ADVANCED_POCKET_COMPUTER_CAPACITY = common.comment("FE an advanced pocket computer battery holds")
                 .defineInRange("advancedPocketComputerCapacity", 720000, 1, Integer.MAX_VALUE);
+        common.pop();
+        common.comment("Solarpunk kinetic sprinkler: irrigation, fertigation and herbicide over TFC soil").push("sprinkler");
+        SPRINKLER_CYCLE_TICKS = common.comment("Ticks between sprays")
+                .defineInRange("cycleTicks", 20, 1, 12000);
+        SPRINKLER_FLUID_PER_CYCLE = common.comment("mB sprayed per cycle, spread evenly over the covered square")
+                .defineInRange("fluidPerCycle", 60, 1, 100000);
+        SPRINKLER_RADIUS = common.comment("Horizontal radius of the covered square")
+                .defineInRange("radius", 5, 0, 16);
+        SPRINKLER_RICH_BONUS = common.comment("Extra radius with rich fertilizer")
+                .defineInRange("richFertilizerExtraRadius", 1, 0, 16);
+        SPRINKLER_DEPTH = common.comment("Blocks below the sprinkler it reaches")
+                .defineInRange("depth", 5, 1, 16);
+        SPRINKLER_HYDRATION_FLOOR = common.comment("Lowest hydration % of irrigated farmland")
+                .defineInRange("hydrationFloor", 60, 0, 100);
+        SPRINKLER_RETENTION_TICKS = common.comment("Ticks soil stays irrigated after its sprinkler stops (runs dry or switches to herbicide); unloading and sleeping never stop it")
+                .defineInRange("moistureRetentionTicks", 1200, 20, 240000);
+        SPRINKLER_PLANTER_WATER = common.comment("Water added to a Firmalife planter per cycle (a planter holds 1)")
+                .defineInRange("planterWaterPerCycle", 0.1, 0.0, 1.0);
+        SPRINKLER_FERTILIZER = common.comment("Nitrogen, phosphorus and potassium per 1000 mB of fertilizer landing on a block")
+                .defineList("fertilizerNutrients", List.of(0.8, 0.1, 0.8), () -> 0.0, o -> o instanceof Double);
+        SPRINKLER_RICH_FERTILIZER = common.comment("Nitrogen, phosphorus and potassium per 1000 mB of rich fertilizer landing on a block")
+                .defineList("richFertilizerNutrients", List.of(1.6, 1.6, 1.6), () -> 0.0, o -> o instanceof Double);
+        SPRINKLER_HERBICIDE = common.comment("Herbicide fluids (tag materialismcore:herbicides) kill crops, wild plants and grass cover")
+                .define("herbicideEnabled", true);
         common.pop();
         COMMON_SPEC = common.build();
     }

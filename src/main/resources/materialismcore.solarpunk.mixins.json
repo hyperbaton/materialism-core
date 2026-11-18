@@ -10,6 +10,9 @@
     "FermentationVatInputsMixin",
     "FermentationVatInputTankMixin",
     "FermentationVatOutputTankMixin",
-    "FermentationVatFluidHandlerMixin"
+    "FermentationVatFluidHandlerMixin",
+    "KineticSprinklerBlockEntityMixin",
+    "KineticSprinklerTankMixin",
+    "FarmlandIrrigationOverlayMixin"
   ]
 }

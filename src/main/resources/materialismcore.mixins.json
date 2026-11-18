@@ -13,7 +13,8 @@
     "VatRecipeParamsMixin",
     "SteamEngineBlockEntityMixin",
     "SmokestackBlockEntityMixin",
-    "ExhaustBlockEntityMixin"
+    "ExhaustBlockEntityMixin",
+    "FarmlandBlockMixin"
   ],
   "client": [
     "SequencedAssemblyCategoryMixin",
