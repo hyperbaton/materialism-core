@@ -5,9 +5,14 @@
   "provided_happiness": 7.4534,
   "satisfaction_threshold": 0.5,
   "frequency": 10.0,
-  "item": {
-    "item": "tfcambiental:insulated_leather_tunic"
-  },
+  "item": [
+    {
+      "tag": "textile:fur_clothes"
+    },
+    {
+      "item": "cold_sweat:goat_fur_chestplate"
+    }
+  ],
   "slot": "chest",
   "active_when": [
     {

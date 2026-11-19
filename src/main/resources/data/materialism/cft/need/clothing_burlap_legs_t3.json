@@ -6,7 +6,7 @@
   "satisfaction_threshold": 0.5,
   "frequency": 10.0,
   "item": {
-    "item": "tfcambiental:burlap_pants"
+    "item": "tfc_coldsweat:burlap_leggings"
   },
   "slot": "legs"
 }

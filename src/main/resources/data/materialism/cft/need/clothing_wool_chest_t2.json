@@ -6,7 +6,7 @@
   "satisfaction_threshold": 0.5,
   "frequency": 10.0,
   "item": {
-    "item": "tfcambiental:wool_sweater"
+    "item": "tfc_coldsweat:wool_chestplate"
   },
   "slot": "chest"
 }
